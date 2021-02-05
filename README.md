@@ -1,3 +1,5 @@
+<!-- https://github.com/ikatyang/emoji-cheat-sheet -->
+
 <p align=center>                           
   <img align=center src="https://visitor-badge.laobi.icu/badge?page_id=rdeconti.rdeconti" alt="Visitors">                     
 </p>
