@@ -22,11 +22,11 @@ I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Bra
 
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&show_icons=true)
 
-## Cursos
+## Courses
 
-| Entidade| Curso   | Data      | Situação | Link |
-| ------- | ------- | --------- | -------- | ---- |
-| Udacity |  |
+| Entity   | Course  | Date      | Status   | Link |
+| -------- | ------- | --------- | -------- | ---- |
+| Udacity  | Android Developer Nanodegree | March/2019 | Concluido :heavy_check_mark: | https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree |
 
 ## Projects
 | Origem | Projeto | Descrição | Situação | Link |
