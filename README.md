@@ -17,48 +17,37 @@ I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Bra
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 
-## Stats and Languages
+## Stats and languages
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
 
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&show_icons=true)
 
-## List of projects
+## Cursos
+
+| Entidade| Curso   | Data      | Situação | Link |
+| ------- | ------- | --------- | -------- | ---- |
+| Udacity |  |
+
+## Projects
 | Origem | Projeto | Descrição | Situação | Link |
 | ------ | ------- | --------- | -------- | ---- |
 | Alura  | Barbearia Alura| Website - Babearia Alura | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2001%20-%20Barbearia%20Alura">Link</a> |
 | Alura  | Aparecida Nutricionista| Website - Pacientes de clinica | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2002%20-%20Aparecida%20Nutricionista">Link</a> |
 | Alura  | Alura News| Website - Notícias | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2004%20-%20Not%C3%ADcias">Link</a> |
 | Alura  | Conferência Alura| Website - projeto de final de curso | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2005%20-%20Alura%20Conference">Link</a> |
-
-# PROJETOS QUE BUSQUEI NA INTERNET PARA COMPLEMENTAR O CURSO (VERSÃO 1 - Github atualizada via Upload)
-
-| Projeto | Descrição | Situação | Link |
-| --- | --- | --- | --- |
 | Caelum | MusicDot| Website - MusicDot | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2001%20-%20Musicdot">Link</a> |
 | Internet | Minute News| Website - Página fictícia de  notícias | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2002%20-%20Minute%20News">Link</a> |
 | Internet | Babies| Website - Página fictícia de produtos | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2003%20-%20Babies">Link</a> |
 | Internet | Potions| Website - Página fictícia de produtos | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2004%20-%20Potions">Link</a> |
-
-# PROJETOS QUE BUSQUEI NA INTERNET PARA COMPLEMENTAR O CURSO (VERSÃO 2 - Github atualizada via GIT)
-Utilizando: HTML5, Javascript, CSS3, NodeJs
-
-| Projeto | Descrição | Situação | Link |
-| --- | --- | --- | --- |
 | Caelum | MusicDot| Website - MusicDot | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-MusicDot">Link</a> |
 | Internet | Minute News| Website - Página fictícia de  notícias | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Minute-News">Link</a> |
 | Internet | Babies| Website - Página fictícia de produtos | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Bennu-Babies">Link</a> |
 | Internet | Potions| Website - Página fictícia de produtos | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Merlins-Potions">Link</a> |
-
-# PROJETOS EXECUTADOS DURANTE O CURSO
-
-| Projeto | Descrição | Situação | Link |
-| --- | --- | --- | --- |
 | Udacity | Bake House| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Link</a> |
 | Udacity | Elegant Reader| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Link</a> |
 | Udacity | Find Movies| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Link</a> |
 | Udacity | Quick Jokes| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Link</a> |
 | Udacity | Best Meal| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Link</a> |
-
 
 ## Languages and Tools
 [<code>
