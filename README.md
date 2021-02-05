@@ -5,50 +5,16 @@
 # Hi, I'm Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Brazil
 
-# Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rdeconti/)
+# Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
 
-
-[website]: https://sabesansathananthan.now.sh
-[linkedin]: https://www.linkedin.com/in/sabesan96
-[medium]: https://sabesan96.medium.com/
-[stackoverflow]: https://stackoverflow.com/users/8629258/sathananthan-sabesan
-[dev]: https://dev.to/thesabesan
-[gmail]: mailto:sabesan996@gmail.com
-[quora]: https://www.quora.com/profile/Sathananthan-Sabesan
-[whatsapp]: https://wa.me/94770711017
-[telegram]: https://telegram.me/TheSabesan
-[twitter]: https://twitter.com/TheSabesan
-[skype]: https://join.skype.com/invite/hGgVYFnMnx1x
-[facebook]: https://www.facebook.com/sathananthan.sabesan
-[messenger]: https://www.messenger.com/t/sathananthan.sabesan
-[instagram]: https://www.instagram.com/s_sabesan
-[flipboard]: https://flipboard.com/@TheSabesan
-
-https://img.shields.io/github/followers/rdeconti?label=Followers&style=social
-
-# My Projects
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--   ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
-
+## Activities
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack and Machine Learning
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play chess and listen music.
-
 
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
 
@@ -157,51 +123,3 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github-readme-stats.rdeconti.vercel.app/api/top-langs/?username=rdeconti&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.rdeconti.vercel.app/api/top-langs/?username=rdeconti&layout=compact&theme=radical" />
 </a>
-
-
-
-
-
-
-
-
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-[<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Sabesan | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
-[<img align="left" alt="Sabesan | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />][stackoverflow]
-[<img align="left" alt="Sabesan | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
-[<img align="left" alt="Sabesan | Quora" height="22px" src="./SocialLogo/Quora.png" />][quora]
-[<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="Sabesan | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Sabesan | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
-[<img align="left" alt="Sabesan | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Sabesan | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
-[<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Sabesan | Flipboard" height="22px" src="./SocialLogo/Flipboard.png" />][flipboard]
-
-<br />
-
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
-</p>
-
----
-
-### Languages and Tools:
-
-
-
----
-
-
-
----
-
-
-
----
-
-
