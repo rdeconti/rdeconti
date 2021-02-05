@@ -6,8 +6,8 @@
 I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Brazil
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
 
 ## Activities
 - 🔭 I’m currently working on a my final year project!
@@ -16,9 +16,16 @@ I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Bra
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play chess and listen music.
 
+## Stats
+
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
 
+![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&show_icons=true)
+
 ## Languages and Tools
+
+
+
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -92,11 +99,3 @@ I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Bra
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
-
-<a href="https://github-readme-stats.rdeconti.vercel.app/api?username=rdeconti&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-  
-<img align="center" alt="rdeconti's Github Stats" src="https://github-readme-stats.rdeconti.vercel.app/api?username=rdeconti&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
-<a href="https://github-readme-stats.rdeconti.vercel.app/api/top-langs/?username=rdeconti&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.rdeconti.vercel.app/api/top-langs/?username=rdeconti&layout=compact&theme=radical" />
-</a>
