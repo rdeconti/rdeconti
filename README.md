@@ -1,11 +1,13 @@
-### Hi there 👋
-
 # Hi, I'm Rosemeire Deconti!
-I'm a {backend, frontend and mobile} developer.
+I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Brazil
 
 # How to reach me 📫
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rdeconti/)
+
+https://img.shields.io/github/followers/rdeconti?label=Followers&style=social
+
+# My Projects
 
 Here are some ideas to get you started:
 
