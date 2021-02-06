@@ -53,13 +53,17 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 | Alura  | Alura Typer | Game |  Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Typer">Link</a>| 
 | Alura  | Conferência Alura| Website| Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Conference">Link</a> |
 
-## Projetos obtidos de desafios encontrados na internet e desenvolvidos para consolidar conhecimentos
+## Desafios encontrados na internet
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
 | Caelum | MusicDot| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-MusicDot">Link</a> |
 | Internet | Minute News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Minute-News">Link</a> |
 | Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Bennu-Babies">Link</a> |
 | Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Merlins-Potions">Link</a> |
+
+## Projetos desenvolvidos para ampliar conhecimentos
+| Origem | Nome | Descrição | Situação | Detalhes |
+| ------ | ---- | ----------- | ------ | ------- |
 | Alura | ByteBank | Website | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a> |
 
 ## Projetos do curso Udacity
