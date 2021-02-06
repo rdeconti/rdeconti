@@ -47,10 +47,11 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 ## Projetos do curso Alura / Oracle Next One
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| Alura  | Barbearia Alura | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2001%20-%20Barbearia%20Alura">Link</a> |
-| Alura  | Aparecida Nutricionista | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2002%20-%20Aparecida%20Nutricionista">Link</a> |
-| Alura  | Alura News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2004%20-%20Not%C3%ADcias">Link</a> |
-| Alura  | Conferência Alura| Website| Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2005%20-%20Alura%20Conference">Link</a> |
+| Alura  | Barbearia Alura | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Barbearia-Alura">Link</a> |
+| Alura  | Aparecida Nutricionista | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Aparecida-Nutricionista">Link</a> |
+| Alura  | Alura News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-News">Link</a> |
+| Alura  | Alura Typer | Game |  Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Typer">Link</a>| 
+| Alura  | Conferência Alura| Website| Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Conference">Link</a> |
 
 ## Projetos obtidos de desafios encontrados na internet e desenvolvidos para consolidar conhecimentos
 | Origem | Nome | Descrição | Situação | Detalhes |
