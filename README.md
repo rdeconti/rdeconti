@@ -12,10 +12,20 @@ I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Bra
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
 
 ## Activities
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
+
+  ### :technologist: I'm currently working on:
+  - Projects on Bootcamps
+  - My React, Express, and Node skills
+  - Contribute more to Open Source projects and Learn and write about new technologies.
+
+  ### :nerd_face: I'm currently learning:
+  - React, Java, Ruby
+
+  ### :thinking: I want to learn:
+  - Next.js, GraphQL, TypeScript
+
+  ### Outside of coding I enjoy:
+  - Sci-fi movies/tv shows :vulcan_salute:
 
 ## Stats and languages
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
