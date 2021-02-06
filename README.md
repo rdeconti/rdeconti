@@ -37,15 +37,15 @@ Eu sou uma autodidata apaixonada por desenvolvimento {Full Stack Web e Mobile} v
 
 ## Cursos
 
-| Entity   | Course  | Date      | Status   | Details |
+| Entidade | Curso | Data | Situação | Detalhes |
 | -------- | ------- | --------- | -------- | ------- |
 | Udacity  | Android Developer Nanodegree | March/2019 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
 
 ## Projetos
-| Origin | Name | Description | Status | Details |
+| Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| Alura  | Barbearia Alura | Barber Shop Alura Website  | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2001%20-%20Barbearia%20Alura">Link</a> |
-| Alura  | Aparecida Nutricionista | Aparecida Nutritionist Website | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2002%20-%20Aparecida%20Nutricionista">Link</a> |
+| Alura  | Barbearia Alura | Website | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2001%20-%20Barbearia%20Alura">Link</a> |
+| Alura  | Aparecida Nutricionista | Website | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2002%20-%20Aparecida%20Nutricionista">Link</a> |
 
 
 
