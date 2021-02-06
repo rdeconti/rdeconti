@@ -39,25 +39,27 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 
 | Entidade | Curso | Data | Situação | Detalhes |
 | -------- | ------- | --------- | -------- | ------- |
-| Udacity  | Android Developer Nanodegree | Março / 2019 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
-| Alura    | Oracle Next Education | Fevereiro / 2021 | Completed :heavy_check_mark: | <a href="https://https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
+| Udacity | Android Developer Nanodegree | Março/2019 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
+| Alura | Oracle Next Education | Fevereiro/2021 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
 
-## Projetos
+## Projetos (Alura / Oracle Next One)
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
 | Alura  | Barbearia Alura | Website | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2001%20-%20Barbearia%20Alura">Link</a> |
 | Alura  | Aparecida Nutricionista | Website | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2002%20-%20Aparecida%20Nutricionista">Link</a> |
+| Alura  | Alura News| Website | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2004%20-%20Not%C3%ADcias">Link</a> |
+| Alura  | Conferência Alura| Website| Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2005%20-%20Alura%20Conference">Link</a> |
+
+## Projetos (Alura / Oracle Next One - Obtidos de desafios encontrados na internet e desenvolvidos para consolidar conhecimentos)
+| Origem | Nome | Descrição | Situação | Detalhes |
+| ------ | ---- | ----------- | ------ | ------- |
+| Caelum | MusicDot| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2001%20-%20Musicdot">Link</a> |
+| Internet | Minute News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2002%20-%20Minute%20News">Link</a> |
+| Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2003%20-%20Babies">Link</a> |
+| Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2004%20-%20Potions">Link</a> |
+| Alura | ByteBank | Website | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a> |
 
 
-
-
-
-| Alura  | Alura News| Website - Notícias | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2004%20-%20Not%C3%ADcias">Link</a> |
-| Alura  | Conferência Alura| Website - projeto de final de curso | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2005%20-%20Alura%20Conference">Link</a> |
-| Caelum | MusicDot| Website - MusicDot | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2001%20-%20Musicdot">Link</a> |
-| Internet | Minute News| Website - Página fictícia de  notícias | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2002%20-%20Minute%20News">Link</a> |
-| Internet | Babies| Website - Página fictícia de produtos | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2003%20-%20Babies">Link</a> |
-| Internet | Potions| Website - Página fictícia de produtos | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2004%20-%20Potions">Link</a> |
 | Caelum | MusicDot| Website - MusicDot | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-MusicDot">Link</a> |
 | Internet | Minute News| Website - Página fictícia de  notícias | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Minute-News">Link</a> |
 | Internet | Babies| Website - Página fictícia de produtos | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Bennu-Babies">Link</a> |
