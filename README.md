@@ -43,7 +43,7 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 | Alura | Oracle Next Education | Fevereiro/2021 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
 | Udemy | Desenvolvimento Android Aprenda Criando Apps | Fevereiro/2020 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udemy-Desenvolvimento-Android-Aprenda-Criando-Apps">Link</a> |
 
-## Projetos (Alura / Oracle Next One)
+## Projetos do curso Alura / Oracle Next One
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
 | Alura  | Barbearia Alura | Website | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2001%20-%20Barbearia%20Alura">Link</a> |
@@ -51,25 +51,21 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 | Alura  | Alura News| Website | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2004%20-%20Not%C3%ADcias">Link</a> |
 | Alura  | Conferência Alura| Website| Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2005%20-%20Alura%20Conference">Link</a> |
 
-## Projetos (Alura / Oracle Next One - Obtidos de desafios encontrados na internet e desenvolvidos para consolidar conhecimentos)
+## Projetos obtidos de desafios encontrados na internet e desenvolvidos para consolidar conhecimentos
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| Caelum | MusicDot| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2001%20-%20Musicdot">Link</a> |
-| Internet | Minute News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2002%20-%20Minute%20News">Link</a> |
-| Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2003%20-%20Babies">Link</a> |
-| Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2004%20-%20Potions">Link</a> |
+| Caelum | MusicDot| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-MusicDot">Link</a> |
+| Internet | Minute News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Minute-News">Link</a> |
+| Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Bennu-Babies">Link</a> |
+| Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Merlins-Potions">Link</a> |
 | Alura | ByteBank | Website | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a> |
 
-
-| Caelum | MusicDot| Website - MusicDot | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-MusicDot">Link</a> |
-| Internet | Minute News| Website - Página fictícia de  notícias | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Minute-News">Link</a> |
-| Internet | Babies| Website - Página fictícia de produtos | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Bennu-Babies">Link</a> |
-| Internet | Potions| Website - Página fictícia de produtos | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Merlins-Potions">Link</a> |
-| Udacity | Bake House| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Link</a> |
-| Udacity | Elegant Reader| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Link</a> |
-| Udacity | Find Movies| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Link</a> |
-| Udacity | Quick Jokes| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Link</a> |
-| Udacity | Best Meal| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Link</a> |
+## Projetos do curso Udacity
+| Udacity | Bake House| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Link</a> |
+| Udacity | Elegant Reader| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Link</a> |
+| Udacity | Find Movies| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Link</a> |
+| Udacity | Quick Jokes| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Link</a> |
+| Udacity | Best Meal| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Link</a> |
 
 ## Linguages e ferramentas
 [<code>
