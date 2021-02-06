@@ -4,41 +4,44 @@
   <img align=center src="https://visitor-badge.laobi.icu/badge?page_id=rdeconti.rdeconti" alt="Visitors">                     
 </p>
 
-# Hi, I'm Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Brazil
+# Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+Eu sou uma autodidata apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo no Brazil
 
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+## Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
 
-## Activities
+## Atividades
 
-  ### :technologist: I'm currently working on:
-  - Projects on Bootcamps
-  - My React, Express, and Node skills
-  - Contribute more to Open Source projects and Learn and write about new technologies.
+  ### :technologist: Atualmente estou trabalhando em: 
+  - Projetos nos Bootcamps que estou inscrita
+  - Novos "hard skills"
+  - Contribuir para projetos de código aberto
 
-  ### :nerd_face: I'm currently learning:
+  ### :nerd_face: Atualmente estou aprendendo:
   - React, Java, Ruby
 
-  ### :thinking: I want to learn:
+  ### :thinking: Eu quero aprender:
   - Next.js, GraphQL, TypeScript
 
-  ### Outside of coding I enjoy:
-  - Sci-fi movies/tv shows :vulcan_salute:
+  ### Fora do desenvolvimento, eu gosto de:
+  - Filmes de ficção científica
+  - Cozinhar
+  - Arrumar a casa
+  - Ler
 
-## Stats and languages
+## Estatísticas e linguages
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
 
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&show_icons=true)
 
-## Courses
+## Cursos
 
 | Entity   | Course  | Date      | Status   | Details |
 | -------- | ------- | --------- | -------- | ------- |
 | Udacity  | Android Developer Nanodegree | March/2019 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
 
-## Projects
+## Projetos
 | Origin | Name | Description | Status | Details |
 | ------ | ---- | ----------- | ------ | ------- |
 | Alura  | Barbearia Alura | Barber Shop Alura Website  | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2001%20-%20Barbearia%20Alura">Link</a> |
@@ -64,7 +67,7 @@ I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Bra
 | Udacity | Quick Jokes| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Link</a> |
 | Udacity | Best Meal| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Link</a> |
 
-## Languages and Tools
+## Linguages e ferramentas
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
