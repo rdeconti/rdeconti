@@ -5,7 +5,7 @@
 </p>
 
 # Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-Eu sou uma autodidata apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo no Brazil
+Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brazil trabalhando remotamente e aberta a novas oportunidades!
 
 ## Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
@@ -39,7 +39,8 @@ Eu sou uma autodidata apaixonada por desenvolvimento {Full Stack Web e Mobile} v
 
 | Entidade | Curso | Data | Situação | Detalhes |
 | -------- | ------- | --------- | -------- | ------- |
-| Udacity  | Android Developer Nanodegree | March/2019 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
+| Udacity  | Android Developer Nanodegree | Março / 2019 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
+| Alura    | Oracle Next Education | Fevereiro / 2021 | Completed :heavy_check_mark: | <a href="https://https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
 
 ## Projetos
 | Origem | Nome | Descrição | Situação | Detalhes |
