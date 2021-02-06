@@ -34,15 +34,20 @@ I'm a passionate self-taught {Full Stack Web and mobile} developer 🚀 from Bra
 
 ## Courses
 
-| Entity   | Course  | Date      | Status   | Link |
-| -------- | ------- | --------- | -------- | ---- |
-| Udacity  | Android Developer Nanodegree | March/2019 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree /> |
+| Entity   | Course  | Date      | Status   | Details |
+| -------- | ------- | --------- | -------- | ------- |
+| Udacity  | Android Developer Nanodegree | March/2019 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
 
 ## Projects
-| Origem | Projeto | Descrição | Situação | Link |
-| ------ | ------- | --------- | -------- | ---- |
-| Alura  | Barbearia Alura| Website - Babearia Alura | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2001%20-%20Barbearia%20Alura">Link</a> |
-| Alura  | Aparecida Nutricionista| Website - Pacientes de clinica | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2002%20-%20Aparecida%20Nutricionista">Link</a> |
+| Origin | Name | Description | Status | Details |
+| ------ | ---- | ----------- | ------ | ------- |
+| Alura  | Barbearia Alura | Barber Shop Alura Website  | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2001%20-%20Barbearia%20Alura">Link</a> |
+| Alura  | Aparecida Nutricionista | Aparecida Nutritionist Website | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2002%20-%20Aparecida%20Nutricionista">Link</a> |
+
+
+
+
+
 | Alura  | Alura News| Website - Notícias | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2004%20-%20Not%C3%ADcias">Link</a> |
 | Alura  | Conferência Alura| Website - projeto de final de curso | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%2005%20-%20Alura%20Conference">Link</a> |
 | Caelum | MusicDot| Website - MusicDot | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura/tree/main/Projeto%20Extra%2001%20-%20Musicdot">Link</a> |
