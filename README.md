@@ -41,6 +41,7 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 | -------- | ------- | --------- | -------- | ------- |
 | Udacity | Android Developer Nanodegree | Março/2019 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
 | Alura | Oracle Next Education | Fevereiro/2021 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
+| Udemy | Desenvolvimento Android Aprenda Criando Apps | Fevereiro/2020 | Completed :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udemy-Desenvolvimento-Android-Aprenda-Criando-Apps">Link</a> |
 
 ## Projetos (Alura / Oracle Next One)
 | Origem | Nome | Descrição | Situação | Detalhes |
