@@ -26,7 +26,13 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
   - ReactJs
 
   ### :thinking: Eu quero aprender:
-  - Next.js, GraphQL, TypeScript
+  - Phython
+  - Scrum
+  - Angular
+  - Vue.Js
+  - Node.Js
+  - Php
+  - Flutter
 
   ### Fora do desenvolvimento, eu gosto de:
   - Cinema e melhor ainda filmes de ficção científica
