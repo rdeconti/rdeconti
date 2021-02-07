@@ -14,21 +14,26 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 ## Atividades
 
   ### :technologist: Atualmente estou trabalhando em: 
-  - Projetos nos Bootcamps que estou inscrita
-  - Novos "hard skills"
+  - Projetos dos Bootcamps nos quais estou inscrita
+  - Desenvolver novos "hard skills"
+  - Desenvolver meus "soft skills"
   - Contribuir para projetos de código aberto
 
   ### :nerd_face: Atualmente estou aprendendo:
-  - React, Java, Ruby
+  - .Net 
+  - C#
+  - Ruby
+  - ReactJs
 
   ### :thinking: Eu quero aprender:
   - Next.js, GraphQL, TypeScript
 
   ### Fora do desenvolvimento, eu gosto de:
-  - Filmes de ficção científica
+  - Cinema e melhor ainda filmes de ficção científica
   - Cozinhar
   - Arrumar a casa
   - Ler
+  - Viajar
 
 ## Estatísticas e linguages
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
