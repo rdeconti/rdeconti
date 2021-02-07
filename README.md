@@ -53,7 +53,8 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 | Udacity | Android Developer Nanodegree | Março/2019 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
 | Udemy | Desenvolvimento Android Aprenda Criando Apps | Fevereiro/2020 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udemy-Desenvolvimento-Android-Aprenda-Criando-Apps">Link</a> |
 | Alura | Oracle Next Education | Fevereiro/2021 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
-| Digital Innovation One | Em aberto | Em andamento :warning: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
+| Digital Innovation One | Impulso FullStack Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Impulso-FullStack-Developer">Link</a> |
+| Digital Innovation One | MRV .NET Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Developer">Link</a> |
 
 
 ## Projetos do curso Alura / Oracle Next One
