@@ -1,5 +1,5 @@
 <!-- https://emojipedia.org/ -->
-:spiral_calendar: Atualizado em 10 Fevereiro2021 :heart:
+:spiral_calendar: Atualizado em 10 Fevereiro de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -44,7 +44,7 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 
       Banco de Dados | Programação |   ETL   | Outros
       -------------- | ----------- | --------| ------
-      MySQL          | Html        | Talend  | SAP
+      MySQL          | Html        | Talend  | SAP QM/PP/PM/PS/DMS/WORKFLOW
       Firebase       | Css         | Pentaho | Git
                      | Javascript  |         | Microsoft Office
                      | Jquery      |         | Cobol 
