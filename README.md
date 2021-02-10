@@ -4,6 +4,8 @@
   <img align=center src="https://visitor-badge.laobi.icu/badge?page_id=rdeconti.rdeconti" alt="Visitors">                     
 </p>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 # Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brazil trabalhando remotamente e aberta a novas oportunidades!
 
