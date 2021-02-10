@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brazil :brazil: trabalhando remotamente e aberta a novas oportunidades! :earth_americas:
+Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brasil e trabalhando remotamente.Aberta a novas oportunidades! :earth_americas:
 
 ## Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
@@ -13,10 +13,10 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 ## Atividades
 
   ### :woman_technologist: Atualmente estou trabalhando em: 
-  - Projetos dos Bootcamps nos quais estou inscrita
-  - Desenvolver novos "hard skills"
-  - Desenvolver meus "soft skills"
-  - Contribuir para projetos de código aberto
+  <p> :heavy_check_mark: Projetos dos Bootcamps nos quais estou inscrita </p>
+  <p> :heavy_check_mark: Desenvolver novos "hard skills" </p>
+  <p> :heavy_check_mark: Desenvolver meus "soft skills" </p>
+  <p> :heavy_check_mark: Contribuir para projetos de código aberto </p>
 
   ### :nerd_face: Atualmente estou aprendendo:
   - .Net 
@@ -34,12 +34,12 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
   - Flutter
 
   ### Fora do desenvolvimento, eu gosto de:
-  - Cinema
-  - Cozinhar
-  - Arrumar a casa
-  - Ler
-  - Viajar
-  - Caminhar
+  - :cinema: Cinema
+  - :woman_cook: Cozinhar
+  - :house: Minha casa
+  - :blue_book: Ler
+  - :airplane: Viajar
+  - :walking_woman: Caminhar
   
   ### Conhecimentos
 
