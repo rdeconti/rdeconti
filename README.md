@@ -6,17 +6,15 @@
 # Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brasil e trabalhando remotamente.Aberta a novas oportunidades! :earth_americas:
 
-## Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+## :link: Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
 
 ## Atividades
 
   ### :woman_technologist: Atualmente estou trabalhando em: 
-  <p> :heavy_check_mark: Projetos dos Bootcamps nos quais estou inscrita </p>
-  <p> :heavy_check_mark: Desenvolver novos "hard skills" </p>
-  <p> :heavy_check_mark: Desenvolver meus "soft skills" </p>
-  <p> :heavy_check_mark: Contribuir para projetos de código aberto </p>
+  - Projetos dos Bootcamps nos quais estou inscrita
+  - Contribuir para projetos de código aberto
 
   ### :nerd_face: Atualmente estou aprendendo:
   - .Net 
@@ -32,8 +30,9 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
   - Node.Js
   - Php
   - Flutter
+  - Scrum
 
-  ### Fora do desenvolvimento, eu gosto de:
+  ### :heart: Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
   - :woman_cook: Cozinhar
   - :house: Minha casa
@@ -41,15 +40,15 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
   - :airplane: Viajar
   - :walking_woman: Caminhar
   
-  ### Conhecimentos
+  ### :infinity: Conhecimentos
 
-      Banco de Dados | Programação |   ETL   | Visualização de Dados | Outros
-      -------------- | ----------- | --------| --------------------- | ------
-      PostgreSQL     | Python      | Talend  | Tableau               | SAP
-      MySQL          | R           | Pentaho | Lumira                | Sienge ERP
-      Firebird       | SQL         |         | QlikView              | Nydus RH
-      SQLite         |             |         | PowerBI               | Git
-      |||||LaTeX
+      Banco de Dados | Programação |   ETL   | Outros
+      -------------- | ----------- | --------| ------
+      MySQL          | Html        | Talend  | SAP
+      Firebase       | Css         | Pentaho | Git
+                     | Javascript  |         | Microsoft Office
+                     | Jquery      |         | Cobol 
+      |||
 
 ## Estatísticas e linguages
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
