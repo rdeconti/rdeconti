@@ -35,11 +35,22 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
   - Flutter
 
   ### Fora do desenvolvimento, eu gosto de:
-  - Cinema e melhor ainda filmes de ficção científica
+  - Cinema
   - Cozinhar
   - Arrumar a casa
   - Ler
   - Viajar
+  - Caminhar
+  
+  ### Conhecimentos
+
+      Banco de Dados | Programação |   ETL   | Visualização de Dados | Outros
+      -------------- | ----------- | --------| --------------------- | ------
+      PostgreSQL     | Python      | Talend  | Tableau               | SAP
+      MySQL          | R           | Pentaho | Lumira                | Sienge ERP
+      Firebird       | SQL         |         | QlikView              | Nydus RH
+      SQLite         |             |         | PowerBI               | Git
+      |||||LaTeX
 
 ## Estatísticas e linguages
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
