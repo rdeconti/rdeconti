@@ -1,8 +1,5 @@
-<!-- https://github.com/ikatyang/emoji-cheat-sheet -->
-
-<p align=center>                           
-  <img align=center src="https://visitor-badge.laobi.icu/badge?page_id=rdeconti.rdeconti" alt="Visitors">                     
-</p>
+<!-- https://emojipedia.org/ -->
+:spiral_calendar: Atualizado em 10 Fevereiro2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -15,7 +12,7 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 
 ## Atividades
 
-  ### :technologist: Atualmente estou trabalhando em: 
+  ### :woman_technologist: Atualmente estou trabalhando em: 
   - Projetos dos Bootcamps nos quais estou inscrita
   - Desenvolver novos "hard skills"
   - Desenvolver meus "soft skills"
