@@ -30,7 +30,6 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
   - Node.Js
   - Php
   - Flutter
-  - Scrum
 
   ### :heart: Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
@@ -44,11 +43,11 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 
       | Banco de Dados | Programação | Outros                        |
       | -------------- | ----------- | ----------------------------- |
-      | MySQL          | Html        | SAP QM/PP/PM/PS/DMS/WORKFLOW
-      | Firebase       | Css         | Git
-      |                | Javascript  | Microsoft Office
-      |                | Jquery      | Cobol
-      |                | Ajax        | Fotran
+      | MySQL          | Html        | SAP QM/PP/PM/PS/DMS/WORKFLOW  |
+      | Firebase       | Css         | Git |
+      | SqLite         | Javascript  | Microsoft Office |
+      |                | Jquery      | Cobol, Fortran, CICS, Vsam |
+      |                | Ajax        | |
 
 ## Estatísticas e linguages
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
