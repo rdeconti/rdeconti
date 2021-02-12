@@ -66,7 +66,7 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 ## Projetos do Bootcamp - MRV .NET Developer
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| Digital Innovation One | Aplicação CRUD em memória | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Barbearia-Alura">Link</a> |
+| Digital Innovation One | Aplicação CRUD em memória | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
 
 ## Projetos do curso Alura / Oracle Next One
 | Origem | Nome | Descrição | Situação | Detalhes |
