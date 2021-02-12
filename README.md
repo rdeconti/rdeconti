@@ -42,13 +42,13 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
   
   ### :infinity: Conhecimentos
 
-      Banco de Dados | Programação |   ETL   | Outros
-      -------------- | ----------- | --------| ------
-      MySQL          | Html        | Talend  | SAP QM/PP/PM/PS/DMS/WORKFLOW
-      Firebase       | Css         | Pentaho | Git
-                     | Javascript  |         | Microsoft Office
-                     | Jquery      |         | Cobol 
-      |||
+      | Banco de Dados | Programação | Outros                        |
+      | -------------- | ----------- | ----------------------------- |
+      | MySQL          | Html        | SAP QM/PP/PM/PS/DMS/WORKFLOW
+      | Firebase       | Css         | Git
+      |                | Javascript  | Microsoft Office
+      |                | Jquery      | Cobol
+      |                | Ajax        | Fotran
 
 ## Estatísticas e linguages
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
@@ -56,15 +56,18 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&show_icons=true)
 
 ## Cursos
-
 | Entidade | Curso | Data | Situação | Detalhes |
 | -------- | ------- | --------- | -------- | ------- |
 | Udacity | Android Developer Nanodegree | Março/2019 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
 | Udemy | Desenvolvimento Android Aprenda Criando Apps | Fevereiro/2020 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udemy-Desenvolvimento-Android-Aprenda-Criando-Apps">Link</a> |
 | Alura | Oracle Next Education | Fevereiro/2021 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
-| Digital Innovation One | Bootcmap - Impulso FullStack Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Impulso-FullStack-Developer">Link</a> |
-| Digital Innovation One | Bootcmap - MRV .NET Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Developer">Link</a> |
+| Digital Innovation One | Bootcamp - Impulso FullStack Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Impulso-FullStack-Developer">Link</a> |
+| Digital Innovation One | Bootcamp - MRV .NET Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Developer">Link</a> |
 
+## Projetos do Bootcamp - MRV .NET Developer
+| Origem | Nome | Descrição | Situação | Detalhes |
+| ------ | ---- | ----------- | ------ | ------- |
+| Digital Innovation One | Aplicação CRUD em memória | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Barbearia-Alura">Link</a> |
 
 ## Projetos do curso Alura / Oracle Next One
 | Origem | Nome | Descrição | Situação | Detalhes |
@@ -85,7 +88,7 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 
 ## Projetos desenvolvidos para ampliar conhecimentos
 | Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | ----------- | ------ | ------- |
+| ------ | ---- | --------- | -------- | -------- |
 | Alura | ByteBank | Website | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a> |
 
 ## Projetos do curso Udacity
