@@ -1,5 +1,5 @@
 <!-- https://emojipedia.org/ -->
-:spiral_calendar: Atualizado em 10 Fevereiro de 2021 :heart:
+:spiral_calendar: Atualizado em 13 Fevereiro de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
