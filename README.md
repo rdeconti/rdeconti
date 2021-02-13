@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brasil e trabalhando remotamente.Aberta a novas oportunidades! :earth_americas:
+Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brasil e trabalhando remotamente. Aberta a novas oportunidades!
 
 ## :link: Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
@@ -41,13 +41,13 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
   
   ### :infinity: Conhecimentos
 
-      | Banco de Dados | Programação | Outros                        |
-      | -------------- | ----------- | ----------------------------- |
-      | MySQL          | Html        | SAP QM/PP/PM/PS/DMS/WORKFLOW  |
-      | Firebase       | Css         | Git |
-      | SqLite         | Javascript  | Microsoft Office |
-      |                | Jquery      | Cobol, Fortran, CICS, Vsam |
-      |                | Ajax        | |
+      | Banco de Dados | Programação | Outros                        | Ide / Editores     |
+      | -------------- | ----------- | ----------------------------- | ------------------ |
+      | MySQL          | Html        | SAP QM/PP/PM/PS/DMS/WORKFLOW  | Visual Studio      |
+      | Firebase       | Css         | Git                           | Android Studio     |
+      | SqLite         | Javascript  | Microsoft Office              | Visual Code Studio |
+      |                | Jquery      | Cobol, Fortran, CICS, Vsam    | Atom               |
+      |                | Ajax        |                               | Sublime Text       |
 
 ## Estatísticas e linguages
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
