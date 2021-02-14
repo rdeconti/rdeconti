@@ -21,31 +21,28 @@
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
   - Para atingir este objetivo tenho este planejamento
   
-  | Front-End     | Back-End    | Database        | DevOps          | Mobile App | Outros |
-  | ------------- | ----------- | --------------- | ------          | ---------- | ------ |
-  | Basics        | Technology  | RDBMS           | Infrastructure  | Mobile APP 
-  | - HTML        | - PHP       | - MSSQL         | - NGINX         | Android
-  | - CSS         | - Node      | - MySql         | - AWS           | - Java
-  | - Javascript  | - Ruby      | - Postgress     | - Azure         | - SDK
-  | Frameworks    | - Java      | NoSQL           | - ELK           | IOS
-  | - React       | - ASP.NET   | - Mongo         | Automation      | - Obective C
-  | - Vue         | - Redis     | - Casandra      | - Asible        | - Swift
-  | - Angular     |             | - CouchDB       | - Chef          | Cross Plataform
-  | - Webpack     |             | - Elasticsearch | - Jenkins       | - React Native
-  | Styles        |             | Graph           | Virtualization  | - Ionic
-  | - Bootstrap   |             | - Neo4j         | - Docker        | - PWA
-  | - Material UI |             | - ArangoDB      | - Bladecenter   | - Xamarin
-  |               |             | MessageQueues   | - Kubernetes    | - Unity
-  |               |             | - Kafka         | - Vagrant       |
-  |               |             | - SQS           | - VMWare        |
-  |               |             | - ZeroMQ        | 
-  |               |             | - RabbitMQ      | 
-  |               |             |                 | 
-  |               |             |                 | 
-  |               |             |                 | 
-  |               |             |                 | 
-                  
-  | ------------- | ----------- | -------- | ------ | ---------- | ------ |
+  | --------------- | --------------- | ----------------- | ------------------- | ------------------- | -------------- |
+  | **Front-End     | Back-End        | Database          | DevOps              | Mobile App          | Adicionais**   |
+  | -------------   | --------------- | ----------------- | ------------------- | ------------------- | -------------- |
+  | **Basics**      | **Technology**  | **RDBMS**         | **Infrastructure**  | **Android**         |                | 
+  | - HTML          | - PHP           | - MSSQL           | - NGINX             | - Java              |                |
+  | - CSS           | - Node          | - MySql           | - AWS               | - SDK               |                |
+  | - Javascript    | - Ruby          | - Postgress       | - Azure             |                     |                |
+  | **Frameworks**  | - Java          | **NoSQL**         | - ELK               | **IOS**             |                |
+  | - React         | - ASP.NET       | - Mongo           | **Automation**      | - Obective C        |                |
+  | - Vue           | - Redis         | - Casandra        | - Asible            | - Swift             |                |
+  | - Angular       |                 | - CouchDB         | - Chef              | **Cross Plataform** |                |
+  | - Webpack       |                 | - Elasticsearch   | - Jenkins           | - React Native      |                |
+  | **Styles**      |                 | **Graph**         | **Virtualization**  | - Ionic             |                |
+  | - Bootstrap     |                 | - Neo4j           | - Docker            | - PWA               |                |
+  | - Material UI   |                 | - ArangoDB        | - Bladecenter       | - Xamarin           |                |
+  |                 |                 | **MessageQueues** | - Kubernetes        | - Unity             |                |
+  |                 |                 | - Kafka           | - Vagrant           |                     |                |
+  |                 |                 | - SQS             | - VMWare            |                     |                |
+  |                 |                 | - ZeroMQ          |                     |                     |                |
+  |                 |                 | - RabbitMQ        |                     |                     |                | 
+  |                 |                 |                   |                     |                     |                |
+  | --------------- | --------------- | ----------------- | ------------------- | ------------------- | -------------- |
  
   ### :heart: Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
