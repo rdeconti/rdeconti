@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-- Autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} 
+- Autodidata e apaixonada por desenvolvimento
 - Vivendo atualmente no Brasil e trabalhando remotamente. 
 - Aberta a novas oportunidades de trabalho!
 
@@ -14,25 +14,93 @@
 
 ## Atividades
 
-  ### :woman_technologist: Atualmente estou trabalhando em: 
-  - Projetos dos Bootcamps nos quais estou inscrita
-  - Contribuir para projetos de código aberto
+  ### :woman_technologist: Atualmente estou: 
+  - Participando em bootcamps
+  - Contribuindo para projetos de código aberto
 
-  ### :nerd_face: Atualmente estou aprendendo:
-  - .Net 
-  - C#
-  - Ruby
-  - ReactJs
+  ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
+  - Para atingir este objetivo este é o caminho que planejo trilhar
+    #### Função Front-End
+    ##### Basics
+    - HTML
+    - CSS
+    - Javascript
+    ##### Frameworks
+    - React
+    - Vue
+    - Angular
+    - Webpack
+    ##### Styles
+    - Bootstrap
+    - aterial UI
 
-  ### :thinking: Eu quero aprender:
-  - Phython
-  - Scrum
-  - Angular
-  - Vue.Js
-  - Node.Js
-  - Php
-  - Flutter
+    #### Função Back-End
+    ##### Technology
+    PHP
+    Node
+    Ruby on Rails
+    Java (spring)
+    ASP.NET
+    Redis
 
+    #### Função Database
+    ##### RDBMS
+    MSSQL
+    MySql
+    Postgress
+
+    ##### NoSQL
+    Mongo
+    Casandra
+    CouchDB
+    Elasticsearch
+
+    ##### Graph
+    Neo4j
+    ArangoDB
+
+    ##### MessageQueues
+    Kafka
+    SQS
+    ZeroMQ
+    RabbitMQ
+
+    #### Função Dev Ops
+
+    ##### Infrastructure
+    NGINX
+    AWS
+    Azure
+    ELK
+
+    ##### Automation
+    Asible
+    Chef
+    Jenkins
+
+    ##### Virtualization
+    Docker
+    Bladecenter
+    Kubernetes=Vagrant
+    VMWare
+
+    #### Função Mobile APP
+
+    ##### Android
+    Java
+    SDK
+
+    ##### IOS
+    Obective C
+    Swift
+
+    ##### Cross Plataform
+    React Native
+    Ionic
+    PWA
+    Xamarin
+    Unity
+  
   ### :heart: Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
   - :woman_cook: Cozinhar
