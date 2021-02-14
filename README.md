@@ -22,27 +22,26 @@
   - Para atingir este objetivo tenho este planejamento
   - Legenda: Concluído :green_circle: / Em andamento :yellow_circle: / Em breve :purple_circle: / Sem previsão :red_circle:
   
-  
-  || **FRONT-END**   || **BACK-END**    || **DATABASE**      || **DEVOPS**          || **MOBILE APP**      || **ADICIONAL**         |
-  || -------------   || --------------- || ----------------- || ------------------- || ------------------- || --------------------- |
-  || **Basics**      || **Technology**  || **RDBMS**         || **Infrastructure**  || **Android**         || **IDE/Editors**       | 
-  || - HTML          || - PHP           || - MSSQL           || - NGINX             || - Java              || - Atom                |
-  || - CSS           || - Node          || - MySql           || - AWS               || - SDK               || - Sublime             |
-  || - Javascript    || - Ruby          || - Postgress       || - Azure             ||                     || - Visual Studio Code  |
-  || **Frameworks**  || - Java          || **NoSQL**         || - ELK               || **IOS**             || - Visual Studio       |
-  || - React         || - ASP.NET       || - Mongo           || **Automation**      || - Obective C        || - Androi Studio       |
-  || - Vue           || - Redis         || - Casandra        || - Asible            || - Swift             ||                       |
-  || - Angular       ||                 || - CouchDB         || - Chef              || **Cross Plataform** || **Desenvolvimento**   |
-  || - Webpack       ||                 || - Elasticsearch   || - Jenkins           || - React Native      || - Firebase            |
-  || **Styles**      ||                 || **Graph**         || **Virtualization**  || - Ionic             ||                       |
-  || - Bootstrap     ||                 || - Neo4j           || - Docker            || - PWA               ||                       |
-  || - Material UI   ||                 || - ArangoDB        || - Bladecenter       || - Xamarin           ||                       |
-  || **Complemento** ||                 || **MessageQueues** || - Kubernetes        || - Unity             ||                       |
-  || - JQuery        ||                 || - Kafka           || - Vagrant           ||                     ||                       |
-  || - Ajax          ||                 || - SQS             || - VMWare            ||                     ||                       |
-  ||                 ||                 || - ZeroMQ          ||                     ||                     ||                       |
-  ||                 ||                 || - RabbitMQ        ||                     ||                     ||                       | 
-  ||                 ||                 ||                   ||                     ||                     ||                       |
+  | **FRONT-END**   | **BACK-END**    | **DATABASE**      | **DEVOPS**          | **MOBILE APP**      | **ADICIONAL**         |
+  | -------------   | --------------- | ----------------- | ------------------- | ------------------- | --------------------- |
+  | **Basics**      | **Technology**  | **RDBMS**         | **Infrastructure**  | **Android**         | **IDE/Editors**       | 
+  | - HTML          | - PHP           | - MSSQL           | - NGINX             | - Java              | - Atom                |
+  | - CSS           | - Node          | - MySql           | - AWS               | - SDK               | - Sublime             |
+  | - Javascript    | - Ruby          | - Postgress       | - Azure             |                     | - Visual Studio Code  |
+  | **Frameworks**  | - Java          | **NoSQL**         | - ELK               | **IOS**             | - Visual Studio       |
+  | - React         | - ASP.NET       | - Mongo           | **Automation**      | - Obective C        | - Androi Studio       |
+  | - Vue           | - Redis         | - Casandra        | - Asible            | - Swift             |                       |
+  | - Angular       |                 | - CouchDB         | - Chef              | **Cross Plataform** | **Desenvolvimento**   |
+  | - Webpack       |                 | - Elasticsearch   | - Jenkins           | - React Native      | - Firebase            |
+  | **Styles**      |                 | **Graph**         | **Virtualization**  | - Ionic             | - SQLite              |
+  | - Bootstrap     |                 | - Neo4j           | - Docker            | - PWA               | - Git                 |
+  | - Material UI   |                 | - ArangoDB        | - Bladecenter       | - Xamarin           | - GitHub              |
+  | **Complemento** |                 | **MessageQueues** | - Kubernetes        | - Unity             |                       |
+  | - JQuery        |                 | - Kafka           | - Vagrant           |                     | **Outros**            |
+  | - Ajax          |                 | - SQS             | - VMWare            |                     | - Scrum               |
+  | - Json          |                 | - ZeroMQ          |                     |                     | - Microsoft Office    |
+  |                 |                 | - RabbitMQ        |                     |                     |                       | 
+  |                 |                 |                   |                     |                     |                       |
  
   ### :heart: Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
@@ -51,16 +50,6 @@
   - :blue_book: Ler
   - :airplane: Viajar
   - :walking_woman: Caminhar
-  
-  ### :infinity: Conhecimentos
-
-      | Banco de Dados | Programação | Outros                        | Ide / Editores     |
-      | -------------- | ----------- | ----------------------------- | ------------------ |
-      | MySQL          | Html        | SAP QM/PP/PM/PS/DMS/WORKFLOW  | Visual Studio      |
-      | Firebase       | Css         | Git                           | Android Studio     |
-      | SqLite         | Javascript  | Microsoft Office              | Visual Code Studio |
-      |                | Jquery      | Cobol, Fortran, CICS, Vsam    | Atom               |
-      |                | Ajax        |                               | Sublime Text       |
 
 ## Estatísticas e linguages
 <p>
@@ -115,41 +104,3 @@
 | Udacity | Find Movies| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Link</a> |
 | Udacity | Quick Jokes| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Link</a> |
 | Udacity | Best Meal| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Link</a> |
-
-## Linguages e ferramentas
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
