@@ -25,22 +25,22 @@
   | **FRONT-END**   | **BACK-END**    | **DATABASE**      | **DEVOPS**          | **MOBILE APP**      | **ADICIONAL**         |
   | -------------   | --------------- | ----------------- | ------------------- | ------------------- | --------------------- |
   | **Basics**      | **Technology**  | **RDBMS**         | **Infrastructure**  | **Android**         | **IDE/Editors**       | 
-  | - HTML          | - PHP           | - MSSQL           | - NGINX             | - Java              | - Atom                |
-  | - CSS           | - Node          | - MySql           | - AWS               | - SDK               | - Sublime             |
-  | - Javascript    | - Ruby          | - Postgress       | - Azure             |                     | - Visual Studio Code  |
-  | **Frameworks**  | - Java          | **NoSQL**         | - ELK               | **IOS**             | - Visual Studio       |
-  | - React         | - ASP.NET       | - Mongo           | **Automation**      | - Obective C        | - Androi Studio       |
-  | - Vue           | - Redis         | - Casandra        | - Asible            | - Swift             |                       |
-  | - Angular       |                 | - CouchDB         | - Chef              | **Cross Plataform** | **Desenvolvimento**   |
-  | - Webpack       |                 | - Elasticsearch   | - Jenkins           | - React Native      | - Firebase            |
-  | **Styles**      |                 | **Graph**         | **Virtualization**  | - Ionic             | - SQLite              |
-  | - Bootstrap     |                 | - Neo4j           | - Docker            | - PWA               | - Git                 |
-  | - Material UI   |                 | - ArangoDB        | - Bladecenter       | - Xamarin           | - GitHub              |
-  | **Complemento** |                 | **MessageQueues** | - Kubernetes        | - Unity             |                       |
-  | - JQuery        |                 | - Kafka           | - Vagrant           |                     | **Outros**            |
-  | - Ajax          |                 | - SQS             | - VMWare            |                     | - Scrum               |
-  | - Json          |                 | - ZeroMQ          |                     |                     | - Microsoft Office    |
-  |                 |                 | - RabbitMQ        |                     |                     |                       | 
+  | HTML            | PHP             | MSSQL             | NGINX               | Java                | Atom                  |
+  | CSS             | Node            | MySql             | AWS                 | SDK                 | Sublime               |
+  | Javascript      | Ruby            | Postgress         | Azure               |                     | Visual Studio Code    |
+  | **Frameworks**  | Java            | **NoSQL**         | ELK                 | **IOS**             | Visual Studio         |
+  | React           | ASP.NET         | Mongo             | **Automation**      | Obective C          | Androi Studio         |
+  | Vue             | Redis           | Casandra          | Asible              | Swift               |                       |
+  | Angular         |                 | CouchDB           | Chef                | **Cross Plataform** | **Desenvolvimento**   |
+  | Webpack         |                 | Elasticsearch     | Jenkins             | React Native        | Firebase              |
+  | **Styles**      |                 | **Graph**         | **Virtualization**  | Ionic               | SQLite                |
+  | Bootstrap       |                 | Neo4j             | Docker              | PWA                 | Git                   |
+  | Material UI     |                 | ArangoDB          | Bladecenter         | Xamarin             | GitHub                |
+  | **Complemento** |                 | **MessageQueues** | Kubernetes          | Unity               |                       |
+  | JQuery          |                 | Kafka             | Vagrant             |                     | **Outros**            |
+  | Ajax            |                 | SQS               | VMWare              |                     | Scrum                 |
+  | Json            |                 | ZeroMQ            |                     |                     | Microsoft Office      |
+  |                 |                 | RabbitMQ          |                     |                     |                       | 
   |                 |                 |                   |                     |                     |                       |
  
   ### :heart: Fora do desenvolvimento, eu gosto de:
