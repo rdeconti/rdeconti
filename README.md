@@ -4,7 +4,8 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brasil e trabalhando remotamente. Aberta a novas oportunidades!
+Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brasil e trabalhando remotamente. 
+Aberta a novas oportunidades de trabalho!
 
 ## :link: Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
@@ -50,16 +51,12 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
       |                | Ajax        |                               | Sublime Text       |
 
 ## Estatísticas e linguages
-![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true)
-
-![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&show_icons=true)
-
- <p>
+<p>
   <a href="https://github.com/rdeconti">
-  <img height="450px" width="450px" src="https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true&theme=omni" alt="rdeconti :: Profile Stats" />
-  <img height="450px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&langs_count=6&theme=omni&layout=compact" alt="rdeconti :: Top     Langs" />
-   </a>
- </p>
+    <img height="450px" width="450px" src="https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true&theme=omni" alt="rdeconti :: Profile Stats" />
+    <img height="450px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&langs_count=6&theme=omni&layout=compact" alt="rdeconti :: TopLangs" />
+ </a>
+</p>
 
 
 ## Cursos
