@@ -73,8 +73,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :blue_book: Cursos
-| Entidade | Curso | Data | Situação | Detalhes |
-| -------- | ------- | --------- | -------- | ------- |
+| Entidade | Curso   | Data      | Situação | Detalhes |
+| -------- | ------- | --------- | -------- | -------- |
 | Udacity | Android Developer Nanodegree | Março/2019 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
 | Udemy | Desenvolvimento Android Aprenda Criando Apps | Fevereiro/2020 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udemy-Desenvolvimento-Android-Aprenda-Criando-Apps">Link</a> |
 | Alura | Oracle Next Education | Fevereiro/2021 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
@@ -97,17 +97,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label:  Projetos do curso Alura / Oracle Next One / Labora
-| Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | ----------- | ------ | ------- |
-| Alura  | Barbearia Alura | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Barbearia-Alura">Link</a> |
-| Alura  | Aparecida Nutricionista | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Aparecida-Nutricionista">Link</a> |
-| Alura  | Alura News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-News">Link</a> |
-| Alura  | Alura Typer | Game |  Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Typer">Link</a>| 
-| Alura  | Conferência Alura| Website| Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Conference">Link</a> |
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## :label:  Desafios encontrados na internet
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
@@ -118,7 +107,18 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label:  Projetos do curso Udacity
+## :label:  Projetos do curso Alura / Oracle Next One / Labora (Front-End Developer)
+| Origem | Nome | Descrição | Situação | Detalhes |
+| ------ | ---- | ----------- | ------ | ------- |
+| Alura  | Barbearia Alura | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Barbearia-Alura">Link</a> |
+| Alura  | Aparecida Nutricionista | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Aparecida-Nutricionista">Link</a> |
+| Alura  | Alura News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-News">Link</a> |
+| Alura  | Alura Typer | Game |  Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Typer">Link</a>| 
+| Alura  | Conferência Alura| Website| Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Conference">Link</a> |
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label:  Projetos do curso Udacity (Android Developer Nanodegree)
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
 | Udacity | Bake House| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Link</a> |
