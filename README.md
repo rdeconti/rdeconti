@@ -19,20 +19,26 @@
   - Contribuindo para projetos de código aberto
 
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
-  - Para atingir este objetivo este é o caminho que planejo trilhar
-    #### Função Front-End
-    ##### Basics
-    - HTML
-    - CSS
-    - Javascript
-    ##### Frameworks
-    - React
-    - Vue
-    - Angular
-    - Webpack
-    ##### Styles
-    - Bootstrap
-    - aterial UI
+  - Para atingir este objetivo tenho este planejamento
+  
+  | Front-End     | Back-End | Database | DevOps | Mobile App | Outros |
+  | ------------- | -------- | -------- | ------ | ---------- | ------ |
+  | Basics        |      
+  | - HTML        |
+  | - CSS         |
+  | - Javascript  |
+  | Frameworks    |  
+  | - React       |
+  | - Vue         |
+  | - Angular     |
+  | - Webpack     |
+  | Styles        |
+  | - Bootstrap   |  
+  | - Material UI |
+  | --------- | -------- | -------- | ------ | ---------- | ------ |
+  
+
+
 
     #### Função Back-End
     ##### Technology
