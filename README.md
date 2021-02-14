@@ -29,7 +29,7 @@
   - Para atingir este objetivo tenho este planejamento
   - Legenda: Concluído=OK / Em andamento=AN / Em breve=BR / Sem previsão=SP
   
-  |    | **FRONT-END**   |    | **BACK-END**    |    |**DATABASE**       |    |**DEVOPS**           |    |**MOBILE APP**       |    |**ADICIONAL**          |
+  |    | **FRONT-END**   |    | **BACK-END**    |    |**DATABASE**       |    |**DEVOPS**           |    |**MOBILE**           |    |**ADICIONAL**          |
   |----| -------------   |----| --------------- |----| ----------------- |----| ------------------- |----| ------------------- |----| --------------------- |
   |    | **Basics**      |    | **Technology**  |    | **RDBMS**         |    |**Infrastructure**   |    | **Android**         |    | **IDE/Editors**       | 
   | OK | HTML            | SP | PHP             | SP | MSSQL             | SP | NGINX               | OK | Java                | OK | Atom                  |
@@ -37,7 +37,7 @@
   | OK | Javascript      | SP | Ruby            | SP | Postgress         | SP | Azure               |    | **IOS**             | AN | Visual Studio Code    |
   |    | **Frameworks**  | OK | Java            |    |**NoSQL**          | SP | ELK                 | SP | Obective C          | SP | Visual Studio         |
   | SP | React           | SP | ASP.NET         | SP | Mongo             |    |**Automation**       | SP | Swift               | OK | Android Studio         |
-  | SP | Vue             | SP | Redis           | SP | Casandra          | SP | Asible              |    | **Cross Plataform** |    | **Desenvolvimento**   |
+  | SP | Vue             | SP | Redis           | SP | Casandra          | SP | Asible              |    | **Cross**           |    | **Desenvolvimento**   |
   | SP | Angular         |    |                 | SP | CouchDB           | SP | Chef                | SP | Unity               | SP | SQLite                |
   | SP | Webpack         |    |                 | SP | Elasticsearch     | SP | Jenkins             | SP | React Native        | SP | Firebase              |
   |    | **Styles**      |    |                 |    | **Graph**         |    | **Virtualization**  | SP | Ionic               | OK | GitHub                |
