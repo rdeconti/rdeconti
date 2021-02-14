@@ -53,8 +53,8 @@ Aberta a novas oportunidades de trabalho!
 ## Estatísticas e linguages
 <p>
   <a href="https://github.com/rdeconti">
-    <img height="450px" width="450px" src="https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true&theme=omni" alt="rdeconti :: Profile Stats" />
-    <img height="450px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&langs_count=6&theme=omni&layout=compact" alt="rdeconti :: TopLangs" />
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true&theme=omni" alt="rdeconti :: Profile Stats" />
+    <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&langs_count=6&theme=omni&layout=compact" alt="rdeconti :: TopLangs" />
  </a>
 </p>
 
@@ -73,6 +73,11 @@ Aberta a novas oportunidades de trabalho!
 | ------ | ---- | ----------- | ------ | ------- |
 | Digital Innovation One | Aplicação CRUD em memória | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
 
+## Projetos para ampliar conhecimentos
+| Origem | Nome | Descrição | Situação | Detalhes |
+| ------ | ---- | --------- | -------- | -------- |
+| Alura | ByteBank | Website | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a> |
+
 ## Projetos do curso Alura / Oracle Next One
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
@@ -89,11 +94,6 @@ Aberta a novas oportunidades de trabalho!
 | Internet | Minute News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Minute-News">Link</a> |
 | Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Bennu-Babies">Link</a> |
 | Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Merlins-Potions">Link</a> |
-
-## Projetos desenvolvidos para ampliar conhecimentos
-| Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | --------- | -------- | -------- |
-| Alura | ByteBank | Website | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a> |
 
 ## Projetos do curso Udacity
 | Origem | Nome | Descrição | Situação | Detalhes |
