@@ -54,6 +54,14 @@ Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} viv
 
 ![rdeconti GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&show_icons=true)
 
+ <p>
+  <a href="https://github.com/rdeconti">
+  <img height="450px" width="450px" src="https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true&theme=omni" alt="rdeconti :: Profile Stats" />
+  <img height="450px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&langs_count=6&theme=omni&layout=compact" alt="rdeconti :: Top     Langs" />
+   </a>
+ </p>
+
+
 ## Cursos
 | Entidade | Curso | Data | Situação | Detalhes |
 | -------- | ------- | --------- | -------- | ------- |
