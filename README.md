@@ -22,7 +22,7 @@
   - Para atingir este objetivo tenho este planejamento
   
   | --------------- | --------------- | ----------------- | ------------------- | ------------------- | -------------- |
-  | **Front-End     | Back-End        | Database          | DevOps              | Mobile App          | Adicionais**   |
+  | **FRONT-END**   | **BACK-END**    | **DATABASE**      | **DEVOPS**          | **MOBILE APP**      | **ADICIONAL**  |
   | -------------   | --------------- | ----------------- | ------------------- | ------------------- | -------------- |
   | **Basics**      | **Technology**  | **RDBMS**         | **Infrastructure**  | **Android**         |                | 
   | - HTML          | - PHP           | - MSSQL           | - NGINX             | - Java              |                |
