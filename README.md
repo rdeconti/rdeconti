@@ -4,8 +4,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-Eu sou autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} vivendo atualmente no Brasil e trabalhando remotamente. 
-Aberta a novas oportunidades de trabalho!
+- Autodidata e apaixonada por desenvolvimento {Full Stack Web e Mobile} 
+- Vivendo atualmente no Brasil e trabalhando remotamente. 
+- Aberta a novas oportunidades de trabalho!
 
 ## :link: Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
