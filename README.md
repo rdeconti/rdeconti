@@ -27,27 +27,27 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
   - Para atingir este objetivo tenho este planejamento
-  - Legenda: Concluído OK / Em andamento ++: / Em breve ** / Sem previsão --
+  - Legenda: Concluído CN / Em andamento AN / Em breve BR / Sem previsão SP
   
   |    | **FRONT-END**   |    | **BACK-END**    |    |**DATABASE**       |    |**DEVOPS**           |    |**MOBILE APP**       |    |**ADICIONAL**          |
   |----| -------------   |----| --------------- |----| ----------------- |----| ------------------- |----| ------------------- |----| --------------------- |
   |    | **Basics**      |    | **Technology**  |    | **RDBMS**         |    |**Infrastructure**   |    | **Android**         |    | **IDE/Editors**       | 
-  | OK | HTML            | -- | PHP             | -- | MSSQL             | -- | NGINX               | -- | Java                | -- | Atom                  |
-  | OK | CSS             | -- | Node            | -- | MySql             | -- | AWS                 | -- | SDK                 | -- | Sublime               |
-  | OK | Javascript      | -- | Ruby            | -- | Postgress         | -- | Azure               |    | **IOS**             | -- | Visual Studio Code    |
-  |    | **Frameworks**  | -- | Java            |    |**NoSQL**          | -- | ELK                 | -- | Obective C          | -- | Visual Studio         |
-  | -- | React           | -- | ASP.NET         | -- | Mongo             |    |**Automation**       | -- | Swift               | -- | Androi Studio         |
-  | -- | Vue             | -- | Redis           | -- | Casandra          | -- | Asible              |    | **Cross Plataform** | -- | **Desenvolvimento**   |
-  | -- | Angular         |    |                 | -- | CouchDB           | -- | Chef                | -- | Unity               | -- | SQLite                |
-  | -- | Webpack         |    |                 | -- | Elasticsearch     | -- | Jenkins             | -- | React Native        | -- | Firebase              |
-  |    | **Styles**      |    |                 |    | **Graph**         |    | **Virtualization**  | -- | Ionic               | -- | GitHub                |
-  | -- | Bootstrap       |    |                 | -- | Neo4j             | -- | Docker              | -- | PWA                 | -- | Git                   |
-  | -- | Material UI     |    |                 | -- | ArangoDB          | -- | Bladecenter         | -- | Xamarin             | -- | **Outros**            |
-  |    | **Complemento** |    |                 |    | **MessageQueues** | -- | Kubernetes          |    |                     | -- | Scrum                 |
-  | -- | JQuery          |    |                 | -- | Kafka             | -- | Vagrant             |    |                     | -- | Microsoft Office      |
-  | -- | Ajax            |    |                 | -- | SQS               | -- | VMWare              |    |                     | -- | Scrum                 |
-  | -- | Json            |    |                 | -- | ZeroMQ            |    |                     |    |                     | -- | Microsoft Office      |
-  | -- |                 |    |                 | -- | RabbitMQ          |    |                     |    |                     | -- |                       | 
+  | CN | HTML            | SP | PHP             | SP | MSSQL             | SP | NGINX               | SP | Java                | -- | Atom                  |
+  | CN | CSS             | SP | Node            | -- | MySql             | SP | AWS                 | SP | SDK                 | -- | Sublime               |
+  | CN | Javascript      | SP | Ruby            | SP | Postgress         | SP | Azure               |    | **IOS**             | -- | Visual Studio Code    |
+  |    | **Frameworks**  | -- | Java            |    |**NoSQL**          | SP | ELK                 | SP | Obective C          | -- | Visual Studio         |
+  | SP | React           | SP | ASP.NET         | SP | Mongo             |    |**Automation**       | SP | Swift               | -- | Androi Studio         |
+  | SP | Vue             | SP | Redis           | SP | Casandra          | SP | Asible              |    | **Cross Plataform** | -- | **Desenvolvimento**   |
+  | SP | Angular         |    |                 | SP | CouchDB           | SP | Chef                | SP | Unity               | -- | SQLite                |
+  | SP | Webpack         |    |                 | SP | Elasticsearch     | SP | Jenkins             | SP | React Native        | -- | Firebase              |
+  |    | **Styles**      |    |                 |    | **Graph**         |    | **Virtualization**  | SP | Ionic               | -- | GitHub                |
+  | SP | Bootstrap       |    |                 | SP | Neo4j             | SP | Docker              | SP | PWA                 | -- | Git                   |
+  | SP | Material UI     |    |                 | SP | ArangoDB          | SP | Bladecenter         | SP | Xamarin             | -- | **Outros**            |
+  |    | **Complemento** |    |                 |    | **MessageQueues** | SP | Kubernetes          |    |                     | -- | Scrum                 |
+  | CN | JQuery          |    |                 | SP | Kafka             | SP | Vagrant             |    |                     | -- | Microsoft Office      |
+  | CN | Ajax            |    |                 | SP | SQS               | SP | VMWare              |    |                     | -- | Scrum                 |
+  | CN | Json            |    |                 | SP | ZeroMQ            |    |                     |    |                     | -- | Microsoft Office      |
+  |    |                 |    |                 | SP | RabbitMQ          |    |                     |    |                     | -- |                       | 
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
