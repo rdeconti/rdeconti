@@ -20,7 +20,7 @@
 
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
   - Para atingir este objetivo tenho este planejamento
-  - Legenda: "Concluído " :green_circle: / "Em andamento " :yellow_circle: / "Em breve " :blue_circle: / "Sem previsão " :red_circle:
+  - Legenda: Concluído :green_circle: / Em andamento :yellow_circle: / Em breve :purple_circle: / Sem previsão :red_circle:
   
   
   | **FRONT-END**   | **BACK-END**    | **DATABASE**      | **DEVOPS**          | **MOBILE APP**      | **ADICIONAL**  |
