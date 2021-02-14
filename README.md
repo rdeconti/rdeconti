@@ -23,26 +23,26 @@
   - Legenda: Concluído :green_circle: / Em andamento :yellow_circle: / Em breve :purple_circle: / Sem previsão :red_circle:
   
   
-  | **FRONT-END**   | **BACK-END**    | **DATABASE**      | **DEVOPS**          | **MOBILE APP**      | **ADICIONAL**  |
-  | -------------   | --------------- | ----------------- | ------------------- | ------------------- | -------------- |
-  | **Basics**      | **Technology**  | **RDBMS**         | **Infrastructure**  | **Android**         |                | 
-  | - HTML          | - PHP           | - MSSQL           | - NGINX             | - Java              |                |
-  | - CSS           | - Node          | - MySql           | - AWS               | - SDK               |                |
-  | - Javascript    | - Ruby          | - Postgress       | - Azure             |                     |                |
-  | **Frameworks**  | - Java          | **NoSQL**         | - ELK               | **IOS**             |                |
-  | - React         | - ASP.NET       | - Mongo           | **Automation**      | - Obective C        |                |
-  | - Vue           | - Redis         | - Casandra        | - Asible            | - Swift             |                |
-  | - Angular       |                 | - CouchDB         | - Chef              | **Cross Plataform** |                |
-  | - Webpack       |                 | - Elasticsearch   | - Jenkins           | - React Native      |                |
-  | **Styles**      |                 | **Graph**         | **Virtualization**  | - Ionic             |                |
-  | - Bootstrap     |                 | - Neo4j           | - Docker            | - PWA               |                |
-  | - Material UI   |                 | - ArangoDB        | - Bladecenter       | - Xamarin           |                |
-  |                 |                 | **MessageQueues** | - Kubernetes        | - Unity             |                |
-  |                 |                 | - Kafka           | - Vagrant           |                     |                |
-  |                 |                 | - SQS             | - VMWare            |                     |                |
-  |                 |                 | - ZeroMQ          |                     |                     |                |
-  |                 |                 | - RabbitMQ        |                     |                     |                | 
-  |                 |                 |                   |                     |                     |                |
+  || **FRONT-END**   || **BACK-END**    || **DATABASE**      || **DEVOPS**          || **MOBILE APP**      || **ADICIONAL**         |
+  || -------------   || --------------- || ----------------- || ------------------- || ------------------- || --------------------- |
+  || **Basics**      || **Technology**  || **RDBMS**         || **Infrastructure**  || **Android**         || **IDE/Editors**       | 
+  || - HTML          || - PHP           || - MSSQL           || - NGINX             || - Java              || - Atom                |
+  || - CSS           || - Node          || - MySql           || - AWS               || - SDK               || - Sublime             |
+  || - Javascript    || - Ruby          || - Postgress       || - Azure             ||                     || - Visual Studio Code  |
+  || **Frameworks**  || - Java          || **NoSQL**         || - ELK               || **IOS**             || - Visual Studio       |
+  || - React         || - ASP.NET       || - Mongo           || **Automation**      || - Obective C        || - Androi Studio       |
+  || - Vue           || - Redis         || - Casandra        || - Asible            || - Swift             ||                       |
+  || - Angular       ||                 || - CouchDB         || - Chef              || **Cross Plataform** || **Desenvolvimento**   |
+  || - Webpack       ||                 || - Elasticsearch   || - Jenkins           || - React Native      || - Firebase            |
+  || **Styles**      ||                 || **Graph**         || **Virtualization**  || - Ionic             ||                       |
+  || - Bootstrap     ||                 || - Neo4j           || - Docker            || - PWA               ||                       |
+  || - Material UI   ||                 || - ArangoDB        || - Bladecenter       || - Xamarin           ||                       |
+  || **Complemento** ||                 || **MessageQueues** || - Kubernetes        || - Unity             ||                       |
+  || - JQuery        ||                 || - Kafka           || - Vagrant           ||                     ||                       |
+  || - Ajax          ||                 || - SQS             || - VMWare            ||                     ||                       |
+  ||                 ||                 || - ZeroMQ          ||                     ||                     ||                       |
+  ||                 ||                 || - RabbitMQ        ||                     ||                     ||                       | 
+  ||                 ||                 ||                   ||                     ||                     ||                       |
  
   ### :heart: Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
