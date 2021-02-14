@@ -21,21 +21,21 @@
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
   - Para atingir este objetivo tenho este planejamento
   
-  | Front-End     | Back-End | Database | DevOps | Mobile App | Outros |
-  | ------------- | -------- | -------- | ------ | ---------- | ------ |
-  | Basics        |      
-  | - HTML        |
-  | - CSS         |
-  | - Javascript  |
-  | Frameworks    |  
-  | - React       |
-  | - Vue         |
-  | - Angular     |
-  | - Webpack     |
-  | Styles        |
-  | - Bootstrap   |  
-  | - Material UI |
-  | --------- | -------- | -------- | ------ | ---------- | ------ |
+  | Front-End     | Back-End    | Database | DevOps | Mobile App | Outros |
+  | ------------- | ----------- | -------- | ------ | ---------- | ------ |
+  | Basics        | Technology  |   
+  | - HTML        | - PHP       |
+  | - CSS         | - Node      |
+  | - Javascript  | - Ruby      |
+  | Frameworks    | - Java      |
+  | - React       | - ASP.NET   |
+  | - Vue         | - Redis     |
+  | - Angular     |             |
+  | - Webpack     |             |
+  | Styles        |             |
+  | - Bootstrap   |             |  
+  | - Material UI |             |
+  | ------------- | ----------- | -------- | ------ | ---------- | ------ |
   
 
 
