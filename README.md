@@ -51,7 +51,7 @@
   - :airplane: Viajar
   - :walking_woman: Caminhar
 
-## Estatísticas e linguages
+## :bar_chart: Estatísticas e linguages
 <p>
   <a href="https://github.com/rdeconti">
     <img width="450px" src="https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true&theme=omni" alt="rdeconti :: Profile Stats" />
@@ -60,7 +60,7 @@
 </p>
 
 
-## Cursos
+## :blue_book: Cursos
 | Entidade | Curso | Data | Situação | Detalhes |
 | -------- | ------- | --------- | -------- | ------- |
 | Udacity | Android Developer Nanodegree | Março/2019 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
@@ -69,17 +69,17 @@
 | Digital Innovation One | Bootcamp - Impulso FullStack Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Impulso-FullStack-Developer">Link</a> |
 | Digital Innovation One | Bootcamp - MRV .NET Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Developer">Link</a> |
 
-## Projetos do Bootcamp - MRV .NET Developer
+## :label: Projetos do Bootcamp - MRV .NET Developer
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
 | Digital Innovation One | Aplicação CRUD em memória | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
 
-## Projetos para ampliar conhecimentos
+## :label:  Projetos para ampliar conhecimentos
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | --------- | -------- | -------- |
 | Alura | ByteBank | Website | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a> |
 
-## Projetos do curso Alura / Oracle Next One
+## :label:  Projetos do curso Alura / Oracle Next One
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
 | Alura  | Barbearia Alura | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Barbearia-Alura">Link</a> |
@@ -88,7 +88,7 @@
 | Alura  | Alura Typer | Game |  Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Typer">Link</a>| 
 | Alura  | Conferência Alura| Website| Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Conference">Link</a> |
 
-## Desafios encontrados na internet
+## :label:  Desafios encontrados na internet
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
 | Caelum | MusicDot| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-MusicDot">Link</a> |
@@ -96,7 +96,7 @@
 | Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Bennu-Babies">Link</a> |
 | Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Merlins-Potions">Link</a> |
 
-## Projetos do curso Udacity
+## :label:  Projetos do curso Udacity
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
 | Udacity | Bake House| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Link</a> |
