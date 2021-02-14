@@ -20,8 +20,9 @@
 
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
   - Para atingir este objetivo tenho este planejamento
+  - Legenda: "Concluído " :green_circle: / "Em andamento " :yellow_circle: / "Em breve " :blue_circle: / "Sem previsão " :red_circle:
   
-  | --------------- | --------------- | ----------------- | ------------------- | ------------------- | -------------- |
+  
   | **FRONT-END**   | **BACK-END**    | **DATABASE**      | **DEVOPS**          | **MOBILE APP**      | **ADICIONAL**  |
   | -------------   | --------------- | ----------------- | ------------------- | ------------------- | -------------- |
   | **Basics**      | **Technology**  | **RDBMS**         | **Infrastructure**  | **Android**         |                | 
@@ -42,7 +43,6 @@
   |                 |                 | - ZeroMQ          |                     |                     |                |
   |                 |                 | - RabbitMQ        |                     |                     |                | 
   |                 |                 |                   |                     |                     |                |
-  | --------------- | --------------- | ----------------- | ------------------- | ------------------- | -------------- |
  
   ### :heart: Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
