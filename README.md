@@ -21,92 +21,32 @@
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
   - Para atingir este objetivo tenho este planejamento
   
-  | Front-End     | Back-End    | Database | DevOps | Mobile App | Outros |
+  | Front-End     | Back-End    | Database        | DevOps          | Mobile App | Outros |
+  | ------------- | ----------- | --------------- | ------          | ---------- | ------ |
+  | Basics        | Technology  | RDBMS           | Infrastructure  | Mobile APP 
+  | - HTML        | - PHP       | - MSSQL         | - NGINX         | Android
+  | - CSS         | - Node      | - MySql         | - AWS           | - Java
+  | - Javascript  | - Ruby      | - Postgress     | - Azure         | - SDK
+  | Frameworks    | - Java      | NoSQL           | - ELK           | IOS
+  | - React       | - ASP.NET   | - Mongo         | Automation      | - Obective C
+  | - Vue         | - Redis     | - Casandra      | - Asible        | - Swift
+  | - Angular     |             | - CouchDB       | - Chef          | Cross Plataform
+  | - Webpack     |             | - Elasticsearch | - Jenkins       | - React Native
+  | Styles        |             | Graph           | Virtualization  | - Ionic
+  | - Bootstrap   |             | - Neo4j         | - Docker        | - PWA
+  | - Material UI |             | - ArangoDB      | - Bladecenter   | - Xamarin
+  |               |             | MessageQueues   | - Kubernetes    | - Unity
+  |               |             | - Kafka         | - Vagrant       |
+  |               |             | - SQS           | - VMWare        |
+  |               |             | - ZeroMQ        | 
+  |               |             | - RabbitMQ      | 
+  |               |             |                 | 
+  |               |             |                 | 
+  |               |             |                 | 
+  |               |             |                 | 
+                  
   | ------------- | ----------- | -------- | ------ | ---------- | ------ |
-  | Basics        | Technology  |   
-  | - HTML        | - PHP       |
-  | - CSS         | - Node      |
-  | - Javascript  | - Ruby      |
-  | Frameworks    | - Java      |
-  | - React       | - ASP.NET   |
-  | - Vue         | - Redis     |
-  | - Angular     |             |
-  | - Webpack     |             |
-  | Styles        |             |
-  | - Bootstrap   |             |  
-  | - Material UI |             |
-  | ------------- | ----------- | -------- | ------ | ---------- | ------ |
-  
-
-
-
-    #### Função Back-End
-    ##### Technology
-    PHP
-    Node
-    Ruby on Rails
-    Java (spring)
-    ASP.NET
-    Redis
-
-    #### Função Database
-    ##### RDBMS
-    MSSQL
-    MySql
-    Postgress
-
-    ##### NoSQL
-    Mongo
-    Casandra
-    CouchDB
-    Elasticsearch
-
-    ##### Graph
-    Neo4j
-    ArangoDB
-
-    ##### MessageQueues
-    Kafka
-    SQS
-    ZeroMQ
-    RabbitMQ
-
-    #### Função Dev Ops
-
-    ##### Infrastructure
-    NGINX
-    AWS
-    Azure
-    ELK
-
-    ##### Automation
-    Asible
-    Chef
-    Jenkins
-
-    ##### Virtualization
-    Docker
-    Bladecenter
-    Kubernetes=Vagrant
-    VMWare
-
-    #### Função Mobile APP
-
-    ##### Android
-    Java
-    SDK
-
-    ##### IOS
-    Obective C
-    Swift
-
-    ##### Cross Plataform
-    React Native
-    Ionic
-    PWA
-    Xamarin
-    Unity
-  
+ 
   ### :heart: Fora do desenvolvimento, eu gosto de:
   - :cinema: Cinema
   - :woman_cook: Cozinhar
