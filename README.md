@@ -48,6 +48,7 @@
   | **Database**  | **RDBMS**           | - MsSql               |:white_circle:   |                         |                               |
   |               |                     | - MySql               |:white_circle:   |                         |                               |
   |               |                     | - SqLite              |:white_circle:   |                         |                               |
+  |               |                     | - SQL                 |:green_circle:   | Digital InnovationOne   |                               |
   |               |                     | - Postgres            |:white_circle:   |                         |                               |
   |               | **NOSQL**           | - Mongo               |:purple_circle:  | Digital InnovationOne   |                               |
   |               |                     | - Casandra            |:white_circle:   |                         |                               |
