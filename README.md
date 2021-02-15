@@ -29,6 +29,48 @@
   - Para atingir este objetivo tenho este planejamento
   - Legenda: Concluído=OK / Em andamento=AN / Em breve=BR / Sem previsão=SP
   
+  | **Função**    | **Divisão**     | **Ferramenta**  | **Situação** | **Entidade** | **Observação** |
+  |---------------|-----------------|-----------------|--------------|--------------|----------------|
+  | **Front-end** | **Basics**      | - HTML          |
+  |               |                 | - CSS           |
+  |               |                 | - Javascript    |
+  |               |                 |                 |
+  |               | **Frameworks**  | - React         |
+  |               |                 | - Vue           |
+  |               |                 | - Angular       |
+  |               |                 | - Webpack       |
+  |               |                 |                 |
+  |               | **Styles**      | - Bootstrap     |
+  |               |                 | - Material UI   |
+  |               |                 |                 |
+  |---------------|-----------------|-----------------|--------------|-----------------|
+  | **Backend**   | **Tecnologia**  | - PHP
+  |               |                 |
+  |               |                 |
+  |               |                 |
+  |               |                 |
+  |               |                 |
+  |               |                 |
+  |               |             |
+  |               |             |
+  |               |             |
+  |               |             |
+  |               |             |
+  |               |             |
+  |               |             |
+  |               |             |
+  |               |             |
+  |               |             |
+  |               |             |
+                              
+  
+  
+  
+  
+  
+  |-------------|--------------|--------------|-----------------|
+  
+  
   |    | **FRONT-END**   |    | **BACK-END**    |    |**DATABASE**       |    |**DEVOPS**           |    |**MOBILE**           |    |**ADICIONAL**          |
   |----| -------------   |----| --------------- |----| ----------------- |----| ------------------- |----| ------------------- |----| --------------------- |
   |    | **Basics**      |    | **Technology**  |    | **RDBMS**         |    |**Infrastructure**   |    | **Android**         |    | **IDE/Editors**       | 
