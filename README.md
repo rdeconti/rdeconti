@@ -26,8 +26,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
-  - Para atingir este objetivo tenho este planejamento
-  - Situação: Sem previsão :white_circle: / Em andamento :yellow_circle: / Em breve :purple_circle: / Concluído :green_circle:
+  - Para atingir este objetivo tenho este planejamento: Sem previsão :white_circle: / Em andamento :yellow_circle: / Em breve :purple_circle: / Concluído :green_circle:
   
   | **Função**    | **Divisão**         | **Ferramenta**        | **Situação**    | **Entidade**            | **Observação**                |
   |---------------|---------------------|-----------------------|-----------------|-------------------------|-------------------------------|
@@ -48,9 +47,9 @@
   |               |                     | - Redis               |:white_circle:   |                         |                               |
   | **Database**  | **RDBMS**           | - MsSql               |:white_circle:   |                         |                               |
   |               |                     | - MySql               |:white_circle:   |                         |                               |
-  |               |                     | - Sql                 |:white_circle:   |                         |                               |
+  |               |                     | - SqLite              |:white_circle:   |                         |                               |
   |               |                     | - Postgres            |:white_circle:   |                         |                               |
-  |               | **NOSQL**           | - Mongo               |:pruple_circle:  | Digital InnovationOne   |                               |
+  |               | **NOSQL**           | - Mongo               |:purple_circle:  | Digital InnovationOne   |                               |
   |               |                     | - Casandra            |:white_circle:   |                         |                               |
   |               |                     | - CouchDB             |:white_circle:   |                         |                               |
   |               |                     | - Elasticsearch       |:white_circle:   |                         |                               |
@@ -67,7 +66,7 @@
   |               | **Automação**       | - Ansible             |:white_circle:   |                         |                               |    
   |               |                     | - Chef                |:white_circle:   |                         |                               |   
   |               |                     | - Jenkins             |:white_circle:   |                         |                               |     
-  |               | **Virtualização**   | - Docker              |:pruple_circle:  | Digital InnovationOne   |                               |    
+  |               | **Virtualização**   | - Docker              |:purple_circle:  | Digital InnovationOne   |                               |    
   |               |                     | - Bladecenter         |:white_circle:   |                         |                               |    
   |               |                     | - Kubernetes          |:white_circle:   |                         |                               |    
   |               |                     | - Vagrant             |:white_circle:   |                         |                               |   
@@ -85,11 +84,11 @@
   |               |                     | - Sublime             |:white_circle:   |                         |                               |    
   |               |                     | - Visual Studio Code  |:white_circle:   |                         |                               |   
   |               |                     | - Visual Studio       |:white_circle:   |                         |                               |    
-  |               |                     | - Android Studio      |:white_circle:   |                         |                               |    
+  |               |                     | - Android Studio      |:green_circle:   | Udacity                 |                               |    
   |               | **Desenvolvimento** | - Firebase            |:white_circle:   |                         |                               | 
   |               |                     | - Git                 |:green_circle:   | Digital InnovationOne   |                               |
   |               |                     | - GitHub              |:green_circle:   | Digital InnovationOne   |                               |
-  |               | **Metodologias**    | - Scrum               |:pruple_circle:  | Digital InnovationOne   |                               |
+  |               | **Metodologias**    | - Scrum               |:purple_circle:  | Digital InnovationOne   |                               |
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
