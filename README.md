@@ -27,69 +27,69 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
   - Para atingir este objetivo tenho este planejamento
-  - Situação: Sem previsão :white_circle: / Em andamento :yellow_circle: / Em breve: blue_circle: / Concluído :green_circle:
+  - Situação: Sem previsão :white_circle: / Em andamento :yellow_circle: / Em breve :purple_circle: / Concluído :green_circle:
   
-  | **Função**    | **Divisão**         | **Ferramenta**        | **Situação**    | **Entidade**      | **Observação**                |
-  |---------------|---------------------|-----------------------|-----------------|-------------------|-------------------------------|
-  | **Front-end** | **Basics**          | - HTML                |:green_circle:   |                   |                               |
-  |               |                     | - CSS                 |:green_circle:   |                   |                               |
-  |               |                     | - Javascript          |:green_circle:   |                   |                               |
-  |               | **Frameworks**      | - React               |:white_circle:   |                   |                               |
-  |               |                     | - Vue                 |:white_circle:   |                   |                               |
-  |               |                     | - Angular             |:white_circle:   |                   |                               |
-  |               |                     | - Webpack             |:white_circle:   |                   |                               |
-  |               | **Styles**          | - Bootstrap           |:white_circle:   |                   |                               |
-  |               |                     | - Material UI         |:white_circle:   |                   |                               |
-  | **Backend**   | **Tecnologia**      | - PHP                 |:white_circle:   |                   |                               |
-  |               |                     | - Node                |:white_circle:   |                   |                               |
-  |               |                     | - Ruby on Rails       |:blue_circle:    |                   |                               |
-  |               |                     | - Java Spring         |:white_circle:   |                   |                               |
-  |               |                     | - Asp.Net             |:white_circle:   |                   |                               |
-  |               |                     | - Redis               |:white_circle:   |                   |                               |
-  | **Database**  | **RDBMS**           | - MsSql               |:white_circle:   |                   |                               |
-  |               |                     | - MySql               |:white_circle:   |                   |                               |
-  |               |                     | - Sql                 |:white_circle:   |                   |                               |
-  |               |                     | - Postgres            |:white_circle:   |                   |                               |
-  |               | **NOSQL**           | - Mongo               |:white_circle:   |                   |                               |
-  |               |                     | - Casandra            |:white_circle:   |                   |                               |
-  |               |                     | - CouchDB             |:white_circle:   |                   |                               |
-  |               |                     | - Elasticsearch       |:white_circle:   |                   |                               |
-  |               | **Graph**           | - Neo4j               |:white_circle:   |                   |                               |
-  |               |                     | - ArangoDB            |:white_circle:   |                   |                               |
-  |               | **Message Queues**  | - Kafka               |:white_circle:   |                   |                               |
-  |               |                     | - Sqs                 |:white_circle:   |                   |                               |
-  |               |                     | - ZeroMQ              |:white_circle:   |                   |                               |
-  |               |                     | - RabbitMQ            |:white_circle:   |                   |                               |                        
-  | **DEVOPS**    | **Infraestrutura**  | - NGINX               |:white_circle:   |                   |                               |   
-  |               |                     | - AWS                 |:white_circle:   |                   |                               |    
-  |               |                     | - Azure               |:white_circle:   |                   |                               |    
-  |               |                     | - ELK                 |:white_circle:   |                   |                               |    
-  |               | **Automação**       | - Ansible             |:white_circle:   |                   |                               |    
-  |               |                     | - Chef                |:white_circle:   |                   |                               |   
-  |               |                     | - Jenkins             |:white_circle:   |                   |                               |     
-  |               | **Virtualização**   | - Docker              |:white_circle:   |                   |                               |    
-  |               |                     | - Bladecenter         |:white_circle:   |                   |                               |    
-  |               |                     | - Kubernetes          |:white_circle:   |                   |                               |    
-  |               |                     | - Vagrant             |:white_circle:   |                   |                               |   
-  |               |                     | - VMWare              |:white_circle:   |                   |                               |    
-  |**Mobile App** | **Android**         | - Java                |:white_circle:   |                   |                               |    
-  |               |                     | - SDK                 |:white_circle:   |                   |                               |    
-  |               | **IOS**             | - Obective C          |:white_circle:   |                   |                               |  
-  |               |                     | - Swift               |:white_circle:   |                   |                               |  
-  |               | **Cross Plataform** | - Reactive Native     |:white_circle:   |                   |                               |  
-  |               |                     | - Ionic               |:white_circle:   |                   |                               |   
-  |               |                     | - PWA                 |:white_circle:   |                   |                               |    
-  |               |                     | - Xamarin             |:white_circle:   |                   |                               |  
-  |               |                     | - Unity               |:white_circle:   |                   |                               |    
-  |**Outros**     | **IDE/Editor**      | - Atom                |:white_circle:   |                   |                               |    
-  |               |                     | - Sublime             |:white_circle:   |                   |                               |    
-  |               |                     | - Visual Studio Code  |:white_circle:   |                   |                               |   
-  |               |                     | - Visual Studio       |:white_circle:   |                   |                               |    
-  |               |                     | - Android Studio      |:white_circle:   |                   |                               |    
-  |               | **Desenvolvimento** | - Firebase            |:white_circle:   |                   |                               | 
-  |               |                     | - Git                 |:white_circle:   |                   |                               |
-  |               |                     | - GitHub              |:white_circle:   |                   |                               |
-  |               | **Metodologias**    | - Scrum               |:white_circle:   |                   |                               |
+  | **Função**    | **Divisão**         | **Ferramenta**        | **Situação**    | **Entidade**            | **Observação**                |
+  |---------------|---------------------|-----------------------|-----------------|-------------------------|-------------------------------|
+  | **Front-end** | **Basics**          | - HTML                |:green_circle:   | Alura                   |                               |
+  |               |                     | - CSS                 |:green_circle:   | Alura                   |                               |
+  |               |                     | - Javascript          |:green_circle:   | Alura                   |                               |
+  |               | **Frameworks**      | - React               |:white_circle:   |                         |                               |
+  |               |                     | - Vue                 |:white_circle:   |                         |                               |
+  |               |                     | - Angular             |:white_circle:   |                         |                               |
+  |               |                     | - Webpack             |:white_circle:   |                         |                               |
+  |               | **Styles**          | - Bootstrap           |:white_circle:   |                         |                               |
+  |               |                     | - Material UI         |:white_circle:   |                         |                               |
+  | **Backend**   | **Tecnologia**      | - PHP                 |:white_circle:   |                         |                               |
+  |               |                     | - Node                |:white_circle:   |                         |                               |
+  |               |                     | - Ruby on Rails       |:purple_circle:  | Digital Innovation One  |                               |
+  |               |                     | - Java Spring         |:white_circle:   |                         |                               |
+  |               |                     | - Asp.Net             |:white_circle:   |                         |                               |
+  |               |                     | - Redis               |:white_circle:   |                         |                               |
+  | **Database**  | **RDBMS**           | - MsSql               |:white_circle:   |                         |                               |
+  |               |                     | - MySql               |:white_circle:   |                         |                               |
+  |               |                     | - Sql                 |:white_circle:   |                         |                               |
+  |               |                     | - Postgres            |:white_circle:   |                         |                               |
+  |               | **NOSQL**           | - Mongo               |:pruple_circle:  | Digital InnovationOne   |                               |
+  |               |                     | - Casandra            |:white_circle:   |                         |                               |
+  |               |                     | - CouchDB             |:white_circle:   |                         |                               |
+  |               |                     | - Elasticsearch       |:white_circle:   |                         |                               |
+  |               | **Graph**           | - Neo4j               |:white_circle:   |                         |                               |
+  |               |                     | - ArangoDB            |:white_circle:   |                         |                               |
+  |               | **Message Queues**  | - Kafka               |:white_circle:   |                         |                               |
+  |               |                     | - Sqs                 |:white_circle:   |                         |                               |
+  |               |                     | - ZeroMQ              |:white_circle:   |                         |                               |
+  |               |                     | - RabbitMQ            |:white_circle:   |                         |                               |                        
+  | **DEVOPS**    | **Infraestrutura**  | - NGINX               |:white_circle:   |                         |                               |   
+  |               |                     | - AWS                 |:white_circle:   |                         |                               |    
+  |               |                     | - Azure               |:white_circle:   |                         |                               |    
+  |               |                     | - ELK                 |:white_circle:   |                         |                               |    
+  |               | **Automação**       | - Ansible             |:white_circle:   |                         |                               |    
+  |               |                     | - Chef                |:white_circle:   |                         |                               |   
+  |               |                     | - Jenkins             |:white_circle:   |                         |                               |     
+  |               | **Virtualização**   | - Docker              |:pruple_circle:  | Digital InnovationOne   |                               |    
+  |               |                     | - Bladecenter         |:white_circle:   |                         |                               |    
+  |               |                     | - Kubernetes          |:white_circle:   |                         |                               |    
+  |               |                     | - Vagrant             |:white_circle:   |                         |                               |   
+  |               |                     | - VMWare              |:white_circle:   |                         |                               |    
+  |**Mobile App** | **Android**         | - Java                |:green_circle:   | Udacity                 |                               |    
+  |               |                     | - SDK                 |:green_circle:   | Udacity                 |                               |    
+  |               | **IOS**             | - Obective C          |:white_circle:   |                         |                               |  
+  |               |                     | - Swift               |:white_circle:   |                         |                               |  
+  |               | **Cross Plataform** | - Reactive Native     |:white_circle:   |                         |                               |  
+  |               |                     | - Ionic               |:white_circle:   |                         |                               |   
+  |               |                     | - PWA                 |:white_circle:   |                         |                               |    
+  |               |                     | - Xamarin             |:white_circle:   |                         |                               |  
+  |               |                     | - Unity               |:white_circle:   |                         |                               |    
+  |**Outros**     | **IDE/Editor**      | - Atom                |:white_circle:   |                         |                               |    
+  |               |                     | - Sublime             |:white_circle:   |                         |                               |    
+  |               |                     | - Visual Studio Code  |:white_circle:   |                         |                               |   
+  |               |                     | - Visual Studio       |:white_circle:   |                         |                               |    
+  |               |                     | - Android Studio      |:white_circle:   |                         |                               |    
+  |               | **Desenvolvimento** | - Firebase            |:white_circle:   |                         |                               | 
+  |               |                     | - Git                 |:green_circle:   | Digital InnovationOne   |                               |
+  |               |                     | - GitHub              |:green_circle:   | Digital InnovationOne   |                               |
+  |               | **Metodologias**    | - Scrum               |:pruple_circle:  | Digital InnovationOne   |                               |
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
