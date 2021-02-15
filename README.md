@@ -82,10 +82,11 @@
   |               |                     | - Xamarin             |:white_circle:   |                         |                               |  
   |               |                     | - Unity               |:white_circle:   |                         |                               |    
   |**Outros**     | **IDE/Editor**      | - Atom                |:green_circle:   | Alura                   |                               |    
-  |               |                     | - Sublime             |:green_circle:   | Alura                   |                               |    
+  |               |                     | - Sublime             |:green_circle:   | Alura                   |                               |
+  |               |                     | - Eclipse             |:green_circle:   | Alura                   |                               |    
   |               |                     | - Visual Studio Code  |:green_circle:   | Alura                   |                               |   
   |               |                     | - Visual Studio       |:white_circle:   |                         |                               |    
-  |               |                     | - Android Studio      |:green_circle:   | Udacity                 |                               |    
+  |               |                     | - Android Studio      |:green_circle:   | Udacity                 |                               |        
   |               | **Desenvolvimento** | - Firebase            |:white_circle:   |                         |                               | 
   |               |                     | - Git                 |:green_circle:   | Digital InnovationOne   |                               |
   |               |                     | - GitHub              |:green_circle:   | Digital InnovationOne   |                               |
