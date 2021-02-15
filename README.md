@@ -80,9 +80,9 @@
   |               |                     | - PWA                 |:white_circle:   |                         |                               |    
   |               |                     | - Xamarin             |:white_circle:   |                         |                               |  
   |               |                     | - Unity               |:white_circle:   |                         |                               |    
-  |**Outros**     | **IDE/Editor**      | - Atom                |:white_circle:   |                         |                               |    
-  |               |                     | - Sublime             |:white_circle:   |                         |                               |    
-  |               |                     | - Visual Studio Code  |:white_circle:   |                         |                               |   
+  |**Outros**     | **IDE/Editor**      | - Atom                |:green_circle:   | Alura                   |                               |    
+  |               |                     | - Sublime             |:green_circle:   | Alura                   |                               |    
+  |               |                     | - Visual Studio Code  |:green_circle:   | Alura                   |                               |   
   |               |                     | - Visual Studio       |:white_circle:   |                         |                               |    
   |               |                     | - Android Studio      |:green_circle:   | Udacity                 |                               |    
   |               | **Desenvolvimento** | - Firebase            |:white_circle:   |                         |                               | 
