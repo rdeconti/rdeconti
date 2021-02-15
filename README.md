@@ -29,68 +29,68 @@
   - Para atingir este objetivo tenho este planejamento
   - Legenda: Concluído=OK / Em andamento=AN / Em breve=BR / Sem previsão=SP
   
-  | **Função**    | **Divisão**     | **Ferramenta**  | **Situação** | **Entidade** | **Observação** |
-  |---------------|-----------------|-----------------|--------------|--------------|----------------|
-  | **Front-end** | **Basics**      | - HTML          |
-  |               |                 | - CSS           |
-  |               |                 | - Javascript    |
-  |               |                 |                 |
-  |               | **Frameworks**  | - React         |
-  |               |                 | - Vue           |
-  |               |                 | - Angular       |
-  |               |                 | - Webpack       |
-  |               |                 |                 |
-  |               | **Styles**      | - Bootstrap     |
-  |               |                 | - Material UI   |
-  |               |                 |                 |
-  |---------------|-----------------|-----------------|--------------|-----------------|
-  | **Backend**   | **Tecnologia**  | - PHP
-  |               |                 |
-  |               |                 |
-  |               |                 |
-  |               |                 |
-  |               |                 |
-  |               |                 |
-  |               |             |
-  |               |             |
-  |               |             |
-  |               |             |
-  |               |             |
-  |               |             |
-  |               |             |
-  |               |             |
-  |               |             |
-  |               |             |
-  |               |             |
-                              
+  | **Função**    | **Divisão**         | **Ferramenta**  | **Situação** | **Entidade** | **Observação** |
+  |---------------|---------------------|-----------------|--------------|--------------|----------------|
+  | **Front-end** | **Basics**          | - HTML                |
+  |               |                     | - CSS                 |
+  |               |                     | - Javascript          |
+  |               | **Frameworks**      | - React               |
+  |               |                     | - Vue                 |
+  |               |                     | - Angular             |
+  |               |                     | - Webpack             |
+  |               | **Styles**          | - Bootstrap           |
+  |               |                     | - Material UI         |
+  | **Backend**   | **Tecnologia**      | - PHP                 |
+  |               |                     | - Node                |
+  |               |                     | - Ruby on Rails       |
+  |               |                     | - Java Spring         |
+  |               |                     | - Asp.Net             |
+  |               |                     | - Redis               |
+  | **Database**  | **RDBMS**           | - MsSql               |  
+  |               |                     | - MySql               |
+  |               |                     | - Sql                 |
+  |               |                     | - Postgres            |
+  |               | **NOSQL**           | - Mongo               |
+  |               |                     | - Casandra            |  
+  |               |                     | - CouchDB             |
+  |               |                     | - Elasticsearch       |
+  |               | **Graph**           | - Neo4j               |
+  |               |                     | - ArangoDB            |
+  |               | **Message Queues**  | - Kafka               |                   
+  |               |                     | - Sqs                 |
+  |               |                     | - ZeroMQ              |
+  |               |                     | - RabbitMQ            |                        
+  | **DEVOPS**    | **Infraestrutura**  | - NGINX               |   
+  |               |                     | - AWS                 |    
+  |               |                     | - Azure               |    
+  |               |                     | - ELK                 |    
+  |               | **Automação**       | - Ansible             |    
+  |               |                     | - Chef                |   
+  |               |                     | - Jenkins             |     
+  |               | **Virtualização**   | - Docker              |    
+  |               |                     | - Bladecenter         |    
+  |               |                     | - Kubernetes          |    
+  |               |                     | - Vagrant             |   
+  |               |                     | - VMWare              |    
+  |**Mobile App** | **Android**         | - Java                |    
+  |               |                     | - SDK                 |    
+  |               | **IOS**             | - Obective C          |    
+  |               |                     | - Swift               |   
+  |               | **Cross Plataform** | - Reactive Native     |  
+  |               |                     | - Ionic               |    
+  |               |                     | - PWA                 |    
+  |               |                     | - Xamarin             |  
+  |               |                     | - Unity               |    
+  |**Outros**     | **IDE/Editor**      | - Atom                |    
+  |               |                     | - Sublime             |    
+  |               |                     | - Visual Studio Code  |   
+  |               |                     | - Visual Studio       |    
+  |               |                     | - Android Studio      |    
+  |               | **Desenvolvimento** | - Firebase            | 
+  |               |                     | - Git                 |
+  |               |                     | - GitHub              | 
+  |               | **Metodologias**    | - Scrum               |
   
-  
-  
-  
-  
-  |-------------|--------------|--------------|-----------------|
-  
-  
-  |    | **FRONT-END**   |    | **BACK-END**    |    |**DATABASE**       |    |**DEVOPS**           |    |**MOBILE**           |    |**ADICIONAL**          |
-  |----| -------------   |----| --------------- |----| ----------------- |----| ------------------- |----| ------------------- |----| --------------------- |
-  |    | **Basics**      |    | **Technology**  |    | **RDBMS**         |    |**Infrastructure**   |    | **Android**         |    | **IDE/Editors**       | 
-  | OK | HTML            | SP | PHP             | SP | MSSQL             | SP | NGINX               | OK | Java                | OK | Atom                  |
-  | OK | CSS             | SP | Node            | SP | MySql             | SP | AWS                 | SP | SDK                 | OK | Sublime               |
-  | OK | Javascript      | SP | Ruby            | SP | Postgress         | SP | Azure               |    | **IOS**             | AN | Visual Studio Code    |
-  |    | **Frameworks**  | OK | Java            |    |**NoSQL**          | SP | ELK                 | SP | Obective C          | SP | Visual Studio         |
-  | SP | React           | SP | ASP.NET         | SP | Mongo             |    |**Automation**       | SP | Swift               | OK | Android Studio         |
-  | SP | Vue             | SP | Redis           | SP | Casandra          | SP | Asible              |    | **Cross**           |    | **Desenvolvimento**   |
-  | SP | Angular         |    |                 | SP | CouchDB           | SP | Chef                | SP | Unity               | SP | SQLite                |
-  | SP | Webpack         |    |                 | SP | Elasticsearch     | SP | Jenkins             | SP | React Native        | SP | Firebase              |
-  |    | **Styles**      |    |                 |    | **Graph**         |    | **Virtualization**  | SP | Ionic               | OK | GitHub                |
-  | SP | Bootstrap       |    |                 | SP | Neo4j             | SP | Docker              | SP | PWA                 | OK | Git                   |
-  | SP | Material UI     |    |                 | SP | ArangoDB          | SP | Bladecenter         | SP | Xamarin             |    | **Outros**            |
-  |    | **Complemento** |    |                 |    | **MessageQueues** | SP | Kubernetes          |    |                     | SP | Scrum                 |
-  | OK | JQuery          |    |                 | SP | Kafka             | SP | Vagrant             |    |                     | OK | Microsoft Office      |
-  | OK | Ajax            |    |                 | SP | SQS               | SP | VMWare              |    |                     | SP | Scrum                 |
-  | OK | Json            |    |                 | SP | ZeroMQ            |    |                     |    |                     |    |                       |
-  |    |                 |    |                 | SP | RabbitMQ          |    |                     |    |                     |    |                       | 
- 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
   ### :heart: Fora do desenvolvimento, eu gosto de:
