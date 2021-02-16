@@ -64,7 +64,7 @@
   |               |                     | - Sqs                 |:white_circle:   |                         |                               
   |               |                     | - ZeroMQ              |:white_circle:   |                         |                               
   |               |                     | - RabbitMQ            |:white_circle:   |                         |                                                       
-  | :four :       |                     |                       |                 |                         |
+  | :four:        |                     |                       |                 |                         |
   | **DEVOPS**    | **Infraestrutura**  | - NGINX               |:white_circle:   |                         |                                 
   |               |                     | - AWS                 |:white_circle:   |                         |                                 
   |               |                     | - Azure               |:white_circle:   |                         |                                 
