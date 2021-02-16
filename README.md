@@ -136,7 +136,8 @@
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
 | Digital Innovation One | Aplicação CRUD em memória | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
-| Digital Innovation One | Desafios                  | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a> |
+| Digital Innovation One | Desafio 01                | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a> |
+| Digital Innovation One | Desafio 02                | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a> |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
