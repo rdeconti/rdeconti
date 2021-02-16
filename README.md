@@ -26,7 +26,28 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
-  - Para atingir este objetivo tenho este planejamento: Sem previsão :white_circle: / Em andamento :yellow_circle: / Em breve :purple_circle: / Concluído :green_circle:
+  - Para atingir este objetivo tenho este planejamento: 
+  - (  *Legenda: Em andamento :yellow_circle: / Em breve :purple_circle: / Concluído :green_circle: / Sem previsão :white_circle:*  )
+  
+  | **Habilidade**          | **Ferramenta**          | **Descrição**                         | **Situação**    | **Entidades**            |
+  |-------------------------|-------------------------|---------------------------------------|-----------------|--------------------------|
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          | 
+  |                         |                         |                                       |                 |                          |   
+  
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+  
+  
   
   | **Função**    | **Divisão**         | **Ferramenta**        | **Situação**    | **Entidade**            | **Observação**                |
   |---------------|---------------------|-----------------------|-----------------|-------------------------|-------------------------------|
