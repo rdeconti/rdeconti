@@ -132,10 +132,11 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Projetos do Bootcamp - MRV .NET Developer
+## :label: Projetos e desafios do Bootcamp - MRV .NET Developer
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| Digital Innovation One | Aplicação CRUD em memória | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
+| Digital Innovation One | Aplicação CRUD em memória | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
+| Digital Innovation One | Desafios                  | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-Desafios</a> |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
