@@ -31,7 +31,7 @@
   
   | **Função**    | **Divisão**         | **Ferramenta**        | **Situação**    | **Entidade**            | **Observação**                |
   |---------------|---------------------|-----------------------|-----------------|-------------------------|-------------------------------|
-  | ============= | =================== | ===================== | =============== | ======================= | ============================= |  
+  | ==== | ==== | ==== | ==== | ==== | ==== |  
   | **FRONT END** | **Basics**          | - HTML                |:green_circle:   | Alura                   |                               |
   |               |                     | - CSS                 |:green_circle:   | Alura                   |                               |
   |               |                     | - Javascript          |:green_circle:   | Alura                   |                               |
@@ -41,14 +41,14 @@
   |               |                     | - Webpack             |:white_circle:   |                         |                               |
   |               | **Styles**          | - Bootstrap           |:white_circle:   |                         |                               |
   |               |                     | - Material UI         |:white_circle:   |                         |                               |
-  | ============= | =================== | ===================== | =============== | ======================= | ============================= |  
+  | ==== | ==== | ==== | ==== | ==== | ==== | 
   | **BACK END**  | **Tecnologia**      | - PHP                 |:white_circle:   |                         |                               |
   |               |                     | - Node                |:white_circle:   |                         |                               |
   |               |                     | - Ruby on Rails       |:purple_circle:  | Digital Innovation One  |                               |
   |               |                     | - Java Spring         |:white_circle:   |                         |                               |
   |               |                     | - Asp.Net             |:white_circle:   |                         |                               |
   |               |                     | - Redis               |:white_circle:   |                         |                               |
-  | ============= | =================== | ===================== | =============== | ======================= | ============================= |   
+  | ==== | ==== | ==== | ==== | ==== | ==== |  
   | **DATABASE**  | **RDBMS**           | - MsSql               |:white_circle:   |                         |                               |
   |               |                     | - MySql               |:white_circle:   |                         |                               |
   |               |                     | - SqLite              |:white_circle:   |                         |                               |
@@ -64,7 +64,7 @@
   |               |                     | - Sqs                 |:white_circle:   |                         |                               |
   |               |                     | - ZeroMQ              |:white_circle:   |                         |                               |
   |               |                     | - RabbitMQ            |:white_circle:   |                         |                               |                        
-  | ============= | =================== | ===================== | =============== | ======================= | ============================= |      
+  | ==== | ==== | ==== | ==== | ==== | ==== |   
   | **DEVOPS**    | **Infraestrutura**  | - NGINX               |:white_circle:   |                         |                               |   
   |               |                     | - AWS                 |:white_circle:   |                         |                               |    
   |               |                     | - Azure               |:white_circle:   |                         |                               |    
@@ -77,7 +77,7 @@
   |               |                     | - Kubernetes          |:white_circle:   |                         |                               |    
   |               |                     | - Vagrant             |:white_circle:   |                         |                               |   
   |               |                     | - VMWare              |:white_circle:   |                         |                               |    
-  | ============= | =================== | ===================== | =============== | ======================= | ============================= |  
+  | ==== | ==== | ==== | ==== | ==== | ==== |  
   |**Mobile App** | **Android**         | - Java                |:green_circle:   | Udacity                 |                               |    
   |               |                     | - SDK                 |:green_circle:   | Udacity                 |                               |    
   |               | **IOS**             | - Obective C          |:white_circle:   |                         |                               |  
@@ -87,7 +87,7 @@
   |               |                     | - PWA                 |:white_circle:   |                         |                               |    
   |               |                     | - Xamarin             |:white_circle:   |                         |                               |  
   |               |                     | - Unity               |:white_circle:   |                         |                               |    
-  | ============= | =================== | ===================== | =============== | ======================= | ============================= |    
+  | ==== | ==== | ==== | ==== | ==== | ==== |   
   |**Outros**     | **IDE/Editor**      | - Atom                |:green_circle:   | Alura                   |                               |    
   |               |                     | - Sublime             |:green_circle:   | Alura                   |                               |
   |               |                     | - Eclipse             |:green_circle:   | Alura                   |                               |    
