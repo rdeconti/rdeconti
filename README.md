@@ -41,9 +41,6 @@
   - Para atingir este objetivo tenho este planejamento: 
   - (  *Legenda: Em andamento :yellow_circle: / Em breve :purple_circle: / Concluído :green_circle: / Sem previsão :white_circle:*  )  
 
-  <details>
-    <summary>Clique aqui para expandir</summary>
-
     | **Função**    | **Divisão**         | **Ferramenta**        | **Situação**    | **Entidade**            |
     |---------------|---------------------|-----------------------|-----------------|-------------------------|
     | :one:         |                     |                       |                 |                         |
@@ -113,8 +110,6 @@
     |               |                     | - Git                 |:green_circle:   | Digital InnovationOne   |                              
     |               |                     | - GitHub              |:green_circle:   | Digital InnovationOne   |                               
     |               | **Metodologias**    | - Scrum               |:purple_circle:  | Digital InnovationOne   | 
-
-  </details>
                     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
