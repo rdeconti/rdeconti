@@ -90,8 +90,8 @@
     |               |                     | - Vagrant             |:white_circle:   |                         |                                  
     |               |                     | - VMWare              |:white_circle:   |                         |                                   
     | :five:        |                     |                       |                 |                         | 
-    |**Mobile App** | **Android**         | - Java                |:green_circle:   | Udacity                 |                                   
-    |               |                     | - SDK                 |:green_circle:   | Udacity                 |                                   
+    |**Mobile App** | **Android**         | - Java                |:green_circle:   | Udacity / Udemy         |                                   
+    |               |                     | - SDK                 |:green_circle:   | Udacity / Udemy         |                                   
     |               |                     | - Kotlin              |:white_circle:   |                         |   
     |               | **IOS**             | - Obective C          |:white_circle:   |                         |                                 
     |               |                     | - Swift               |:white_circle:   |                         |                                 
@@ -101,18 +101,21 @@
     |               |                     | - Xamarin             |:white_circle:   |                         |                                 
     |               |                     | - Unity               |:white_circle:   |                         |                                  
     | :six:         |                     |                       |                 |                         |  
-    |**Outros**     | **IDE/Editor**      | - Atom                |:green_circle:   | Alura                   |                                   
+    |**IDE/Editor** | **Editor**          | - Atom                |:green_circle:   | Alura                   |                                   
     |               |                     | - Sublime             |:green_circle:   | Alura                   |                               
     |               |                     | - Eclipse             |:green_circle:   | Alura                   |                                   
     |               |                     | - Visual Studio Code  |:green_circle:   | Alura                   |                                  
-    |               |                     | - Visual Studio       |:white_circle:   |                         |                                   
-    |               |                     | - Android Studio      |:green_circle:   | Udacity                 |                                      
-    |               | **Desenvolvimento** | - Firebase            |:white_circle:   |                         |                                
+    |               | **IDE**             | - Visual Studio       |:white_circle:   |                         |                                   
+    |               |                     | - Android Studio      |:green_circle:   | Udacity                 | 
+    | :seven:       |                     |                       |                 |                         |
+    |**Ferramentas**| **Desenvolvimento** | - Firebase            |:white_circle:   |                         |                                
     |               |                     | - Git                 |:green_circle:   | Digital InnovationOne   |                              
-    |               |                     | - GitHub              |:green_circle:   | Digital InnovationOne   |                               
-    |               | **Metodologias**    | - Scrum               |:purple_circle:  | Digital InnovationOne   | 
+    |               |                     | - GitHub              |:green_circle:   | Digital InnovationOne   |
+    |               | **Metodologias**    | - Scrum               |:green_circle:   | Digital InnovationOne   | 
     |               |                     | - Kanban              |:white_circle:   |                         | 
     |               |                     | - Waterfall           |:white_circle:   |                         | 
+    |               |                     |                       |:white_circle:   |                         |
+    | :eight:       |                     |                       |                 |                         |
                     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
