@@ -59,7 +59,8 @@
     |               |                     | - Ruby on Rails       |:purple_circle:  | Digital Innovation One  |                               
     |               |                     | - Java Spring         |:white_circle:   |                         |                               
     |               |                     | - Asp.Net             |:white_circle:   |                         |                               
-    |               |                     | - Redis               |:white_circle:   |                         |                               
+    |               |                     | - Redis               |:white_circle:   |                         |
+    |               |                     | - Java                |:green_circle:   | Alura                   |   
     | :three:       |                     |                       |                 |                         |
     | **DATABASE**  | **RDBMS**           | - MsSql               |:white_circle:   |                         |                               
     |               |                     | - MySql               |:white_circle:   |                         |                               
@@ -111,11 +112,12 @@
     |**Ferramentas**| **Desenvolvimento** | - Firebase            |:white_circle:   |                         |                                
     |               |                     | - Git                 |:green_circle:   | Digital InnovationOne   |                              
     |               |                     | - GitHub              |:green_circle:   | Digital InnovationOne   |
-    |               | **Metodologias**    | - Scrum               |:green_circle:   | Digital InnovationOne   | 
+    |               | **Metodologias**    | - Scrum               |:green_circle:   | Digital InnovationOne / Alura | 
     |               |                     | - Kanban              |:white_circle:   |                         | 
     |               |                     | - Waterfall           |:white_circle:   |                         | 
-    |               |                     |                       |:white_circle:   |                         |
+    |               |                     | - Design thinking     |:green_circle:   | Udemy                   | 
     | :eight:       |                     |                       |                 |                         |
+    |**Desenho **   | **Interface**       | - Desenho interface   |:green_circle:   | Udemy                   | 
                     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
