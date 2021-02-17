@@ -3,16 +3,7 @@
 <!-- VERIFICAR CERTIFICAÇÕES -->
 <!-- https://blog.geekhunter.com.br/conheca-as-8-certificacoes-em-ti-mais-requisitadas-no-brasil/ --> 
 
-<!--
-
-  <details>
-    <summary>Clique aqui para expandir</summary>
-
-    whatever
-
-  </details>
-
--->
+<!-- ATUALIZAR CVS -->
 
 :spiral_calendar: Atualizado em 13 Fevereiro de 2021 :heart:
 
