@@ -1,5 +1,8 @@
 <!-- https://emojipedia.org/ -->
 
+<!-- VERIFICAR CERTIFICAÇÕES -->
+<!-- https://blog.geekhunter.com.br/conheca-as-8-certificacoes-em-ti-mais-requisitadas-no-brasil/ --> 
+
 <!--
 
   <details>
