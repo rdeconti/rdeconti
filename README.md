@@ -92,6 +92,7 @@
     | :five:        |                     |                       |                 |                         | 
     |**Mobile App** | **Android**         | - Java                |:green_circle:   | Udacity                 |                                   
     |               |                     | - SDK                 |:green_circle:   | Udacity                 |                                   
+    |               |                     | - Kotlin              |:white_circle:   |                         |   
     |               | **IOS**             | - Obective C          |:white_circle:   |                         |                                 
     |               |                     | - Swift               |:white_circle:   |                         |                                 
     |               | **Cross Plataform** | - Reactive Native     |:white_circle:   |                         |                                 
