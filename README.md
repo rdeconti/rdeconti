@@ -111,6 +111,8 @@
     |               |                     | - Git                 |:green_circle:   | Digital InnovationOne   |                              
     |               |                     | - GitHub              |:green_circle:   | Digital InnovationOne   |                               
     |               | **Metodologias**    | - Scrum               |:purple_circle:  | Digital InnovationOne   | 
+    |               |                     | - Kanban              |:white_circle:   |                         | 
+    |               |                     | - Waterfall           |:white_circle:   |                         | 
                     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
