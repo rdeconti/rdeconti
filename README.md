@@ -132,14 +132,14 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Projetos e desafios do Bootcamp - MRV .NET Developer
+## :label: Projetos e desafios do Bootcamp - MRV .NET Developer (Digital Innovation One)
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| Digital Innovation One | Aplicação CRUD em memória        | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
-| Digital Innovation One | Desafio 01 - Visita na feira     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a> |
-| Digital Innovation One | Desafio 02 - Validação de nota   | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a> |
-| Digital Innovation One | Desafio 03 - Tuitando            | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03
-">Link</a> |
+| DIO | Aplicação CRUD em memória        | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
+| DIO | Desafio 01 - Visita na feira     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a> |
+| DIO | Desafio 02 - Validação de nota   | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a> |
+| DIO | Desafio 03 - Tuitando            | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Link</a> |
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label:  Projetos para ampliar conhecimentos
