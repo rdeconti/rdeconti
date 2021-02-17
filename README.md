@@ -46,7 +46,10 @@
     | :one:         |                     |                       |                 |                         |
     | **FRONT END** | **Basics**          | - HTML                |:green_circle:   | Alura                   |
     |               |                     | - CSS                 |:green_circle:   | Alura                   |                               
-    |               |                     | - Javascript          |:green_circle:   | Alura                   |                               
+    |               |                     | - Javascript          |:green_circle:   | Alura                   |     
+    |               |                     | - JQuery              |:green_circle:   | Alura                   |
+    |               |                     | - JSon                |:green_circle:   | Alura                   |
+    |               |                     | - Ajax                |:green_circle:   | Alura                   |     
     |               | **Frameworks**      | - React               |:white_circle:   |                         |                               
     |               |                     | - Vue                 |:white_circle:   |                         |                               
     |               |                     | - Angular             |:white_circle:   |                         |                               
@@ -55,7 +58,7 @@
     |               |                     | - Material UI         |:white_circle:   |                         |                               
     | :two:         |                     |                       |                 |                         |
     | **BACK END**  | **Tecnologia**      | - PHP                 |:white_circle:   |                         |                               
-    |               |                     | - Node                |:white_circle:   |                         |                               
+    |               |                     | - NodeJs              |:white_circle:   |                         |                               
     |               |                     | - Ruby on Rails       |:purple_circle:  | Digital Innovation One  |                               
     |               |                     | - Java Spring         |:white_circle:   |                         |                               
     |               |                     | - Asp.Net             |:white_circle:   |                         |                               
@@ -116,8 +119,9 @@
     |               |                     | - Kanban              |:white_circle:   |                         | 
     |               |                     | - Waterfall           |:white_circle:   |                         | 
     |               |                     | - Design thinking     |:green_circle:   | Udemy                   | 
+    |               |                     | - Testes usabilidade  |:green_circle:   | Udemy                   |     
     | :eight:       |                     |                       |                 |                         |
-    |**Desenho **   | **Interface**       | - Desenho interface   |:green_circle:   | Udemy                   | 
+    |**Desenho**    | **Interface**       | - Desenho interface   |:green_circle:   | Udemy                   | 
                     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
