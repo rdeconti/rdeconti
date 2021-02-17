@@ -165,12 +165,12 @@
 ## :label: Projetos e desafios do Bootcamp - MRV .NET Fundamentals (Digital Innovation One)
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| DIO | Desafio 01 - ???            | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a> |
-| DIO | Desafio 02 - ???            | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a> |
-| DIO | Desafio 03 - ???            | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Link</a> |
-| DIO | Desafio 04 - ???            | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Link</a> |
-| DIO | Desafio 05 - ???            | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Link</a> |
-| DIO | Desafio 06 - ???            | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio06">Link</a> |
+| DIO | Desafio 01 - Dividindo X por Y  | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a> |
+| DIO | Desafio 02 - Bazinga!           | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a> |
+| DIO | Desafio 03 - Coxinha de bueno   | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Link</a> |
+| DIO | Desafio 04 - Dividindo X por Y  | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Link</a> |
+| DIO | Desafio 05 - Distância          | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Link</a> |
+| DIO | Desafio 06 - Quanta mandioca    | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio06">Link</a> |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
