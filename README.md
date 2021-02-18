@@ -49,7 +49,8 @@
     |               |                     | - Angular             |:white_circle:   |                               |                               
     |               |                     | - Webpack             |:white_circle:   |                               |                               
     |               | **Styles**          | - Bootstrap           |:white_circle:   |                               |                               
-    |               |                     | - Material UI         |:white_circle:   |                               |                               
+    |               |                     | - Material UI         |:white_circle:   |                               |
+    |               |                     | - Responsive design   |:green_circle:   | Alura                         |       
     | :two:         |                     |                       |                 |                               |
     | **BACK END**  | **Tecnologia**      | - PHP                 |:white_circle:   |                               |                               
     |               |                     | - NodeJs              |:white_circle:   |                               |                               
