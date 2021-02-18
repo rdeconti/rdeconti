@@ -155,7 +155,7 @@
 
 ## :label: Projetos e desafios do Bootcamp - MRV .NET Developer (Digital Innovation One)
 | Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | ----------- | ------ | ------- |
+| ------ | ---- | --------- | -------- | -------- |
 | DIO | Aplicação CRUD em memória        | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
 | DIO | Desafio 01 - Visita na feira     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a> |
 | DIO | Desafio 02 - Validação de nota   | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a> |
@@ -165,13 +165,18 @@
 
 ## :label: Projetos e desafios do Bootcamp - MRV .NET Fundamentals (Digital Innovation One)
 | Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | ----------- | ------ | ------- |
-| DIO | Desafio 01 - Dividindo X por Y  | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a> |
-| DIO | Desafio 02 - Bazinga!           | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a> |
-| DIO | Desafio 03 - Coxinha de bueno   | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Link</a> |
-| DIO | Desafio 04 - Dividindo X por Y  | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Link</a> |
-| DIO | Desafio 05 - Distância          | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Link</a> |
-| DIO | Desafio 06 - Quanta mandioca    | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio06">Link</a> |
+| ------ | ---- | --------- | -------- | -------- |
+| DIO | Desafio 01 - Dividindo X por Y          | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a> |
+| DIO | Desafio 02 - Bazinga!                   | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a> |
+| DIO | Desafio 03 - Coxinha de bueno           | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Link</a> |
+| DIO | Desafio 04 - Dividindo X por Y          | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Link</a> |
+| DIO | Desafio 05 - Distância                  | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Link</a> |
+| DIO | Desafio 06 - Quanta mandioca            | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio06">Link</a> |
+| DIO | Desafio 07 - Validação de nota          | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio07">Link</a> |
+| DIO | Desafio 08 - Quanta mandioca            | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio08">Link</a> |
+| DIO | Desafio 09 - Compras no Supermercado    | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio09">Link</a> |
+| DIO | Desafio 10 - Validador senha requisito  | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Link</a> |
+| DIO | Desafio 11 - Fila do banco              | Terminal | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio11">Link</a> |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
