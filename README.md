@@ -167,7 +167,7 @@
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | --------- | -------- | -------- |
 | DIO | Desafio 01 - Dividindo X por Y          |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a> |
-| DIO | Desafio 02 - Bazinga!                   |Terminal| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a> |
+| DIO | Desafio 02 - Bazinga!                   |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a> |
 | DIO | Desafio 03 - Coxinha de bueno           |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Link</a> |
 | DIO | Desafio 04 - Dividindo X por Y          |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Link</a> |
 | DIO | Desafio 05 - Distância                  |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Link</a> |
