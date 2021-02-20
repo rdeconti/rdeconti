@@ -121,6 +121,7 @@
     | :nine:        |                     |                       |                 |                               |
     |**Arquitetura**| **Fudamentos**      | - XML / JSON          |:green_circle:   | Digital InnovationOne         | 
     |               |                     | - SOAP / REST         |:green_circle:   | Digital InnovationOne         | 
+    |               |                     | - POSTMAN             |:green_circle:   | Digital InnovationOne         | 
                     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
