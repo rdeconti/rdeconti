@@ -175,7 +175,7 @@
 | DIO | Desafio 07 - Validação de nota          |Terminal| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio07">Link</a> |
 | DIO | Desafio 08 - Quanta mandioca            |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio08">Link</a> |
 | DIO | Desafio 09 - Compras no Supermercado    |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio09">Link</a> |
-| DIO | Desafio 10 - Validador senha requisitos |Terminal| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Link</a> |
+| DIO | Desafio 10 - Validador senha requisitos|Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Link</a> |
 | DIO | Desafio 11 - Fila do banco              |Terminal| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio11">Link</a> |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
