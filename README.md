@@ -119,7 +119,7 @@
     | :eight:       |                     |                       |                 |                               |
     |**Desenho**    | **Interface**       | - Desenho interface   |:green_circle:   | Udemy                         | 
     | :nine:        |                     |                       |                 |                               |
-    |**Arquitetura  | **Fudamentos**      | - XML / JSON          |:green_circle:   | Digital InnovationOne         | 
+    |**Arquitetura**| **Fudamentos**      | - XML / JSON          |:green_circle:   | Digital InnovationOne         | 
     |               |                     | - SOAP / REST         |:green_circle:   | Digital InnovationOne         | 
                     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
