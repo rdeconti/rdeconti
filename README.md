@@ -4,6 +4,7 @@
 <!-- https://blog.geekhunter.com.br/conheca-as-8-certificacoes-em-ti-mais-requisitadas-no-brasil/ --> 
 
 <!-- ATUALIZAR CVS -->
+<!-- CRIAR LINHA DO TEMPO DA CARREIRA -->
 
 :spiral_calendar: Atualizado em 23 Fevereiro de 2021 :heart:
 
