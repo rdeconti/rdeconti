@@ -5,7 +5,7 @@
 
 <!-- ATUALIZAR CVS -->
 
-:spiral_calendar: Atualizado em 13 Fevereiro de 2021 :heart:
+:spiral_calendar: Atualizado em 23 Fevereiro de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -124,6 +124,7 @@
     |               |                     | - POSTMAN             |:green_circle:   | Digital InnovationOne         | 
     |               |                     | - Nuvem               |                 |                               |
     |               |                     | - IA                  |                 |                               |
+    |               |                     | - Mensageria          |                 |                               |
     |               | **IOT**             | - Smart Home          |                 |                               |
     |               |                     | - Smart Building      |                 |                               |
     |               |                     | - Wearables           |                 |                               |
