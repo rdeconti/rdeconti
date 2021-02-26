@@ -63,23 +63,21 @@
 | DIO | Bootcamp - Impulso FullStack Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Impulso-FullStack-Developer">Link</a> |
 | Digital Innovation One | Bootcamp - MRV .NET Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Developer">Link</a> |
 | Digital Innovation One | Bootcamp - .NET Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
-
-
 | DIO | .Net Fundamentals	                  |14/03/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
-| DIO | HTML Web Developer	                |15/03/2021
+| DIO | HTML Web Developer	                |15/03/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
 | DIO | MRV .NET Developer	                |21/04/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Developer">Link</a> |
-| DIO | Backend Developer Carrefour	        |24/04/2021
-| DIO | Fullstack Developer Banco Carrefour	|24/04/2021
-| DIO | Java Developer	                    |24/04/2021
-| DIO | JavaScript Game Developer	          |24/04/2021
-| DIO | LocalizaLabs .NET Developer	        |09/05/2021
-| DIO | Inter Java Dev	                    |09/05/2021
-| DIO | Everis Kotlin Developer	            |09/05/2021
-| DIO | Avanade Angular Developer	          |09/05/2021
-| DIO | SPTech Desenvolvimento Front-end	  |22/08/2021
-| DIO | SPTech Desenvolvimento Back-end	    |22/08/2021
-| DIO | SPTech Desenvolvimento Fullstack	  |22/08/2021
-
+| DIO | Backend Developer Carrefour	        |24/04/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | Fullstack Developer Banco Carrefour	|24/04/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | Java Developer	                    |24/04/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | JavaScript Game Developer	          |24/04/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | LocalizaLabs .NET Developer	        |09/05/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | Inter Java Dev	                    |09/05/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | Everis Kotlin Developer	            |09/05/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | Avanade Angular Developer	          |09/05/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | SPTech Desenvolvimento Front-end	  |22/08/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | SPTech Desenvolvimento Back-end	    |22/08/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | SPTech Desenvolvimento Fullstack	  |22/08/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | Impulso FullStack Developer         |18/04/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Impulso-FullStack-Developer">Link</a> |
 
 
 
