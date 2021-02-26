@@ -60,9 +60,35 @@
 | Udacity | Android Developer Nanodegree | Março/2019 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a> |
 | Udemy | Desenvolvimento Android Aprenda Criando Apps | Fevereiro/2020 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udemy-Desenvolvimento-Android-Aprenda-Criando-Apps">Link</a> |
 | Alura | Oracle Next Education | Fevereiro/2021 | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
-| Digital Innovation One | Bootcamp - Impulso FullStack Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Impulso-FullStack-Developer">Link</a> |
+| DIO | Bootcamp - Impulso FullStack Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Impulso-FullStack-Developer">Link</a> |
 | Digital Innovation One | Bootcamp - MRV .NET Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Developer">Link</a> |
 | Digital Innovation One | Bootcamp - .NET Developer | Abril/2021 | Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+
+
+| DIO | .Net Fundamentals	                  |14/03/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a> |
+| DIO | HTML Web Developer	                |15/03/2021
+| DIO | MRV .NET Developer	                |21/04/2021| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Developer">Link</a> |
+| DIO | Backend Developer Carrefour	        |24/04/2021
+| DIO | Fullstack Developer Banco Carrefour	|24/04/2021
+| DIO | Java Developer	                    |24/04/2021
+| DIO | JavaScript Game Developer	          |24/04/2021
+| DIO | LocalizaLabs .NET Developer	        |09/05/2021
+| DIO | Inter Java Dev	                    |09/05/2021
+| DIO | Everis Kotlin Developer	            |09/05/2021
+| DIO | Avanade Angular Developer	          |09/05/2021
+| DIO | SPTech Desenvolvimento Front-end	  |22/08/2021
+| DIO | SPTech Desenvolvimento Back-end	    |22/08/2021
+| DIO | SPTech Desenvolvimento Fullstack	  |22/08/2021
+
+
+
+
+
+
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
