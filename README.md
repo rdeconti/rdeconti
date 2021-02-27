@@ -57,7 +57,7 @@
 ## :label: Digital Innovation One Bootcamp MRV .NET Developer
 |Nome|Descrição|Situação|Detalhes|
 |----|---------|--------|--------|
-|Projeto 01 - CRUD em memória         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Link</a>|
+|Projeto 01 - Cadstro de séries       |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Link</a>|
 |Projeto 02 - Transferências bancárias|Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto02">Link</a>|
 |Desafio 01 - Visita na feira         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a>|
 |Desafio 02 - Validação de nota       |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a>|
@@ -76,6 +76,7 @@
 |Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto01">Link</a>|
 |Projeto 02 - Stack de testes           |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Link</a>|
 |Projeto 03 - API.NET integrada MongoDB |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Link</a>|
+|Projeto 04 - Cadstro de séries         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto04">Link</a>|
 |Desafio 01 - Dividindo X por Y         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a>|
 |Desafio 02 - Bazinga!                  |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a>|
 |Desafio 03 - Coxinha de bueno          |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Link</a>|
@@ -94,17 +95,20 @@
 |Nome|Descrição|Situação|Detalhes|
 |----|---------|--------|--------|
 |Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto01">Link</a>|
-|Desafio 02 - Consumo médio do automóvel|Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio02">Link</a>|
-|Desafio 03 - DDD                       |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio03">Link</a>|
-|Desafio 04 - Aumento de salário        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio04">Link</a>|
-|Desafio 05 - Média 1                   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio05">Link</a>|
-|Desafio 06 - Crescimento populacional  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio06">Link</a>|
-|Desafio 07 - Bazingá!                  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio07">Link</a>|
-|Desafio 08 - Tempo de um evento        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio08">Link</a>|
-|Desafio 09 - Comunicação em Piralânida |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio09">Link</a>|
-|Desafio 10 - Coordenadas de um ponto   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio10">Link</a>|
-|Desafio 11 - Compras no supermercado   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio11">Link</a>|
-|Desafio 12 - Pink e Cérebro            |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio12">Link</a>|
+|Projeto 02 - Cadstro de séries         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto02">Link</a>|
+|Projeto 03 - Stack de testes           |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Link</a>|
+|Projeto 04 - API.NET integrada MongoDB |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Link</a>|
+|Desafio 01 - Consumo médio do automóvel|Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio01">Link</a>|
+|Desafio 02 - DDD                       |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio02">Link</a>|
+|Desafio 03 - Aumento de salário        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio03">Link</a>|
+|Desafio 04 - Média 1                   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio04">Link</a>|
+|Desafio 05 - Crescimento populacional  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio05">Link</a>|
+|Desafio 06 - Bazingá!                  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio06">Link</a>|
+|Desafio 07 - Tempo de um evento        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio07">Link</a>|
+|Desafio 08 - Comunicação em Piralânida |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio08">Link</a>|
+|Desafio 09 - Coordenadas de um ponto   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio09">Link</a>|
+|Desafio 10 - Compras no supermercado   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio10">Link</a>|
+|Desafio 11 - Pink e Cérebro            |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio11">Link</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
