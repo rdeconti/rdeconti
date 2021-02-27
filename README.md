@@ -102,6 +102,21 @@
 |Desafio 11 - Compras no supermercado   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio11">Link</a>|
 |Desafio 12 - Pink e Cérebro            |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio12">Link</a>|
 
+## :label: Digital Innovation One Bootcamp HTML Web Developer
+|Nome|Descrição|Situação|Detalhes|
+|----|---------|--------|--------|
+|Projeto 01 - Recriando a página inicial do Instagram |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01">Link</a>|
+|Projeto 02 - Recriando a Interface do Netflix        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Link</a>|
+|Projeto 03 - Recriando o jogo da cobrinha            |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Link</a>|
+|Desafio 01 - Visita na feira                         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio01">Link</a>|
+|Desafio 02 - Multiplicação simples                   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio02">Link</a>|
+|Desafio 03 - Folha de pagamento                      |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio03">Link</a>|
+|Desafio 04 - Quantidade de números positivos         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio04">Link</a>|
+|Desafio 05 - Exibindo números pares                  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio05">Link</a>|
+|Desafio 06 - Análise de números                      |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio06">Link</a>|
+|Desafio 07 - Contagem de células                     |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio07">Link</a>|
+|Desafio 08 - Consumo médio do automóvel              |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio08">Link</a>|
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label:  Desafios encontrados na internet
