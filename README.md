@@ -55,34 +55,36 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Digital Innovation One Bootcamp MRV .NET Developer
-| Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | --------- | -------- | -------- |
-| DIO | Projeto 01 - CRUD em memória     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Link</a> |
-| DIO | Desafio 01 - Visita na feira     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a> |
-| DIO | Desafio 02 - Validação de nota   | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a> |
-| DIO | Desafio 03 - Tuitando            | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Link</a> |
-| DIO | Desafio 04 - Teste de seleção 1  | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Link</a> |
-| DIO | Desafio 05 - Triangulo           | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Link</a> |
-| DIO | Desafio 06 - Notas e moedas      | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Link</a> |
-| DIO | Desafio 07 - Divisão Euclidiana  | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Link</a> |
-| DIO | Desafio 08 - Fórmula de Bhaskara | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Link</a> |
+|Nome|Descrição|Situação|Detalhes|
+|----|---------|--------|--------|
+|Projeto 01 - CRUD em memória         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Link</a>|
+|Projeto 02 - Transferências bancárias|Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto02">Link</a>|
+|Desafio 01 - Visita na feira         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a>|
+|Desafio 02 - Validação de nota       |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a>|
+|Desafio 03 - Tuitando                |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Link</a>|
+|Desafio 04 - Teste de seleção 1      |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Link</a>|
+|Desafio 05 - Triangulo               |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Link</a>|
+|Desafio 06 - Notas e moedas          |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Link</a>|
+|Desafio 07 - Divisão Euclidiana      |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Link</a>|
+|Desafio 08 - Fórmula de Bhaskara     |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Link</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Digital Innovation One Bootcamp MRV .NET Fundamentals
-| Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | --------- | -------- | -------- |
-| DIO | Desafio 01 - Dividindo X por Y          |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a> |
-| DIO | Desafio 02 - Bazinga!                   |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a> |
-| DIO | Desafio 03 - Coxinha de bueno           |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Link</a> |
-| DIO | Desafio 04 - Dividindo X por Y          |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Link</a> |
-| DIO | Desafio 05 - Distância                  |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Link</a> |
-| DIO | Desafio 06 - Quanta mandioca            |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio06">Link</a> |
-| DIO | Desafio 07 - Validação de nota          |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio07">Link</a> |
-| DIO | Desafio 08 - Quanta mandioca            |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio08">Link</a> |
-| DIO | Desafio 09 - Compras no Supermercado    |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio09">Link</a> |
-| DIO | Desafio 10 - Validador senha requisitos |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Link</a> |
-| DIO | Desafio 11 - Fila do banco              |Terminal|Concluido :heavy_check_mark:| <a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio11">Link</a> |
+|Nome|Descrição|Situação|Detalhes|
+|----|---------|--------|--------|
+|Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Link</a>|
+|Desafio 01 - Dividindo X por Y         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a>|
+|Desafio 02 - Bazinga!                  |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a>|
+|Desafio 03 - Coxinha de bueno          |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Link</a>|
+|Desafio 04 - Dividindo X por Y         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Link</a>|
+|Desafio 05 - Distância                 |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Link</a>|
+|Desafio 06 - Quanta mandioca           |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio06">Link</a>|
+|Desafio 07 - Validação de nota         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio07">Link</a>|
+|Desafio 08 - Quanta mandioca           |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio08">Link</a>|
+|Desafio 09 - Compras no Supermercado   |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio09">Link</a>|
+|Desafio 10 - Validador senha requisitos|Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Link</a>|
+|Desafio 11 - Fila do banco             |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio11">Link</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
