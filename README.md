@@ -3,7 +3,7 @@
 <!-- VERIFICAR CERTIFICAÇÕES -->
 <!-- https://blog.geekhunter.com.br/conheca-as-8-certificacoes-em-ti-mais-requisitadas-no-brasil/ --> 
 
-:spiral_calendar: Atualizado em 26 Fevereiro de 2021 :heart:
+:spiral_calendar: Atualizado em 27 Fevereiro de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@
 ## :label:  Projetos para ampliar conhecimentos
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | --------- | -------- | -------- |
-| Alura | ByteBank | Website | Em andamento :warning: | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a> |
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -105,14 +105,15 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label:  Projetos do curso Alura / Oracle Next One / Labora (Front-End Developer)
+## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
 | Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | ----------- | ------ | ------- |
-| Alura  | Barbearia Alura | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Barbearia-Alura">Link</a> |
+| ------ | ---- | ----------- | ------ | -------- |
+| Alura  | ByteBank                | Website | Em andamento :warning:       | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a>                |
+| Alura  | Barbearia Alura         | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Barbearia-Alura">Link</a>         | 
 | Alura  | Aparecida Nutricionista | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Aparecida-Nutricionista">Link</a> |
-| Alura  | Alura News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-News">Link</a> |
-| Alura  | Alura Typer | Game |  Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Typer">Link</a>| 
-| Alura  | Conferência Alura| Website| Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Conference">Link</a> |
+| Alura  | Alura News              | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-News">Link</a>              |
+| Alura  | Alura Typer             | Game    | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Typer">Link</a>             | 
+| Alura  | Conferência Alura       | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Conference">Link</a>        |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
