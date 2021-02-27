@@ -54,30 +54,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :blue_book: Cursos
-| Entidade | Curso   | Data      | Situação | Detalhes |
-| -------- | ------- | --------- | -------- | -------- |
-|Udacity|Android Developer Nanodegree|Março/2019|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree">Link</a>|
-|Udemy|Android Apps|Fevereiro/2020|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Curso-Udemy-Desenvolvimento-Android-Aprenda-Criando-Apps">Link</a>|
-|Alura|Oracle Next Education |Fevereiro/2021|Concluido :heavy_check_mark|<a href="https://github.com/rdeconti/Curso-Labora-Oracle-Alura">Link</a> |
-|DIO|.Net Fundamentals	                  |14/03/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Fundamentals">Link</a>|
-|DIO|HTML Web Developer	                  |15/03/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-HTML-Web-Developer">Link</a>|
-|DIO|MRV .NET Developer	                  |21/04/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Developer">Link</a>|
-|DIO|Impulso FullStack Developer          |18/04/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Impulso-FullStack-Developer">Link</a>|
-|DIO|Backend Developer Carrefour	        |24/04/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Backend-Developer-Carrefour">Link</a>|
-|DIO|Fullstack Developer Banco Carrefour	|24/04/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Fullstack-Developer-Banco-Carrefour">Link</a>|
-|DIO|Java Developer	                      |24/04/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Java-Developer">Link</a>|
-|DIO|JavaScript Game Developer	          |24/04/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-JavaScript-Game-Developer">Link</a>|
-|DIO|LocalizaLabs .NET Developer	        |09/05/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Developer">Link</a>|
-|DIO|Inter Java Developer                 |09/05/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Inter-Java-Developer ">Link</a>|
-|DIO|Everis Kotlin Developer	            |09/05/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Everis-Kotlin-Developer">Link</a>|
-|DIO|Avanade Angular Developer	          |09/05/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Avanade-Angular-Developer">Link</a>|
-|DIO|SPTech Desenvolvimento Front-end	    |22/08/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-SPTech-Desenvolvimento-Front-end">Link</a>|
-|DIO|SPTech Desenvolvimento Back-end	    |22/08/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-SPTech-Desenvolvimento-Back-end">Link</a>|
-|DIO|SPTech Desenvolvimento Fullstack	    |22/08/2021|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-SPTech-Desenvolvimento-Fullstack">Link</a>|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## :label: Projetos e desafios do Bootcamp - MRV .NET Developer (Digital Innovation One)
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | --------- | -------- | -------- |
