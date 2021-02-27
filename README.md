@@ -20,6 +20,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
 
+## :blush: Visite minha página pessoal:<a href="https://rdeconti.github.io/">Link</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Atividades
