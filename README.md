@@ -73,7 +73,7 @@
 ## :label: Digital Innovation One Bootcamp MRV .NET Fundamentals
 |Nome|Descrição|Situação|Detalhes|
 |----|---------|--------|--------|
-|Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Link</a>|
+|Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto01">Link</a>|
 |Projeto 02 - Stack de testes           |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Link</a>|
 |Projeto 03 - API.NET integrada MongoDB |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Link</a>|
 |Desafio 01 - Dividindo X por Y         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a>|
