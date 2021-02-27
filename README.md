@@ -57,7 +57,7 @@
 ## :label: Digital Innovation One Bootcamp MRV .NET Developer
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | --------- | -------- | -------- |
-| DIO | Projeto 01 - CRUD em memória     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a>        |
+| DIO | Projeto 01 - CRUD em memória     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Link</a> |
 | DIO | Desafio 01 - Visita na feira     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a> |
 | DIO | Desafio 02 - Validação de nota   | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a> |
 | DIO | Desafio 03 - Tuitando            | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Link</a> |
