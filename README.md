@@ -74,6 +74,8 @@
 |Nome|Descrição|Situação|Detalhes|
 |----|---------|--------|--------|
 |Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Link</a>|
+|Projeto 02 - Stack de testes           |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Link</a>|
+|Projeto 03 - API.NET integrada MongoDB |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Link</a>|
 |Desafio 01 - Dividindo X por Y         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a>|
 |Desafio 02 - Bazinga!                  |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Link</a>|
 |Desafio 03 - Coxinha de bueno          |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Link</a>|
@@ -86,10 +88,12 @@
 |Desafio 10 - Validador senha requisitos|Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Link</a>|
 |Desafio 11 - Fila do banco             |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio11">Link</a>|
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## :label: Digital Innovation One Bootcamp LocalizaLabs .NET Developer
 |Nome|Descrição|Situação|Detalhes|
 |----|---------|--------|--------|
-|Projeto 01 - ?                         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto01">Link</a>|
+|Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto01">Link</a>|
 |Desafio 02 - Consumo médio do automóvel|Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio02">Link</a>|
 |Desafio 03 - DDD                       |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio03">Link</a>|
 |Desafio 04 - Aumento de salário        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio04">Link</a>|
@@ -101,6 +105,8 @@
 |Desafio 10 - Coordenadas de um ponto   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio10">Link</a>|
 |Desafio 11 - Compras no supermercado   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio11">Link</a>|
 |Desafio 12 - Pink e Cérebro            |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio12">Link</a>|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Digital Innovation One Bootcamp HTML Web Developer
 |Nome|Descrição|Situação|Detalhes|
