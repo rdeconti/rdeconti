@@ -54,22 +54,22 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Projetos e desafios do Bootcamp - MRV .NET Developer (Digital Innovation One)
+## :label: Digital Innovation One Bootcamp MRV .NET Developer
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | --------- | -------- | -------- |
-| DIO | Aplicação CRUD em memória        | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a> |
+| DIO | Projeto 01 - CRUD em memória     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Dio-Crud-Console">Link</a>        |
 | DIO | Desafio 01 - Visita na feira     | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a> |
-| DIO | Desafio 02 - Validação de nota   |Terminal| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a> |
+| DIO | Desafio 02 - Validação de nota   | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a> |
 | DIO | Desafio 03 - Tuitando            | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Link</a> |
 | DIO | Desafio 04 - Teste de seleção    | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Link</a> |
-| DIO | Desafio 05 - Triangulo           |Terminal| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Link</a> |
-| DIO | Desafio 06 - Notas e moedas      |Terminal| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Link</a> |
+| DIO | Desafio 05 - Triangulo           | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Link</a> |
+| DIO | Desafio 06 - Notas e moedas      | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Link</a> |
 | DIO | Desafio 07 - Divisão Euclidiana  | Terminal | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Link</a> |
-| DIO | Desafio 08 - Fórmula de Bhaskara |Terminal| Em andamento :warning: | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Link</a> |
+| DIO | Desafio 08 - Fórmula de Bhaskara | Terminal | Em andamento :warning:       | <a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Link</a> |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Projetos e desafios do Bootcamp - MRV .NET Fundamentals (Digital Innovation One)
+## :label: Digital Innovation One Bootcamp MRV .NET Fundamentals
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | --------- | -------- | -------- |
 | DIO | Desafio 01 - Dividindo X por Y          |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Link</a> |
