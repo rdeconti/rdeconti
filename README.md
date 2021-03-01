@@ -1,8 +1,5 @@
 <!-- https://emojipedia.org/ -->
 
-<!-- VERIFICAR CERTIFICAÇÕES -->
-<!-- https://blog.geekhunter.com.br/conheca-as-8-certificacoes-em-ti-mais-requisitadas-no-brasil/ --> 
-
 :spiral_calendar: Atualizado em 27 Fevereiro de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,28 +18,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
 
 ## :blush: Seja bem vindo! Visite minha página pessoal: <a href="https://rdeconti.github.io/">Link</a>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Atividades
-
-  ### :woman_technologist: Atualmente estou: 
-  - Participando em bootcamps
-  - Contribuindo para projetos de código aberto
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
-  ### :nerd_face: Meu objetivo é ser uma Full Stack Developer:
-  - Para atingir este objetivo tenho este planejamento: <a href="https://github.com/rdeconti/plano-de-estudo">Link</a>
- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
- 
-  ### :heart: Fora do desenvolvimento, eu gosto de:
-  - :cinema: Cinema
-  - :woman_cook: Cozinhar
-  - :house: Minha casa
-  - :blue_book: Ler
-  - :airplane: Viajar
-  - :walking_woman: Caminhar
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :bar_chart: Estatísticas e linguages
