@@ -36,8 +36,8 @@
 |Nome|Situação|Detalhes|
 |----|--------|--------|
 |Recriando a página inicial do Instagram|:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01">Link</a>|
-|Recriando a Interface do Netflix|:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Link</a>|
-|Recriando o jogo da cobrinha|:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Link</a>|
+|Recriando a Interface do Netflix|:white_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Link</a>|
+|Recriando o jogo da cobrinha|:white_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Link</a>|
 
 ### Desafios
 |Nome|Situação|Detalhes|
@@ -45,11 +45,11 @@
 |Visita na feira|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|
 |Multiplicação simples|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|
 |Folha de pagamento|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|
-|Quantidade de números positivos|:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|
-|Exibindo números pares|:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|
-|Análise de números|:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-Javascript-Análise-De-Números">Clique-me</a>|
-|Contagem de células|:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|
-|Consumo médio do automóvel|:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|
+|Quantidade de números positivos|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|
+|Exibindo números pares|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|
+|Análise de números|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-Javascript-Análise-De-Números">Clique-me</a>|
+|Contagem de células|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|
+|Consumo médio do automóvel|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
