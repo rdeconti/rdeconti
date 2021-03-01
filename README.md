@@ -33,17 +33,17 @@
 ## :label: Digital Innovation One Bootcamp HTML Web Developer
 |Nome|Descrição|Situação|Detalhes|
 |----|---------|--------|--------|
-|Projeto 01 - Recriando a página inicial do Instagram |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01">Link</a>|
-|Projeto 02 - Recriando a Interface do Netflix        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Link</a>|
-|Projeto 03 - Recriando o jogo da cobrinha            |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Link</a>|
+|Projeto Recriando a página inicial do Instagram      |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01">Link</a>|
+|Projeto Recriando a Interface do Netflix             |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Link</a>|
+|Projeto Recriando o jogo da cobrinha                 |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Link</a>|
 |Desafio Visita na feira                              |Javascript|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Vista-Na-Feira">Link</a>|
 |Desafio Multiplicação simples                        |Javascript|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Link</a>|
 |Desafio Folha de pagamento                           |Javascript|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Link</a>|
-|Desafio 04 - Quantidade de números positivos         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio04">Link</a>|
-|Desafio 05 - Exibindo números pares                  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio05">Link</a>|
-|Desafio 06 - Análise de números                      |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio06">Link</a>|
-|Desafio 07 - Contagem de células                     |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio07">Link</a>|
-|Desafio 08 - Consumo médio do automóvel              |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio08">Link</a>|
+|Desafio 04 - Quantidade de números positivos         |Javascript|Em andamento :warning:      <a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Quantidade-De-Nmeros-Positivos>Link</a>|
+|Desafio 05 - Exibindo números pares                  |Javascript|Em andamento :warning:      <a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Link</a>|
+|Desafio 06 - Análise de números                      |Javascript|Em andamento :warning:      <a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-Javascript-Análise-De-Números">Link</a>|
+|Desafio 07 - Contagem de células                     |Javascript|Em andamento :warning:      <a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Contagem-De-Células">Link</a>|
+|Desafio 08 - Consumo médio do automóvel              |Javascript|Em andamento :warning:      <a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Link</a>|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
