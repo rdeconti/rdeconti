@@ -94,7 +94,7 @@
 |Projeto 01 - Recriando a página inicial do Instagram |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01">Link</a>|
 |Projeto 02 - Recriando a Interface do Netflix        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Link</a>|
 |Projeto 03 - Recriando o jogo da cobrinha            |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Link</a>|
-|Desafio 01 - Visita na feira                         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio01">Link</a>|
+|Desafio Visita na feira                              |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Vista-Na-Feira">Link</a>|
 |Desafio 02 - Multiplicação simples                   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio02">Link</a>|
 |Desafio 03 - Folha de pagamento                      |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio03">Link</a>|
 |Desafio 04 - Quantidade de números positivos         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Desafio04">Link</a>|
