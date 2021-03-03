@@ -31,25 +31,19 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Digital Innovation One Bootcamp HTML Web Developer
-
-### Projetos
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 |Projeto|Recriando a página inicial do Instagram|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01">Clique-me</a>|
 |Projeto|Recriando a Interface do Netflix       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Clique-me</a>|
 |Projeto|Recriando o jogo da cobrinha           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Clique-me</a>|
-
-### Desafios
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
 |Desafio|Visita na feira                        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|
-|Desafio||Multiplicação simples                  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|
+|Desafio|Multiplicação simples                  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|
 ||Desafio|Folha de pagamento                     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|
-|Desafio||Quantidade de números positivos        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|
-|Desafio||Exibindo números pares                 |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|
-|Desafio||Análise de números                     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-Javascript-Análise-De-Números">Clique-me</a>|
-|Desafio||Contagem de células                    |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|
-|Desafio||Consumo médio do automóvel             |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|
+|Desafio|Quantidade de números positivos        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|
+|Desafio|Exibindo números pares                 |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|
+|Desafio|Análise de números                     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-Javascript-Análise-De-Números">Clique-me</a>|
+|Desafio|Contagem de células                    |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|
+|Desafio|Consumo médio do automóvel             |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
