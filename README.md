@@ -47,7 +47,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Digital Innovation One Bootcamp MRV .NET Fundamentals
+## :label: Digital Innovation One Bootcamp .NET Fundamentals
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 |Projeto|Cadstro de séries       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Clique-me</a>|
