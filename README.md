@@ -1,6 +1,6 @@
 <!-- https://emojipedia.org/ -->
 
-:spiral_calendar: Atualizado em 27 Fevereiro de 2021 :heart:
+:spiral_calendar: Atualizado em 03 de Março de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@
 |Projeto|Recriando o jogo da cobrinha           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Clique-me</a>|
 |Desafio|Visita na feira                        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|
 |Desafio|Multiplicação simples                  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|
-||Desafio|Folha de pagamento                     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|
+|Desafio|Folha de pagamento                     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|
 |Desafio|Quantidade de números positivos        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|
 |Desafio|Exibindo números pares                 |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|
 |Desafio|Análise de números                     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-Javascript-Análise-De-Números">Clique-me</a>|
@@ -47,23 +47,23 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Digital Innovation One Bootcamp MRV .NET Developer
-|Nome|Descrição|Situação|Detalhes|
-|----|---------|--------|--------|
-|Projeto 01 - Cadstro de séries       |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Link</a>|
-|Projeto 02 - Transferências bancárias|Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto02">Link</a>|
-|Desafio 01 - Visita na feira         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a>|
-|Desafio 02 - Validação de nota       |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a>|
-|Desafio 03 - Tuitando                |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Link</a>|
-|Desafio 04 - Teste de seleção 1      |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Link</a>|
-|Desafio 05 - Triangulo               |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Link</a>|
-|Desafio 06 - Notas e moedas          |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Link</a>|
-|Desafio 07 - Divisão Euclidiana      |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Link</a>|
-|Desafio 08 - Fórmula de Bhaskara     |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Link</a>|
+## :label: Digital Innovation One Bootcamp MRV .NET Fundamentals
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+|Projeto|Cadstro de séries       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Link</a>|
+|Projeto|Transferências bancárias|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto02">Link</a>|
+|Desafio|Visita na feira         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a>|
+|Desafio|Validação de nota       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a>|
+|Desafio|Tuitando                |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Link</a>|
+|Desafio|Teste de seleção 1      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Link</a>|
+|Desafio|Triangulo               |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Link</a>|
+|Desafio|Notas e moedas          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Link</a>|
+|Desafio|Divisão Euclidiana      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Link</a>|
+|Desafio|Fórmula de Bhaskara     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Link</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Digital Innovation One Bootcamp MRV .NET Fundamentals
+## :label: Digital Innovation One Bootcamp MRV .NET Developer
 |Nome|Descrição|Situação|Detalhes|
 |----|---------|--------|--------|
 |Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto01">Link</a>|
