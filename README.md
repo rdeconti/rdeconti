@@ -36,8 +36,8 @@
 |Nome|Situação|Detalhes|
 |----|--------|--------|
 |Recriando a página inicial do Instagram|:green_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01">Clique-me</a>|
-|Recriando a Interface do Netflix|:white_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Clique-me</a>|
-|Recriando o jogo da cobrinha|:white_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Clique-me</a>|
+|Recriando a Interface do Netflix|:green_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Clique-me</a>|
+|Recriando o jogo da cobrinha|:green_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Clique-me</a>|
 
 ### Desafios
 |Nome|Situação|Detalhes|
