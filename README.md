@@ -50,16 +50,16 @@
 ## :label: Digital Innovation One Bootcamp MRV .NET Fundamentals
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
-|Projeto|Cadstro de séries       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Link</a>|
-|Projeto|Transferências bancárias|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto02">Link</a>|
-|Desafio|Visita na feira         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Link</a>|
-|Desafio|Validação de nota       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Link</a>|
-|Desafio|Tuitando                |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Link</a>|
-|Desafio|Teste de seleção 1      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Link</a>|
-|Desafio|Triangulo               |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Link</a>|
-|Desafio|Notas e moedas          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Link</a>|
-|Desafio|Divisão Euclidiana      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Link</a>|
-|Desafio|Fórmula de Bhaskara     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Link</a>|
+|Projeto|Cadstro de séries       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Clique-me</a>|
+|Projeto|Transferências bancárias|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto02">Clique-me</a>|
+|Desafio|Visita na feira         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Clique-me</a>|
+|Desafio|Validação de nota       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Clique-me</a>|
+|Desafio|Tuitando                |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Clique-me</a>|
+|Desafio|Teste de seleção 1      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Clique-me</a>|
+|Desafio|Triangulo               |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Clique-me</a>|
+|Desafio|Notas e moedas          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Clique-me</a>|
+|Desafio|Divisão Euclidiana      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Clique-me</a>|
+|Desafio|Fórmula de Bhaskara     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
