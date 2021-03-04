@@ -72,22 +72,23 @@
 ## :label: Impulso FullStack Developer (18/04/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
-|Projeto|?|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Link</a>|
-|Projeto|?|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Link</a>|
-|Projeto|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Link</a>|
-|Projeto|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Link</a>|
-|Desafio?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-DDD">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Aumento-De-Salario">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Media-1">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Crescimento-Populacional">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Link</a>|
-|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Pink-E-Cerebro">Link</a>|
-
+|Projeto|Gerenciador de esferas|Em andamento :warning:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas">Link</a>|
+|Projeto|Cloud Tags|Em andamento :warning:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Cloud-Tags">Link</a>|
+|Projeto|Sistema de classificados|Em andamento :warning:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Link</a>|
+|Desafio|Par ou impar|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Link</a>|
+|Desafio|DDD|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Link</a>|
+|Desafio|Idade em dias|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Idade-Em-Dias">Link</a>|
+|Desafio|Dividindo-X-Por-Y|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|
+|Desafio|Blobs|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|
+|Desafio|Tipo de combustível|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|
+|Desafio|Encaixa ou não?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Link</a>|
+|Desafio|Tipo de combustível|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Link</a>|
+|Desafio|Crescimento populacional|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Link</a>|
+|Desafio|Fibbonaci fácil|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Link</a>|
+|Desafio|Sequencia lógico|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Sequencia-Logica">Link</a>|
+|Desafio|Substituição em vetor I|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Substituicao-Em-Vetor-I">Link</a>|
+|Desafio|Fibbonaci em vetor|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Em-Vetor">Link</a>|
+|Desafio|Acima da diagonal principal|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Link</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: MRV .NET Developer (21/04/2021 - Em andamento :warning:)
