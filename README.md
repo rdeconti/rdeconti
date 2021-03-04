@@ -72,6 +72,21 @@
 ## :label: Impulso FullStack Developer (18/04/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
+|Projeto|?|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Link</a>|
+|Projeto|?|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Link</a>|
+|Projeto|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Link</a>|
+|Projeto|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Link</a>|
+|Desafio?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-DDD">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Aumento-De-Salario">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Media-1">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Crescimento-Populacional">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Link</a>|
+|Desafio|?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Pink-E-Cerebro">Link</a>|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -141,7 +156,6 @@
 |Desafio|Coordenadas de um ponto   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Link</a>|
 |Desafio|Compras no supermercado   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Link</a>|
 |Desafio|Pink e Cérebro            |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Pink-E-Cerebro">Link</a>|
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Inter Java Dev (9/05/2021 - Em andamento :warning:)
