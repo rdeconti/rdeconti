@@ -33,7 +33,7 @@
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021 - Concluido :heavy_check_mark:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
-|Projeto|Cadstro de séries       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Clique-me</a>|
+|Projeto|Cadstro de séries       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
 |Projeto|Transferências bancárias|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto02">Clique-me</a>|
 |Desafio|Visita na feira         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Clique-me</a>|
 |Desafio|Validação de nota       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Clique-me</a>|
@@ -74,7 +74,7 @@
 |Projeto|Transferências bancárias  |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto01">Clique-me</a>|
 |Projeto|Stack de testes           |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Clique-me</a>|
 |Projeto|API.NET integrada MongoDB |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Clique-me</a>|
-|Projeto|Cadstro de séries         |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto04">Clique-me</a>|
+|Projeto|Cadstro de séries         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
 |Desafio|Dividindo X por Y         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Clique-me</a>|
 |Desafio|Bazinga!                  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Clique-me</a>|
 |Desafio|Coxinha de bueno          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Clique-me</a>|
@@ -120,7 +120,7 @@
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 |Projeto|Transferências bancárias  |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto01">Link</a>|
-|Projeto|Cadstro de séries         |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto02">Link</a>|
+|Projeto|Cadstro de séries         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Link</a>|
 |Projeto|Stack de testes           |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Link</a>|
 |Projeto|API.NET integrada MongoDB |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Link</a>|
 |Desafio|Consumo médio do automóvel|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio01">Link</a>|
