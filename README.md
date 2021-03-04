@@ -33,7 +33,7 @@
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021 - Concluido :heavy_check_mark:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
-|Projeto|Cadstro de séries       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
+|Projeto|Cadastro de séries      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
 |Projeto|Transferências bancárias|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|
 |Desafio|Visita na feira         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Clique-me</a>|
 |Desafio|Validação de nota       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Clique-me</a>|
@@ -48,10 +48,10 @@
 
 ## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021 - Concluido :heavy_check_mark:)
 |Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
-|Projeto|Recriando a página inicial do Instagram|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01">Clique-me</a>|
-|Projeto|Recriando a Interface do Netflix       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02">Clique-me</a>|
-|Projeto|Recriando o jogo da cobrinha           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03">Clique-me</a>|
+|----------|--------|
+|Projeto|Recriando a página inicial do Instagram|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|
+|Projeto|Recriando a Interface do Netflix       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|
+|Projeto|Recriando o jogo da cobrinha           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Cobrinha">Clique-me</a>|
 |Desafio|Visita na feira                        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|
 |Desafio|Multiplicação simples                  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|
 |Desafio|Folha de pagamento                     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|
