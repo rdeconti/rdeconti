@@ -85,7 +85,7 @@
 |Desafio|Tipo de combustível|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Clique-me</a>|
 |Desafio|Crescimento populacional|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|
 |Desafio|Fibbonaci fácil|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Clique-me</a>|
-|Desafio|Sequencia lógico|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Sequencia-Logica">Link</a>|
+|Desafio|Sequencia lógico|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Sequencia-Logica">Clique-me</a>|
 |Desafio|Substituição em vetor I|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Substituicao-Em-Vetor-I">Clique-me</a>|
 |Desafio|Fibbonaci em vetor|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Em-Vetor">Clique-me</a>|
 |Desafio|Acima da diagonal principal|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Clique-me</a>|
