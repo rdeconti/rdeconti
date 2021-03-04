@@ -42,14 +42,14 @@
 |----|----|--------|--------|
 |Projeto|Cadastro de séries      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
 |Projeto|Transferências bancárias|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|
-|Desafio|Visita na feira         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Clique-me</a>|
-|Desafio|Validação de nota       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Clique-me</a>|
-|Desafio|Tuitando                |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Clique-me</a>|
-|Desafio|Teste de seleção 1      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Clique-me</a>|
-|Desafio|Triangulo               |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Clique-me</a>|
-|Desafio|Notas e moedas          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Clique-me</a>|
-|Desafio|Divisão Euclidiana      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Clique-me</a>|
-|Desafio|Fórmula de Bhaskara     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Clique-me</a>|
+|Desafio|Visita na feira         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|
+|Desafio|Validação de nota       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|
+|Desafio|Tuitando                |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|
+|Desafio|Teste de seleção 1      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|
+|Desafio|Triangulo               |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|
+|Desafio|Notas e moedas          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|
+|Desafio|Divisão Euclidiana      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|
+|Desafio|Fórmula de Bhaskara     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -82,17 +82,17 @@
 |Projeto|Stack de testes           |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Clique-me</a>|
 |Projeto|API.NET integrada MongoDB |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Clique-me</a>|
 |Projeto|Cadastro de séries        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
-|Desafio|Dividindo X por Y         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Clique-me</a>|
-|Desafio|Bazinga!                  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Clique-me</a>|
-|Desafio|Coxinha de bueno          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Clique-me</a>|
-|Desafio|Dividindo X por Y         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Clique-me</a>|
-|Desafio|Distância                 |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Clique-me</a>|
-|Desafio|Quanta mandioca           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio06">Clique-me</a>|
-|Desafio|Validação de nota         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio07">Clique-me</a>|
-|Desafio|Quanta mandioca           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio08">Clique-me</a>|
-|Desafio|Compras no Supermercado   |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio09">Clique-me</a>|
-|Desafio|Validador senha requisitos|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Clique-me</a>|
-|Desafio|Fila do banco             |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio11">Clique-me</a>|
+|Desafio|Dividindo X por Y         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|
+|Desafio|Bazinga!                  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|
+|Desafio|Coxinha de bueno          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coxinha-Do-Bueno">Clique-me</a>|
+|Desafio|Dividindo X por Y         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|
+|Desafio|Distância                 |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Distanciaa">Clique-me</a>|
+|Desafio|Quanta mandioca           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|
+|Desafio|Validação de nota         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|
+|Desafio|Quanta mandioca           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|
+|Desafio|Compras no Supermercado   |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|
+|Desafio|Validador senha requisitos|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|
+|Desafio|Fila do banco             |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Backend Developer Carrefour (24/04/2021 - Em andamento :warning:)
@@ -130,17 +130,17 @@
 |Projeto|Cadastro de séries        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Link</a>|
 |Projeto|Stack de testes           |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Link</a>|
 |Projeto|API.NET integrada MongoDB |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Link</a>|
-|Desafio|Consumo médio do automóvel|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio01">Link</a>|
-|Desafio|DDD                       |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio02">Link</a>|
-|Desafio|Aumento de salário        |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio03">Link</a>|
-|Desafio|Média 1                   |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio04">Link</a>|
-|Desafio|Crescimento populacional  |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio05">Link</a>|
-|Desafio|Bazingá!                  |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio06">Link</a>|
-|Desafio|Tempo de um evento        |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio07">Link</a>|
-|Desafio|Comunicação em Piralânida |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio08">Link</a>|
-|Desafio|Coordenadas de um ponto   |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio09">Link</a>|
-|Desafio|Compras no supermercado   |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio10">Link</a>|
-|Desafio|Pink e Cérebro            |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio11">Link</a>|
+|Desafio|Consumo médio do automóvel|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Link</a>|
+|Desafio|DDD                       |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-DDD">Link</a>|
+|Desafio|Aumento de salário        |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Aumento-De-Salario">Link</a>|
+|Desafio|Média 1                   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Media-1">Link</a>|
+|Desafio|Crescimento populacional  |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Crescimento-Populacional">Link</a>|
+|Desafio|Bazingá!                  |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Link</a>|
+|Desafio|Tempo de um evento        |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tempo-De-Um_Evento">Link</a>|
+|Desafio|Comunicação em Piralânida |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Link</a>|
+|Desafio|Coordenadas de um ponto   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Link</a>|
+|Desafio|Compras no supermercado   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Link</a>|
+|Desafio|Pink e Cérebro            |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Pink-E-Cerebro">Link</a>|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
