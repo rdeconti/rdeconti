@@ -136,7 +136,7 @@
 |Desafio|Média 1                   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Media-1">Link</a>|
 |Desafio|Crescimento populacional  |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Crescimento-Populacional">Link</a>|
 |Desafio|Bazingá!                  |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Link</a>|
-|Desafio|Tempo de um evento        |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tempo-De-Um_Evento">Link</a>|
+|Desafio|Tempo de um evento        |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Link</a>|
 |Desafio|Comunicação em Piralânida |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Link</a>|
 |Desafio|Coordenadas de um ponto   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Link</a>|
 |Desafio|Compras no supermercado   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Link</a>|
