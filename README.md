@@ -30,6 +30,13 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## :label: Projetos próprios (31/12/2021 - Em andamento :warning:)
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+|Projeto|Meu portfólio|Em andamento :warning:|<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021 - Concluido :heavy_check_mark:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
