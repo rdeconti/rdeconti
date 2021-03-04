@@ -72,23 +72,23 @@
 ## :label: Impulso FullStack Developer (18/04/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
-|Projeto|Gerenciador de esferas|Em andamento :warning:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas">Link</a>|
-|Projeto|Cloud Tags|Em andamento :warning:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Cloud-Tags">Link</a>|
-|Projeto|Sistema de classificados|Em andamento :warning:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Link</a>|
-|Desafio|Par ou impar|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Link</a>|
-|Desafio|DDD|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Link</a>|
-|Desafio|Idade em dias|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Idade-Em-Dias">Link</a>|
+|Projeto|Gerenciador de esferas|Em andamento :warning:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas">Clique-me</a>|
+|Projeto|Cloud Tags|Em andamento :warning:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Cloud-Tags">Clique-me</a>|
+|Projeto|Sistema de classificados|Em andamento :warning:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|
+|Desafio|Par ou impar|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Clique-me</a>|
+|Desafio|DDD|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Clique-me</a>|
+|Desafio|Idade em dias|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Idade-Em-Dias">Clique-me</a>|
 |Desafio|Dividindo-X-Por-Y|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|
 |Desafio|Blobs|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|
 |Desafio|Tipo de combustível|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|
-|Desafio|Encaixa ou não?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Link</a>|
-|Desafio|Tipo de combustível|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Link</a>|
-|Desafio|Crescimento populacional|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Link</a>|
-|Desafio|Fibbonaci fácil|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Link</a>|
+|Desafio|Encaixa ou não?|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Clique-me</a>|
+|Desafio|Tipo de combustível|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Clique-me</a>|
+|Desafio|Crescimento populacional|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|
+|Desafio|Fibbonaci fácil|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Clique-me</a>|
 |Desafio|Sequencia lógico|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Sequencia-Logica">Link</a>|
-|Desafio|Substituição em vetor I|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Substituicao-Em-Vetor-I">Link</a>|
-|Desafio|Fibbonaci em vetor|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Em-Vetor">Link</a>|
-|Desafio|Acima da diagonal principal|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Link</a>|
+|Desafio|Substituição em vetor I|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Substituicao-Em-Vetor-I">Clique-me</a>|
+|Desafio|Fibbonaci em vetor|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Em-Vetor">Clique-me</a>|
+|Desafio|Acima da diagonal principal|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: MRV .NET Developer (21/04/2021 - Em andamento :warning:)
@@ -142,21 +142,21 @@
 ## :label: LocalizaLabs .NET Developer (9/05/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
-|Projeto|Transferências bancárias  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Link</a>|
-|Projeto|Cadastro de séries        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Link</a>|
-|Projeto|Stack de testes           |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Link</a>|
-|Projeto|API.NET integrada MongoDB |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Link</a>|
-|Desafio|Consumo médio do automóvel|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Link</a>|
-|Desafio|DDD                       |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-DDD">Link</a>|
-|Desafio|Aumento de salário        |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Aumento-De-Salario">Link</a>|
-|Desafio|Média 1                   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Media-1">Link</a>|
-|Desafio|Crescimento populacional  |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Crescimento-Populacional">Link</a>|
-|Desafio|Bazingá!                  |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Link</a>|
-|Desafio|Tempo de um evento        |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Link</a>|
-|Desafio|Comunicação em Piralânida |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Link</a>|
-|Desafio|Coordenadas de um ponto   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Link</a>|
-|Desafio|Compras no supermercado   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Link</a>|
-|Desafio|Pink e Cérebro            |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Pink-E-Cerebro">Link</a>|
+|Projeto|Transferências bancárias  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|
+|Projeto|Cadastro de séries        |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
+|Projeto|Stack de testes           |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Clique-me</a>|
+|Projeto|API.NET integrada MongoDB |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Clique-me</a>|
+|Desafio|Consumo médio do automóvel|Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Clique-me</a>|
+|Desafio|DDD                       |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-DDD">Clique-me</a>|
+|Desafio|Aumento de salário        |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|
+|Desafio|Média 1                   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Media-1">Clique-me</a>|
+|Desafio|Crescimento populacional  |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Crescimento-Populacional">Clique-me</a>|
+|Desafio|Bazingá!                  |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|
+|Desafio|Tempo de um evento        |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Clique-me</a>|
+|Desafio|Comunicação em Piralânida |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Clique-me</a>|
+|Desafio|Coordenadas de um ponto   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Clique-me</a>|
+|Desafio|Compras no supermercado   |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|
+|Desafio|Pink e Cérebro            |Em andamento :warning:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Inter Java Dev (9/05/2021 - Em andamento :warning:)
@@ -182,32 +182,32 @@
 ## :label:  Desafios encontrados na internet
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| Caelum | MusicDot| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-MusicDot">Link</a> |
-| Internet | Minute News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Minute-News">Link</a> |
-| Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Link</a> |
-| Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Link</a> |
+| Caelum | MusicDot| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |
+| Internet | Minute News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |
+| Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |
+| Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | -------- |
-| Alura  | ByteBank                | Website | Em andamento :warning:       | <a href="https://github.com/rdeconti/Projeto-ByteBank">Link</a>                |
-| Alura  | Barbearia Alura         | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Link</a>         | 
-| Alura  | Aparecida Nutricionista | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Aparecida-Nutricionista">Link</a> |
-| Alura  | Alura News              | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Alura-News">Link</a>              |
-| Alura  | Alura Typer             | Game    | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Alura-Typer">Link</a>             | 
-| Alura  | Conferência Alura       | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Alura-Conference">Link</a>        |
+| Alura  | ByteBank                | Website | Em andamento :warning:       | <a href="https://github.com/rdeconti/Projeto-ByteBank">Clique-me</a>                |
+| Alura  | Barbearia Alura         | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Clique-me</a>         | 
+| Alura  | Aparecida Nutricionista | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Aparecida-Nutricionista">Clique-me</a> |
+| Alura  | Alura News              | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Alura-News">Clique-me</a>              |
+| Alura  | Alura Typer             | Game    | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Alura-Typer">Clique-me</a>             | 
+| Alura  | Conferência Alura       | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>        |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label:  Projetos do curso Udacity (Android Developer Nanodegree)
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| Udacity | Bake House| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Link</a> |
-| Udacity | Elegant Reader| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Link</a> |
-| Udacity | Find Movies| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Link</a> |
-| Udacity | Quick Jokes| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Link</a> |
-| Udacity | Best Meal| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Link</a> |
+| Udacity | Bake House| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a> |
+| Udacity | Elegant Reader| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Clique-me</a> |
+| Udacity | Find Movies| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Clique-me</a> |
+| Udacity | Quick Jokes| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Clique-me</a> |
+| Udacity | Best Meal| Android | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Clique-me</a> |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
