@@ -62,47 +62,61 @@
 |Desafio|Consumo médio do automóvel             |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Impulso FullStack Developer 18/04/2021 - Em andamento :warning: 
+## :label: Impulso FullStack Developer (18/04/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: MRV .NET Developer 21/04/2021 - Em andamento :warning: 
+## :label: MRV .NET Developer (21/04/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Backend Developer Carrefour 24/04/2021 - Em andamento :warning: 
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## :label: Fullstack Developer Banco Carrefour 24/04/2021 - Em andamento :warning: 
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## :label: Java Developer 24/04/2021 - Em andamento :warning: 
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
-
+|Projeto|Transferências bancárias  |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto01">Clique-me</a>|
+|Projeto|Stack de testes           |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Clique-me</a>|
+|Projeto|API.NET integrada MongoDB |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Clique-me</a>|
+|Projeto|Cadstro de séries         |Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto04">Clique-me</a>|
+|Desafio|Dividindo X por Y         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Clique-me</a>|
+|Desafio|Bazinga!                  |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Clique-me</a>|
+|Desafio|Coxinha de bueno          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Clique-me</a>|
+|Desafio|Dividindo X por Y         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Clique-me</a>|
+|Desafio|Distância                 |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Clique-me</a>|
+|Desafio|Quanta mandioca           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio06">Clique-me</a>|
+|Desafio|Validação de nota         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio07">Clique-me</a>|
+|Desafio|Quanta mandioca           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio08">Clique-me</a>|
+|Desafio|Compras no Supermercado   |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio09">Clique-me</a>|
+|Desafio|Validador senha requisitos|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Clique-me</a>|
+|Desafio|Fila do banco             |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio11">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## :label: JavaScript Game Developer 24/04/2021 - Em andamento :warning: 
+## :label: Backend Developer Carrefour (24/04/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: LocalizaLabs .NET Developer 9/05/2021 - Em andamento :warning: 
+## :label: Fullstack Developer Banco Carrefour (24/04/2021 - Em andamento :warning:)
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label: Java Developer (24/04/2021 - Em andamento :warning:)
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label: JavaScript Game Developer (24/04/2021 - Em andamento :warning:)
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label: LocalizaLabs .NET Developer (9/05/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 |Projeto|Transferências bancárias  |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto01">Link</a>|
@@ -123,48 +137,23 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Inter Java Dev 9/05/2021 - Em andamento :warning: 
+## :label: Inter Java Dev (9/05/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Everis Kotlin Developer 9/05/2021 - Em andamento :warning: 
+## :label: Everis Kotlin Developer (9/05/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Avanade Angular Developer 9/05/2021 - Em andamento :warning: 
+## :label: Avanade Angular Developer (9/05/2021 - Em andamento :warning:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-## :label: Digital Innovation One Bootcamp MRV .NET Developer
-|Nome|Descrição|Situação|Detalhes|
-|----|---------|--------|--------|
-|Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto01">Clique-me</a>|
-|Projeto 02 - Stack de testes           |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Clique-me</a>|
-|Projeto 03 - API.NET integrada MongoDB |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Clique-me</a>|
-|Projeto 04 - Cadstro de séries         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto04">Clique-me</a>|
-|Desafio 01 - Dividindo X por Y         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio01">Clique-me</a>|
-|Desafio 02 - Bazinga!                  |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio02">Clique-me</a>|
-|Desafio 03 - Coxinha de bueno          |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio03">Clique-me</a>|
-|Desafio 04 - Dividindo X por Y         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio04">Clique-me</a>|
-|Desafio 05 - Distância                 |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio05">Clique-me</a>|
-|Desafio 06 - Quanta mandioca           |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio06">Clique-me</a>|
-|Desafio 07 - Validação de nota         |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio07">Clique-me</a>|
-|Desafio 08 - Quanta mandioca           |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio08">Clique-me</a>|
-|Desafio 09 - Compras no Supermercado   |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio09">Clique-me</a>|
-|Desafio 10 - Validador senha requisitos|Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Clique-me</a>|
-|Desafio 11 - Fila do banco             |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio11">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
