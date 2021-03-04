@@ -48,7 +48,7 @@
 
 ## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021 - Concluido :heavy_check_mark:)
 |Tipo|Nome|Situação|Detalhes|
-|----------|--------|
+|----|----|--------|--------|
 |Projeto|Recriando a página inicial do Instagram|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|
 |Projeto|Recriando a Interface do Netflix       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|
 |Projeto|Recriando o jogo da cobrinha           |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Cobrinha">Clique-me</a>|
