@@ -30,7 +30,23 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Digital Innovation One Bootcamp HTML Web Developer
+## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021 - Concluido :heavy_check_mark:)
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+|Projeto|Cadstro de séries       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Clique-me</a>|
+|Projeto|Transferências bancárias|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto02">Clique-me</a>|
+|Desafio|Visita na feira         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Clique-me</a>|
+|Desafio|Validação de nota       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Clique-me</a>|
+|Desafio|Tuitando                |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Clique-me</a>|
+|Desafio|Teste de seleção 1      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Clique-me</a>|
+|Desafio|Triangulo               |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Clique-me</a>|
+|Desafio|Notas e moedas          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Clique-me</a>|
+|Desafio|Divisão Euclidiana      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Clique-me</a>|
+|Desafio|Fórmula de Bhaskara     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Clique-me</a>|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021 - Concluido :heavy_check_mark:)
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
 |Projeto|Recriando a página inicial do Instagram|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01">Clique-me</a>|
@@ -46,22 +62,90 @@
 |Desafio|Consumo médio do automóvel             |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## :label: Digital Innovation One Bootcamp .NET Fundamentals
+## :label: Impulso FullStack Developer 18/04/2021 - Em andamento :warning: 
 |Tipo|Nome|Situação|Detalhes|
 |----|----|--------|--------|
-|Projeto|Cadstro de séries       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto01">Clique-me</a>|
-|Projeto|Transferências bancárias|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Projeto02">Clique-me</a>|
-|Desafio|Visita na feira         |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio01">Clique-me</a>|
-|Desafio|Validação de nota       |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio02">Clique-me</a>|
-|Desafio|Tuitando                |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio03">Clique-me</a>|
-|Desafio|Teste de seleção 1      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio04">Clique-me</a>|
-|Desafio|Triangulo               |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio05">Clique-me</a>|
-|Desafio|Notas e moedas          |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio06">Clique-me</a>|
-|Desafio|Divisão Euclidiana      |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio07">Clique-me</a>|
-|Desafio|Fórmula de Bhaskara     |Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-MRV-.NET-Desafio08">Clique-me</a>|
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: MRV .NET Developer 21/04/2021 - Em andamento :warning: 
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Backend Developer Carrefour 24/04/2021 - Em andamento :warning: 
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label: Fullstack Developer Banco Carrefour 24/04/2021 - Em andamento :warning: 
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label: Java Developer 24/04/2021 - Em andamento :warning: 
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label: JavaScript Game Developer 24/04/2021 - Em andamento :warning: 
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label: LocalizaLabs .NET Developer 9/05/2021 - Em andamento :warning: 
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+|Projeto|Transferências bancárias  |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto01">Link</a>|
+|Projeto|Cadstro de séries         |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto02">Link</a>|
+|Projeto|Stack de testes           |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Link</a>|
+|Projeto|API.NET integrada MongoDB |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Link</a>|
+|Desafio|Consumo médio do automóvel|Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio01">Link</a>|
+|Desafio|DDD                       |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio02">Link</a>|
+|Desafio|Aumento de salário        |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio03">Link</a>|
+|Desafio|Média 1                   |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio04">Link</a>|
+|Desafio|Crescimento populacional  |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio05">Link</a>|
+|Desafio|Bazingá!                  |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio06">Link</a>|
+|Desafio|Tempo de um evento        |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio07">Link</a>|
+|Desafio|Comunicação em Piralânida |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio08">Link</a>|
+|Desafio|Coordenadas de um ponto   |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio09">Link</a>|
+|Desafio|Compras no supermercado   |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio10">Link</a>|
+|Desafio|Pink e Cérebro            |Em andamento :warning:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio11">Link</a>|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Inter Java Dev 9/05/2021 - Em andamento :warning: 
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Everis Kotlin Developer 9/05/2021 - Em andamento :warning: 
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Avanade Angular Developer 9/05/2021 - Em andamento :warning: 
+|Tipo|Nome|Situação|Detalhes|
+|----|----|--------|--------|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 ## :label: Digital Innovation One Bootcamp MRV .NET Developer
 |Nome|Descrição|Situação|Detalhes|
@@ -81,27 +165,6 @@
 |Desafio 09 - Compras no Supermercado   |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio09">Clique-me</a>|
 |Desafio 10 - Validador senha requisitos|Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio10">Clique-me</a>|
 |Desafio 11 - Fila do banco             |Terminal|Concluido :heavy_check_mark:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Desafio11">Clique-me</a>|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## :label: Digital Innovation One Bootcamp LocalizaLabs .NET Developer
-|Nome|Descrição|Situação|Detalhes|
-|----|---------|--------|--------|
-|Projeto 01 - Transferências bancárias  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto01">Link</a>|
-|Projeto 02 - Cadstro de séries         |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto02">Link</a>|
-|Projeto 03 - Stack de testes           |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Link</a>|
-|Projeto 04 - API.NET integrada MongoDB |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Link</a>|
-|Desafio 01 - Consumo médio do automóvel|Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio01">Link</a>|
-|Desafio 02 - DDD                       |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio02">Link</a>|
-|Desafio 03 - Aumento de salário        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio03">Link</a>|
-|Desafio 04 - Média 1                   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio04">Link</a>|
-|Desafio 05 - Crescimento populacional  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio05">Link</a>|
-|Desafio 06 - Bazingá!                  |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio06">Link</a>|
-|Desafio 07 - Tempo de um evento        |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio07">Link</a>|
-|Desafio 08 - Comunicação em Piralânida |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio08">Link</a>|
-|Desafio 09 - Coordenadas de um ponto   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio09">Link</a>|
-|Desafio 10 - Compras no supermercado   |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio10">Link</a>|
-|Desafio 11 - Pink e Cérebro            |Terminal|Em andamento :warning:      |<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Desafio11">Link</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
