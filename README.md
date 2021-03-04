@@ -160,22 +160,22 @@
 ## :label:  Desafios encontrados na internet
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | ------- |
-| Caelum | MusicDot| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-MusicDot">Link</a> |
-| Internet | Minute News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Minute-News">Link</a> |
-| Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Bennu-Babies">Link</a> |
-| Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Merlins-Potions">Link</a> |
+| Caelum | MusicDot| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-MusicDot">Link</a> |
+| Internet | Minute News| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Minute-News">Link</a> |
+| Internet | Babies| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Link</a> |
+| Internet | Potions| Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Link</a> |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
 | Origem | Nome | Descrição | Situação | Detalhes |
 | ------ | ---- | ----------- | ------ | -------- |
-| Alura  | ByteBank                | Website | Em andamento :warning:       | <a href="https://github.com/rdeconti/Project-ByteBank">Link</a>                |
-| Alura  | Barbearia Alura         | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Barbearia-Alura">Link</a>         | 
-| Alura  | Aparecida Nutricionista | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Aparecida-Nutricionista">Link</a> |
-| Alura  | Alura News              | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-News">Link</a>              |
-| Alura  | Alura Typer             | Game    | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Typer">Link</a>             | 
-| Alura  | Conferência Alura       | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Project-Alura-Conference">Link</a>        |
+| Alura  | ByteBank                | Website | Em andamento :warning:       | <a href="https://github.com/rdeconti/Projeto-ByteBank">Link</a>                |
+| Alura  | Barbearia Alura         | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Link</a>         | 
+| Alura  | Aparecida Nutricionista | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Aparecida-Nutricionista">Link</a> |
+| Alura  | Alura News              | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Alura-News">Link</a>              |
+| Alura  | Alura Typer             | Game    | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Alura-Typer">Link</a>             | 
+| Alura  | Conferência Alura       | Website | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Projeto-Alura-Conference">Link</a>        |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
