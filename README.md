@@ -57,19 +57,19 @@ Legenda: Em aberto :white_circle: / Em andamento :yellow_circle: / Concluído :g
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021 :green_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
-|Projeto|Recriando a página inicial do Instagram|:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|
-|Projeto|Recriando a Interface do Netflix       |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|
-|Projeto|Recriando o jogo da cobrinha           |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Cobrinha">Clique-me</a>|
-|Desafio|Visita na feira                        |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|
-|Desafio|Multiplicação simples                  |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|
-|Desafio|Folha de pagamento                     |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|
-|Desafio|Quantidade de números positivos        |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|
-|Desafio|Exibindo números pares                 |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|
-|Desafio|Análise de números                     |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-Javascript-Análise-De-Números">Clique-me</a>|
-|Desafio|Contagem de células                    |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|
-|Desafio|Consumo médio do automóvel             |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Recriando a página inicial do Instagram|:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
+|Projeto|Recriando a Interface do Netflix       |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
+|Projeto|Recriando o jogo da cobrinha           |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Cobrinha">Clique-me</a>|Html5, Css3, Javascript, Canvas|
+|Desafio|Visita na feira                        |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|Javascript|
+|Desafio|Multiplicação simples                  |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|Javascript|
+|Desafio|Folha de pagamento                     |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript|
+|Desafio|Quantidade de números positivos        |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|Javascript|
+|Desafio|Exibindo números pares                 |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|Javascript|
+|Desafio|Análise de números                     |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-Javascript-Análise-De-Números">Clique-me</a>|Javascript|
+|Desafio|Contagem de células                    |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
+|Desafio|Consumo médio do automóvel             |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Impulso FullStack Developer (18/04/2021 :yellow_circle:)
