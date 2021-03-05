@@ -35,24 +35,24 @@ Legenda: Em aberto :white_circle: / Em andamento :yellow_circle: / Concluído :g
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Projetos próprios (31/12/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
-|Projeto|Meu portfólio|:yellow_circle:|<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Meu portfólio|:yellow_circle:|<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021 :green_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
-|Projeto|Cadastro de séries      |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
-|Projeto|Transferências bancárias|:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|
-|Desafio|Visita na feira         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|
-|Desafio|Validação de nota       |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|
-|Desafio|Tuitando                |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|
-|Desafio|Teste de seleção 1      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|
-|Desafio|Triangulo               |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|
-|Desafio|Notas e moedas          |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|
-|Desafio|Divisão Euclidiana      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|
-|Desafio|Fórmula de Bhaskara     |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Cadastro de séries      |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
+|Projeto|Transferências bancárias|:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
+|Desafio|Visita na feira         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp|
+|Desafio|Validação de nota       |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
+|Desafio|Tuitando                |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp|
+|Desafio|Teste de seleção 1      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|cSharp|
+|Desafio|Triangulo               |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|cSharp|
+|Desafio|Notas e moedas          |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|cSharp|
+|Desafio|Divisão Euclidiana      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|cSharp|
+|Desafio|Fórmula de Bhaskara     |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -73,78 +73,78 @@ Legenda: Em aberto :white_circle: / Em andamento :yellow_circle: / Concluído :g
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Impulso FullStack Developer (18/04/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
-|Projeto|Gerenciador de esferas   |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas">Clique-me</a>|
-|Projeto|Cloud Tags               |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Cloud-Tags">Clique-me</a>|
-|Projeto|Sistema de classificados |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|
-|Desafio|Par ou impar             |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Clique-me</a>|
-|Desafio|DDD                      |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Clique-me</a>|
-|Desafio|Idade em dias            |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Idade-Em-Dias">Clique-me</a>|
-|Desafio|Dividindo-X-Por-Y        |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|
-|Desafio|Blobs                    |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|
-|Desafio|Tipo de combustível      |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|
-|Desafio|Encaixa ou não?          |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Clique-me</a>|
-|Desafio|Tipo de combustível      |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Clique-me</a>|
-|Desafio|Crescimento populacional |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|
-|Desafio|Fibbonaci fácil          |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Clique-me</a>|
-|Desafio|Sequencia lógico         |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Sequencia-Logica">Clique-me</a>|
-|Desafio|Substituição em vetor I  |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Substituicao-Em-Vetor-I">Clique-me</a>|
-|Desafio|Fibbonaci em vetor       |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Em-Vetor">Clique-me</a>|
-|Desafio|Acima diagonal principal |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Clique-me</a>|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Gerenciador de esferas   |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas">Clique-me</a>|Ruby|
+|Projeto|Cloud Tags               |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Cloud-Tags">Clique-me</a>|Ruby|
+|Projeto|Sistema de classificados |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|Ruby|
+|Desafio|Par ou impar             |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Clique-me</a>|Ruby|
+|Desafio|DDD                      |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Clique-me</a>|Ruby|
+|Desafio|Idade em dias            |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Idade-Em-Dias">Clique-me</a>|Ruby|
+|Desafio|Dividindo-X-Por-Y        |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript|
+|Desafio|Blobs                    |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript|
+|Desafio|Tipo de combustível      |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript|
+|Desafio|Encaixa ou não?          |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Clique-me</a>|Ruby|
+|Desafio|Tipo de combustível      |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Clique-me</a>|Ruby|
+|Desafio|Crescimento populacional |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|Ruby|
+|Desafio|Fibbonaci fácil          |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Clique-me</a>|Ruby|
+|Desafio|Sequencia lógico         |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Sequencia-Logica">Clique-me</a>|Ruby|
+|Desafio|Substituição em vetor I  |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Substituicao-Em-Vetor-I">Clique-me</a>|Ruby|
+|Desafio|Fibbonaci em vetor       |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Em-Vetor">Clique-me</a>|Ruby|
+|Desafio|Acima diagonal principal |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Clique-me</a>|Ruby|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: MRV .NET Developer (21/04/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
-|Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|
-|Projeto|Stack de testes           |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Clique-me</a>|
-|Projeto|API.NET integrada MongoDB |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Clique-me</a>|
-|Projeto|Cadastro de séries        |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
-|Desafio|Dividindo X por Y         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|
-|Desafio|Bazinga!                  |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|
-|Desafio|Coxinha de bueno          |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|
-|Desafio|Dividindo X por Y         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|
-|Desafio|Distância                 |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Distancia">Clique-me</a>|
-|Desafio|Quanta mandioca           |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|
-|Desafio|Validação de nota         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|
-|Desafio|Quanta mandioca           |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|
-|Desafio|Compras no Supermercado   |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|
-|Desafio|Validador senha requisitos|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|
-|Desafio|Fila do banco             |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
+|Projeto|Stack de testes           |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Clique-me</a>|cSharp
+|Projeto|API.NET integrada MongoDB |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Clique-me</a>|cSharp
+|Projeto|Cadastro de séries        |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp
+|Desafio|Dividindo X por Y         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp
+|Desafio|Bazinga!                  |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp
+|Desafio|Coxinha de bueno          |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp
+|Desafio|Dividindo X por Y         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp
+|Desafio|Distância                 |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Distancia">Clique-me</a>|cSharp
+|Desafio|Quanta mandioca           |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp
+|Desafio|Validação de nota         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp
+|Desafio|Quanta mandioca           |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp
+|Desafio|Compras no Supermercado   |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp
+|Desafio|Validador senha requisitos|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp
+|Desafio|Fila do banco             |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Backend Developer Carrefour (24/04/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Fullstack Developer Banco Carrefour (24/04/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Java Developer (24/04/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: JavaScript Game Developer (24/04/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: LocalizaLabs .NET Developer (9/05/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
 |Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|
 |Projeto|Cadastro de séries        |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
 |Projeto|Stack de testes           |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Clique-me</a>|
@@ -163,54 +163,54 @@ Legenda: Em aberto :white_circle: / Em andamento :yellow_circle: / Concluído :g
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Inter Java Dev (9/05/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Everis Kotlin Developer (9/05/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Avanade Angular Developer (9/05/2021 :yellow_circle:)
-|Tipo|Nome|Situação|Detalhes|
-|----|----|--------|--------|
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label:  Desafios encontrados na internet (:green_circle:)
-| Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | ----------- | ------ | ------- |
-| Caelum   | MusicDot         | Website | :green_circle: | <a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |
-| Internet | Minute News      | Website | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |
-| Internet | Babies           | Website | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |
-| Internet | Potions          | Website | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+| Caelum   | MusicDot         | :green_circle: | <a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
+| Internet | Minute News      | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
+| Internet | Babies           | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
+| Internet | Potions          | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer) (:green_circle:)
-| Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | ----------- | ------ | -------- |
-| Alura  | ByteBank                | Website | :yellow_circle:| <a href="https://github.com/rdeconti/Projeto-ByteBank">Clique-me</a>                |
-| Alura  | Barbearia Alura         | Website | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Clique-me</a>         | 
-| Alura  | Aparecida Nutricionista | Website | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Aparecida-Nutricionista">Clique-me</a> |
-| Alura  | Alura News              | Website | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Alura-News">Clique-me</a>              |
-| Alura  | Alura Typer             | Game    | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Alura-Typer">Clique-me</a>             | 
-| Alura  | Conferência Alura       | Website | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>        |
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+| Alura  | ByteBank                | :yellow_circle:| <a href="https://github.com/rdeconti/Projeto-ByteBank">Clique-me</a>                |Html5, Css3, Javascript!, Java, MySql|
+| Alura  | Barbearia Alura         | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Clique-me</a>         |Html5, Css3, Javascript|Html5, Css3, Javascript|
+| Alura  | Aparecida Nutricionista | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Aparecida-Nutricionista">Clique-me</a> |Html5, Css3, Javascript|
+| Alura  | Alura News              | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Alura-News">Clique-me</a>              |Html5, Css3, Javascript|
+| Alura  | Alura Typer             | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Alura-Typer">Clique-me</a>             |Html5, Css3, Javascript|
+| Alura  | Conferência Alura       | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>        |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label:  Projetos do curso Udacity (Android Developer Nanodegree) (:green_circle:)
-| Origem | Nome | Descrição | Situação | Detalhes |
-| ------ | ---- | ----------- | ------ | ------- |
-| Udacity | Bake House    | Android | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a> |
-| Udacity | Elegant Reader| Android | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Clique-me</a> |
-| Udacity | Find Movies   | Android | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Clique-me</a> |
-| Udacity | Quick Jokes   | Android | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Clique-me</a> |
-| Udacity | Best Meal     | Android | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Clique-me</a> |
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+| Udacity | Bake House    | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a> |Android|
+| Udacity | Elegant Reader| :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Clique-me</a> |Android|
+| Udacity | Find Movies   | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Clique-me</a> |Android|
+| Udacity | Quick Jokes   | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Clique-me</a> |Android|
+| Udacity | Best Meal     | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Clique-me</a> |Android|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
