@@ -30,8 +30,11 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Relação de projetos e desafios:
-Aqui está a lista de projetos e desafios nos quais participei ou estou participando:
-Legenda: Em aberto :white_circle: / Em andamento :yellow_circle: / Concluído :green_circle: / Em discussão: :purple_circle:
+Aqui está a lista de projetos e desafios nos quais participei ou estou participando. Legenda: 
+- Em aberto :white_circle:
+- Em andamento :yellow_circle: 
+- Em estudo :purple_circle:
+- Concluído :green_circle: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Projetos próprios (31/12/2021 :yellow_circle:)
