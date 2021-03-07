@@ -47,6 +47,12 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Projeto|Potions          |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Digital Innovation One Aulas práticas (31/12/2021)
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
+|Projeto|Minha página |:yellow_circle: |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
