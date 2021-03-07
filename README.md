@@ -109,8 +109,8 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |----|----|--------|--------|-----------|
 |Projeto|Cadastro de séries        |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp
 |Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
-|Projeto|Stack de testes           |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Clique-me</a>|cSharp
-|Projeto|API.NET integrada MongoDB |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Clique-me</a>|cSharp
+|Projeto|Stack de testes           |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Stack-De-Testes">Clique-me</a>|cSharp
+|Projeto|API.NET integrada MongoDB |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp
 |Desafio|Visita na feira         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp|
 |Desafio|Tuitando                |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp|
 |Desafio|Validação de nota       |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
