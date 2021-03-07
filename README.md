@@ -152,10 +152,10 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: LocalizaLabs .NET Developer (9/05/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|
-|Projeto|Cadastro de séries        |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|
-|Projeto|Stack de testes           |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto03">Clique-me</a>|
-|Projeto|API.NET integrada MongoDB |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-LocalizaLabs-.NET-Projeto04">Clique-me</a>|
+|Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
+|Projeto|Cadastro de séries        |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp
+|Projeto|Stack de testes           |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Stack-De-Testes">Clique-me</a>|cSharp
+|Projeto|API.NET integrada MongoDB |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp
 |Desafio|Consumo médio do automóvel|:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Clique-me</a>|
 |Desafio|DDD                       |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-DDD">Clique-me</a>|
 |Desafio|Aumento de salário        |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|
@@ -167,6 +167,9 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Desafio|Coordenadas de um ponto   |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Clique-me</a>|
 |Desafio|Compras no supermercado   |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|
 |Desafio|Pink e Cérebro            |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|
+
+|Tipo|Nome|Situação|Detalhes|Ferramentas|
+|----|----|--------|--------|-----------|
 |Desafio|Visita na feira         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp|
 |Desafio|Validação de nota       |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
 |Desafio|Tuitando                |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp|
