@@ -92,8 +92,8 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Desafio|DDD                      |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Clique-me</a>|Ruby|
 |Desafio|Idade em dias            |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Idade-Em-Dias">Clique-me</a>|Ruby|
 |Desafio|Dividindo-X-Por-Y        |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript|
-|Desafio|Blobs                    |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript|
-|Desafio|Tipo de combustível      |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript|
+|Desafio|Blobs                    |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript|
+|Desafio|Tipo de combustível      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript|
 |Desafio|Encaixa ou não?          |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Clique-me</a>|Ruby|
 |Desafio|Tipo de combustível      |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Clique-me</a>|Ruby|
 |Desafio|Crescimento populacional |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|Ruby|
@@ -107,21 +107,18 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: MRV .NET Developer (21/04/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
+|Projeto|Cadastro de séries        |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp
 |Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |Projeto|Stack de testes           |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto02">Clique-me</a>|cSharp
 |Projeto|API.NET integrada MongoDB |:yellow_circle:|<a href="https://github.com/rdeconti/Bootcamp-DIO-.NET-Fundamentals-Projeto03">Clique-me</a>|cSharp
-|Projeto|Cadastro de séries        |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp
-|Desafio|Dividindo X por Y         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp
-|Desafio|Bazinga!                  |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp
-|Desafio|Coxinha de bueno          |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp
-|Desafio|Dividindo X por Y         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp
-|Desafio|Distância                 |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Distancia">Clique-me</a>|cSharp
-|Desafio|Quanta mandioca           |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp
-|Desafio|Validação de nota         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp
-|Desafio|Quanta mandioca           |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp
-|Desafio|Compras no Supermercado   |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp
-|Desafio|Validador senha requisitos|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp
-|Desafio|Fila do banco             |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp
+|Desafio|Visita na feira         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp|
+|Desafio|Tuitando                |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp|
+|Desafio|Validação de nota       |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
+|Desafio|Teste de seleção 1      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|cSharp|
+|Desafio|Triangulo               |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|cSharp|
+|Desafio|Notas e moedas          |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|cSharp|
+|Desafio|Divisão Euclidiana      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|cSharp|
+|Desafio|Fórmula de Bhaskara     |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Backend Developer Carrefour (24/04/2021)
@@ -178,6 +175,17 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Desafio|Notas e moedas          |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|cSharp|
 |Desafio|Divisão Euclidiana      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|cSharp|
 |Desafio|Fórmula de Bhaskara     |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp|
+|Desafio|Dividindo X por Y         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp
+|Desafio|Bazinga!                  |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp
+|Desafio|Coxinha de bueno          |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp
+|Desafio|Dividindo X por Y         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp
+|Desafio|Distância                 |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Distancia">Clique-me</a>|cSharp
+|Desafio|Quanta mandioca           |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp
+|Desafio|Validação de nota         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp
+|Desafio|Quanta mandioca           |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp
+|Desafio|Compras no Supermercado   |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp
+|Desafio|Validador senha requisitos|:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp
+|Desafio|Fila do banco             |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Inter Java Dev (9/05/2021)
