@@ -39,13 +39,17 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Projetos próprios (31/12/2021 :yellow_circle:)
+## :label: Projetos próprios (31/12/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Meu portfólio|:yellow_circle:|<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
+|Projeto|Meu portfólio    |:yellow_circle: |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
+|Projeto|MusicDot         |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
+|Projeto|Minute News      |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
+|Projeto|Babies           |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
+|Projeto|Potions          |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021 :green_circle:)
+## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 |Projeto|Cadastro de séries      |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
@@ -61,7 +65,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021 :green_circle:)
+## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 |Projeto|Recriando a página inicial do Instagram|:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
@@ -77,7 +81,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Desafio|Consumo médio do automóvel             |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Impulso FullStack Developer (18/04/2021 :yellow_circle:)
+## :label: Impulso FullStack Developer (18/04/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 |Projeto|Gerenciador de esferas   |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas">Clique-me</a>|Ruby|
@@ -99,7 +103,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Desafio|Acima diagonal principal |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Clique-me</a>|Ruby|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: MRV .NET Developer (21/04/2021 :yellow_circle:)
+## :label: MRV .NET Developer (21/04/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 |Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
@@ -119,35 +123,35 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Desafio|Fila do banco             |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Backend Developer Carrefour (24/04/2021 :yellow_circle:)
+## :label: Backend Developer Carrefour (24/04/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Fullstack Developer Banco Carrefour (24/04/2021 :yellow_circle:)
+## :label: Fullstack Developer Banco Carrefour (24/04/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: Java Developer (24/04/2021 :yellow_circle:)
+## :label: Java Developer (24/04/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: JavaScript Game Developer (24/04/2021 :yellow_circle:)
+## :label: JavaScript Game Developer (24/04/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label: LocalizaLabs .NET Developer (9/05/2021 :yellow_circle:)
+## :label: LocalizaLabs .NET Developer (9/05/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 |Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|
@@ -167,37 +171,26 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Desafio|Pink e Cérebro            |:yellow_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Inter Java Dev (9/05/2021 :yellow_circle:)
+## :label: Inter Java Dev (9/05/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Everis Kotlin Developer (9/05/2021 :yellow_circle:)
+## :label: Everis Kotlin Developer (9/05/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Avanade Angular Developer (9/05/2021 :yellow_circle:)
+## :label: Avanade Angular Developer (9/05/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label:  Desafios encontrados na internet (:green_circle:)
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
-| Caelum   | MusicDot         | :green_circle: | <a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
-| Internet | Minute News      | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
-| Internet | Babies           | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
-| Internet | Potions          | :green_circle: | <a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer) (:green_circle:)
+## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 | Alura  | ByteBank                | :yellow_circle:| <a href="https://github.com/rdeconti/Projeto-ByteBank">Clique-me</a>                |Html5, Css3, Javascript!, Java, MySql|
@@ -209,7 +202,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :label:  Projetos do curso Udacity (Android Developer Nanodegree) (:green_circle:)
+## :label:  Projetos do curso Udacity (Android Developer Nanodegree)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 | Udacity | Bake House    | :green_circle: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a> |Android|
