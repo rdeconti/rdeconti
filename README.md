@@ -40,7 +40,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Projetos próprios (31/12/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
-|Projeto|Meu portfólio    |:yellow_circle: |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
+|Projeto|Meu portfólio    |:purple_circle: |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
 |Projeto|MusicDot         |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
 |Projeto|Minute News      |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
 |Projeto|Babies           |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
