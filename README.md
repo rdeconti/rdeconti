@@ -38,8 +38,8 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Projetos próprios (31/12/2021)
-|S |Tipo|Nome|Detalhes|Ferramentas|
-|--|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
 |:purple_circle:|Projeto|Meu portfólio       |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
 |:purple_circle:|Projeto|Website e-commerce  |<a href="https://github.com/rdeconti/Projeto-DIO-Website-Ecommerce">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
 |:green_circle: |Projeto|MusicDot            |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
