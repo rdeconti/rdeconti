@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 03 de Março de 2021 :heart:
+:spiral_calendar: Atualizado em 10 de Março de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Relação de projetos e desafios:
-Aqui está a lista de projetos e desafios nos quais participei ou estou participando. Legenda: 
+Aqui está a lista de projetos e desafios nos quais participei ou estou participando. A situação de cada um deles segue esta legenda: 
 - :white_circle: Em aberto
 - :yellow_circle: Em andamento
 - :purple_circle: Em estudo
@@ -38,14 +38,14 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Projetos próprios (31/12/2021)
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
-|Projeto|Meu portfólio      |:purple_circle: |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
-|Projeto|Website e-commerce |:purple_circle: |<a href="https://github.com/rdeconti/Projeto-DIO-Website-Ecommerce">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
-|Projeto|MusicDot           |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
-|Projeto|Minute News        |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
-|Projeto|Babies             |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
-|Projeto|Potions            |:green_circle:  |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
+|S||Tipo|Nome|Detalhes|Ferramentas|
+|--|----|----|--------|-----------|
+|:purple_circle:|Projeto|Meu portfólio       |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
+|:purple_circle:|Projeto|Website e-commerce  |<a href="https://github.com/rdeconti/Projeto-DIO-Website-Ecommerce">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
+|:green_circle: |Projeto|MusicDot            |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
+|:green_circle: |Projeto|Minute News         |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
+|:green_circle: |Projeto|Babies              |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
+|:green_circle: |Projeto|Potions             |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Aulas práticas (31/12/2021)
@@ -116,14 +116,14 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Projeto|Transferências bancárias  |:green_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |Projeto|Stack de testes           |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Stack-De-Testes">Clique-me</a>|cSharp
 |Projeto|API.NET integrada MongoDB |:yellow_circle:|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp
-|Desafio|Visita na feira         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp|
-|Desafio|Tuitando                |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp|
-|Desafio|Validação de nota       |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
-|Desafio|Teste de seleção 1      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|cSharp|
-|Desafio|Triangulo               |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|cSharp|
-|Desafio|Notas e moedas          |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|cSharp|
-|Desafio|Divisão Euclidiana      |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|cSharp|
-|Desafio|Fórmula de Bhaskara     |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp|
+|Desafio|Visita na feira           |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp|
+|Desafio|Tuitando                  |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp|
+|Desafio|Validação de nota         |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
+|Desafio|Teste de seleção 1        |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|cSharp|
+|Desafio|Triangulo                 |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|cSharp|
+|Desafio|Notas e moedas            |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|cSharp|
+|Desafio|Divisão Euclidiana        |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|cSharp|
+|Desafio|Fórmula de Bhaskara       |:green_circle:|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Backend Developer Carrefour (24/04/2021)
