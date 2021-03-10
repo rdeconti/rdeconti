@@ -41,7 +41,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:purple_circle:|Projeto|Meu portfólio       |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
-|:purple_circle:|Projeto|Website e-commerce  |<a href="https://github.com/rdeconti/Projeto-DIO-Website-Ecommerce">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
 |:green_circle: |Projeto|MusicDot            |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
 |:green_circle: |Projeto|Minute News         |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
 |:green_circle: |Projeto|Babies              |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
@@ -51,7 +50,8 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Digital Innovation One Aulas práticas (31/12/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|Projeto|Minha página |:yellow_circle: |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
+|:yellow_circle:|Projeto|Minha página        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
+|:purple_circle:|Projeto|Website e-commerce  |<a href="https://github.com/rdeconti/Projeto-DIO-Website-Ecommerce">Clique-me</a>|Html5, Css3|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021)
