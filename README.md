@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 10 de Março de 2021 :heart:
+:spiral_calendar: Atualizado em 11 de Março de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -144,6 +144,46 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
+<!--
+JAVA DEVELOPER
+*** Projetos
+Desenvolvendo um sistema de gerenciador de pessoas em API REST com Spring Boot
+Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção
+Crie seu gerenciador de salas de reuniões com Java e Angular
+Desenvolvimento de teste unitários para validar uma API REST de gerenciamento de estoques de cerveja
+
+*** Desafios
+Visita na feira
+Multiplicação simples
+Folha de pagamento
+Quantidade de números positivos
+Exibindo números pares
+Análise de números
+Contagem de cédulas
+Consumo médio do automóvel
+Ordenando números pares e ímpares
+Compras no supermercado
+Unifformes de final de ano
+Fila do banco
+Gincaga no apartamento
+Ordenação de palavras por tamanho
+Encontre a maior substring
+Validador de senhas com requisitos
+Pedra, Papel, Tesoura, Lagarto e Spock
+Atalhos para o Webblogger Brasil
+Contagem repetida de números
+Vogais extraterrestres
+Melhor amigo do Pablo
+Entrevista embaraçosa
+Conjuntos bons ou ruins?
+Produto e divisão
+Barras de ouro
+Coração das cartas
+Abreviando posts do blog
+Combinação de strings
+Hash mágico
+O tabuleiro secreto
+-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -151,6 +191,50 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
 
+<!--
+JAVASCRIPT GAME DEVELOPER
+*** Projetos
+Recriando a página inicial do Instagram
+Recriando a interface do Netflix
+Construindo o seu primeiro jogo de naves
+Criando seu jogo de meoméria estilo Genius
+Recriando o famoso jogo do dinossauro sem internet
+Desenvolvendo um jogo da memória
+Criando seu próprio jogo da velha com HTML e Javascript
+Criando seu jogo no estilo Space SHooter
+Ordenação de palavras por tamanho
+Encontre a maior substring
+Validador de senhas com requisitos
+Pedra, Papel, Tesoura, Lagarto e Spock
+Atalhos para o Webblogger Brasil
+
+*** Desafios
+Visita na Feira
+Multiplicação simples
+Folha de Pagamento
+Quantidade de números positivos
+Exibindo números pares
+Análise de números
+Contagem de cédulas
+Consumo médio do automóvel
+Ordenando números pares e ímpares
+Compras no supermercado
+Unifformes de final de ano
+Fila do banco
+Gincaga no apartamento
+Contagem repetida de números
+Vogais extraterrestres
+Melhor amigo do Pablo
+Entrevista embaraçosa
+Conjuntos bons ou ruins?
+Produto e divisão
+Barras de ouro
+Coração das cartas
+Abreviando posts do blog
+Combinação de strings
+Hash mágico
+O tabuleiro secreto
+-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -177,7 +261,33 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Inter Java Dev (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja  |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest|
+|:yellow_circle:|Projeto|Gerenciamento Heróis Marvel/DC |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Herois-Marvel-DC">Clique-me</a>|Java, API Reativa, Spring Boot||
+|:yellow_circle:|Projeto|E-commerce                     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-E-Commerce">Clique-me</a> |Java, micro-serviços|
+|:yellow_circle:|Projeto|Kubernets                      |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Kubernets">Clique-me</a> |Java, Kubernetes|
+|:yellow_circle:|Projeto|Gerenciamento de orçamento     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Orcamento">Clique-me</a> |Java,CQRS, Quarkus, Kafka, EKS|
 
+<!--
+INTER JAVA DEVELOPER
+*** Projetos
+Desenvolvimento de teste unitários para validar uma API REST de gerenciamento de estoques de cerveja
+Criando seu gerenciador de super heróis da Marvel e da DC em uma API reativa com Spring Boot
+Criando uma soluçaõ de e-commerce com micro-serviços em Java
+Rodando sua Java no Kubernetes. Do deploy ao debug sem medo!
+Criando um sistema de orçamento CQRS, Quarkus, Kafka e deploy no EKS
+
+*** Desafios
+Multiplicação simples
+Menor e posição
+Números ímpares
+Abreviando posts do blog
+Encontre a maior substring
+Entrevista embaraçosa
+Validador de senhas com requisitos
+Divisores
+Análise de números
+Contagem repetida de números
+-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Everis Kotlin Developer (9/05/2021)
