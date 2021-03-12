@@ -275,6 +275,30 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
+<!-- 
+AVANADE ANGULAR DEVELOPER
+*** Projetos
+Recriando a Interface do Netflix
+Recriando a página inicial do Instagram
+Desenvolvendo SPA com Angular
+Criando projeto para consultar a previsão do tempo via API
+
+
+
+*** Desafios Javascript
+Dividindo X por Y
+Blobs
+Tipo de combustível
+Votação para bobo da corte
+Comunicação em Piralândia
+Contagem de Células
+Folha de pagamento
+Ordenando Números Pares e Ímpares
+Animal
+Compras no supermercado
+
+-->
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
