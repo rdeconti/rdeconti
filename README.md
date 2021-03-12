@@ -148,49 +148,36 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:yellow_circle:|Projeto|Consulta cidades do Brasil         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
 |:yellow_circle:|Projeto|Gerenciador de salas de reuniões   |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular|
 |:yellow_circle:|Projeto|Gerenciador de estoques de cerveja |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Estoques-De-Cerveja">Clique-me</a>|Java,API Rest|
-
-|:green_circle:|Desafio|Dividindo X por Y         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Bazinga!                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Coxinha de bueno          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Programa Validação Nota   |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Compras no Supermercado   |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Validador senha requisitos|<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Fila do banco             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp|
-
-<!--
-Visita na feira
-Multiplicação simples
-Folha de pagamento
-Quantidade de números positivos
-Exibindo números pares
-Análise de números
-Contagem de cédulas
-Consumo médio do automóvel
-Ordenando números pares e ímpares
-Compras no supermercado
-Unifformes de final de ano
-Fila do banco
-Gincaga no apartamento
-Ordenação de palavras por tamanho
-Encontre a maior substring
-Validador de senhas com requisitos
-Pedra, Papel, Tesoura, Lagarto e Spock
-Atalhos para o Webblogger Brasil
-Contagem repetida de números
-Vogais extraterrestres
-Melhor amigo do Pablo
-Entrevista embaraçosa
-Conjuntos bons ou ruins?
-Produto e divisão
-Barras de ouro
-Coração das cartas
-Abreviando posts do blog
-Combinação de strings
-Hash mágico
-O tabuleiro secreto
--->
+|:yellow_circle:|Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javas/tree/main/Desafio-Java-Vista-Na-Feira">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Folha-De-Pagamento">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Javas/tree/main/Desafio-Java-Quantidade-De-Numeros-Positivos">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Exibindo números pares                 |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Exibindo-Numeros-Pares">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Análise-De-Numeros">Clique-me</a>|Jav
+|:yellow_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-De-Celulas">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Consumo médio do automóvel             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Consumo-Medio-Do-Automovel">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Ordenando números pares e ímpares      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Compras no supermercado                |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Compras-No-Supermercado">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Uniformes de final de ano              |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Uniformes-De-Final-De-Ano">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Fila do Banco                          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Fila-Do-banco">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Ginacana no apartamento                |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Gincana-No-Apartamento">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Ordenação de palavras por tamanho      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Ordenacao-De-Palavras-Por-Tamanho">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Validador de senhas com requisitos     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Pedra,Papel,Tesoura,Lagarto,Spock      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Bazinga">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Atalho para Webblogger Brasil          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Atalho-Para-Webblogger -Brasil">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Contagem repetida de números           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-Repetida-De-Números">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Vogais extraterrestres                 |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vogai-Extraterrestres">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Melhor amigo do Pablo                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Melhor-Amigo-Do-Pablo">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Conjuntos bons ou ruins?               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Produto e divisão                      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Produto-E-Divisão">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Barras de ouro                         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Barras-De-Ouro">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Coração das cartas                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Coracao-Das-Cartas">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Abreviando posts do blog               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Abreviando-Posts-Do-Blog">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Combinação de strings                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Combinacao-De-Strings">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Hash mágico                            |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Hash-Magico">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|O tabuleiro secreto                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-O-Tabuleiro-Secreto">Clique-me</a>|Java|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
