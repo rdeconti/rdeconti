@@ -207,45 +207,28 @@ O tabuleiro secreto
 |:green_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
 |:green_circle:|Desafio|Consumo médio do automóvel             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript|
 
-<!--
-JAVASCRIPT GAME DEVELOPER
-
-
-
-
-Ordenação de palavras por tamanho
-Encontre a maior substring
-Validador de senhas com requisitos
-Pedra, Papel, Tesoura, Lagarto e Spock
-Atalhos para o Webblogger Brasil
-
-*** Desafios
-Visita na Feira
-Multiplicação simples
-Folha de Pagamento
-Quantidade de números positivos
-Exibindo números pares
-Análise de números
-Contagem de cédulas
-Consumo médio do automóvel
-Ordenando números pares e ímpares
-Compras no supermercado
-Unifformes de final de ano
-Fila do banco
-Gincaga no apartamento
-Contagem repetida de números
-Vogais extraterrestres
-Melhor amigo do Pablo
-Entrevista embaraçosa
-Conjuntos bons ou ruins?
-Produto e divisão
-Barras de ouro
-Coração das cartas
-Abreviando posts do blog
-Combinação de strings
-Hash mágico
-O tabuleiro secreto
--->
+|:yellow_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Uniformes de final de ano             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Uniformes-De-Final-De-Ano">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Fila do Banco                         |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Fila-Do-banco">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Ginacana no apartamento               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Gincana-No-Apartamento">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Contagem repetida de números          |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-Repetida-De-Números">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Vogais extraterrestres                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vogai-Extraterrestres">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Melhor amigo do Pablo                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Melhor-Amigo-Do-Pablo">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Entrevista embaraçosa                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Entrevista-Embaraçosa">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Conjuntos bons ou ruins?              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Produto e divisão                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Produto-E-Divisão">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Barras de ouro                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Barras-De-Ouro">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Coração das cartas                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Coracao-Das-Cartas">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Abreviando posts do blog              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Abreviando-Posts-Do-Blog">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Combinação de strings                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Combinacao-De-Strings">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Hash mágico                           |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Hash-Magico">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|O tabuleiro secreto                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-O-Tabuleiro-Secreto">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Ordenação de palavras por tamanho     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenacao-De-Palavras-Por-Tamanho">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Encontre a maior substring            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Encontre-A-Maior-Substring">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Validador de senhas com requisitos    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Pedra,Papel,Tesoura,Lagarto,Spock     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Bazinga">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Atalho para Webblogger Brasil         |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Atalho-Para-Webblogger -Brasil">Clique-me</a>|Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
