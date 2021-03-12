@@ -148,7 +148,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:yellow_circle:|Projeto|Consulta cidades do Brasil             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
 |:yellow_circle:|Projeto|Gerenciador de salas de reuniões       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular|
 |:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest|
-|:yellow_circle:|Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javas/tree/main/Desafio-Java-Vista-Na-Feira">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vista-Na-Feira">Clique-me</a>|Java|
 |:yellow_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java|
 |:yellow_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Folha-De-Pagamento">Clique-me</a>|Java|
 |:yellow_circle:|Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Javas/tree/main/Desafio-Java-Quantidade-De-Numeros-Positivos">Clique-me</a>|Java|
