@@ -198,15 +198,14 @@ O tabuleiro secreto
 |:yellow_circle:|Projeto|Jogo da memória                       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria">Clique-me</a>|Html5, Css3, Javascript|
 |:yellow_circle:|Projeto|Jogo da velha                         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Velha">Clique-me</a>|Html5, Css3, Javascript|
 |:yellow_circle:|Projeto|Jogo Space Shooter                    |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter">Clique-me</a>|Html5, Css3, Javascript|
-|:green_circle:|Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|Javascript|
-|:green_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|Javascript|
-|:green_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript|
-|:green_circle:|Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|Javascript|
-|:green_circle:|Desafio|Exibindo números pares                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|Javascript|
-|:green_circle:|Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Análise-De-Números">Clique-me</a>|Javascript|
-|:green_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
-|:green_circle:|Desafio|Consumo médio do automóvel             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript|
-
+|:green_circle: |Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Exibindo números pares                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Análise-De-Números">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Consumo médio do automóvel             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Uniformes de final de ano             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Uniformes-De-Final-De-Ano">Clique-me</a>|Javascript|
