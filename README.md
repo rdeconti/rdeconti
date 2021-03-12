@@ -144,10 +144,10 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Java Developer (24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:yellow_circle:|Projeto|Gerenciador de pessoas             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot|
-|:yellow_circle:|Projeto|Consulta cidades do Brasil         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
-|:yellow_circle:|Projeto|Gerenciador de salas de reuniões   |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular|
-|:yellow_circle:|Projeto|Gerenciador de estoques de cerveja |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Estoques-De-Cerveja">Clique-me</a>|Java,API Rest|
+|:yellow_circle:|Projeto|Gerenciador de pessoas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot|
+|:yellow_circle:|Projeto|Consulta cidades do Brasil             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
+|:yellow_circle:|Projeto|Gerenciador de salas de reuniões       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular|
+|:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest|
 |:yellow_circle:|Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javas/tree/main/Desafio-Java-Vista-Na-Feira">Clique-me</a>|Java|
 |:yellow_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java|
 |:yellow_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Folha-De-Pagamento">Clique-me</a>|Java|
@@ -248,33 +248,21 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Inter Java Dev (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja  |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest|
-|:yellow_circle:|Projeto|Gerenciamento Heróis Marvel/DC |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Herois-Marvel-DC">Clique-me</a>|Java, API Reativa, Spring Boot||
-|:yellow_circle:|Projeto|E-commerce                     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-E-Commerce">Clique-me</a> |Java, micro-serviços|
-|:yellow_circle:|Projeto|Kubernets                      |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Kubernets">Clique-me</a> |Java, Kubernetes|
-|:yellow_circle:|Projeto|Gerenciamento de orçamento     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Orcamento">Clique-me</a> |Java,CQRS, Quarkus, Kafka, EKS|
-
-<!--
-INTER JAVA DEVELOPER
-*** Projetos
-Desenvolvimento de teste unitários para validar uma API REST de gerenciamento de estoques de cerveja
-Criando seu gerenciador de super heróis da Marvel e da DC em uma API reativa com Spring Boot
-Criando uma soluçaõ de e-commerce com micro-serviços em Java
-Rodando sua Java no Kubernetes. Do deploy ao debug sem medo!
-Criando um sistema de orçamento CQRS, Quarkus, Kafka e deploy no EKS
-
-*** Desafios
-Multiplicação simples
-Menor e posição
-Números ímpares
-Abreviando posts do blog
-Encontre a maior substring
-Entrevista embaraçosa
-Validador de senhas com requisitos
-Divisores
-Análise de números
-Contagem repetida de números
--->
+|:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest|
+|:yellow_circle:|Projeto|Gerenciamento Heróis Marvel/DC         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Herois-Marvel-DC">Clique-me</a>|Java, API Reativa, Spring Boot||
+|:yellow_circle:|Projeto|E-commerce                             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-E-Commerce">Clique-me</a> |Java, micro-serviços|
+|:yellow_circle:|Projeto|Kubernets                              |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Kubernets">Clique-me</a> |Java, Kubernetes|
+|:yellow_circle:|Projeto|Gerenciamento de orçamento             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Orcamento">Clique-me</a> |Java,CQRS, Quarkus, Kafka, EKS|
+|:yellow_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Menor e posição                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Menor-E-Posicao">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Números ímpares                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Numeros-Impares">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Abreviando posts do blog               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Abreviando-Posts-Do-Blog">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Validador de senhas com requisitos     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Divisores                              |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Divisores">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Análise-De-Numeros">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Contagem repetida de números           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-Repetida-De-Números">Clique-me</a>|Java|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Everis Kotlin Developer (9/05/2021)
