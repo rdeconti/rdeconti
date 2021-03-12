@@ -40,7 +40,8 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Projetos próprios (31/12/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:purple_circle:|Projeto|Meu portfólio       |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a>|Html5, Css3, Javascript, Bootstrap|
+|:purple_circle:|Projeto|Meu portfólio       |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a> |Html5, Css3, Javascript, Bootstrap|
+|:purple_circle:|Projeto|ByteBank            |<a href="https://github.com/rdeconti/Projeto-ByteBank">Clique-me</a> |Html5, Css3, Javascript, Java, MySql|
 |:green_circle: |Projeto|MusicDot            |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
 |:green_circle: |Projeto|Minute News         |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
 |:green_circle: |Projeto|Babies              |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
@@ -143,16 +144,22 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Java Developer (24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:yellow_circle:|Projeto|Gerenciador de pessoas             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot|
+|:yellow_circle:|Projeto|Consulta cidades do Brasil         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
+|:yellow_circle:|Projeto|Gerenciador de salas de reuniões   |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular|
+|:yellow_circle:|Projeto|Gerenciador de estoques de cerveja |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Estoques-De-Cerveja">Clique-me</a>|Java,API Rest|
+
+|:green_circle:|Desafio|Dividindo X por Y         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Bazinga!                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Coxinha de bueno          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Programa Validação Nota   |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Compras no Supermercado   |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Validador senha requisitos|<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Fila do banco             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp|
 
 <!--
-JAVA DEVELOPER
-*** Projetos
-Desenvolvendo um sistema de gerenciador de pessoas em API REST com Spring Boot
-Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção
-Crie seu gerenciador de salas de reuniões com Java e Angular
-Desenvolvimento de teste unitários para validar uma API REST de gerenciamento de estoques de cerveja
-
-*** Desafios
 Visita na feira
 Multiplicação simples
 Folha de pagamento
@@ -198,14 +205,14 @@ O tabuleiro secreto
 |:yellow_circle:|Projeto|Jogo da memória                       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria">Clique-me</a>|Html5, Css3, Javascript|
 |:yellow_circle:|Projeto|Jogo da velha                         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Velha">Clique-me</a>|Html5, Css3, Javascript|
 |:yellow_circle:|Projeto|Jogo Space Shooter                    |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter">Clique-me</a>|Html5, Css3, Javascript|
-|:green_circle: |Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Exibindo números pares                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Análise-De-Números">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Consumo médio do automóvel             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Visita na feira                       |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Multiplicação simples                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Folha de pagamento                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Quantidade de números positivos       |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Exibindo números pares                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Análise de números                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Análise-De-Números">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Contagem de células                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Consumo médio do automóvel            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Uniformes de final de ano             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Uniformes-De-Final-De-Ano">Clique-me</a>|Javascript|
@@ -298,7 +305,6 @@ Contagem repetida de números
 ## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:yellow_circle:|Alura| ByteBank                |<a href="https://github.com/rdeconti/Projeto-ByteBank">Clique-me</a>               |Html5, Css3, Javascript, Java, MySql|
 |:green_circle: |Alura| Barbearia Alura         |<a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Clique-me</a>        |Html5, Css3, Javascript, Html5, Css3|
 |:green_circle: |Alura| Aparecida Nutricionista |<a href="https://github.com/rdeconti/Projeto-Aparecida-Nutricionista">Clique-me</a>|Html5, Css3, Javascript|
 |:green_circle: |Alura| Alura News              |<a href="https://github.com/rdeconti/Projeto-Alura-News">Clique-me</a>             |Html5, Css3, Javascript|
