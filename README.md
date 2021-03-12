@@ -59,15 +59,15 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |:green_circle:|Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Dividindo X por Y         |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Bazinga!                  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Coxinha de bueno          |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Programa Validação Nota   |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Compras no Supermercado   |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Validador senha requisitos|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Fila do banco             |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Dividindo X por Y         |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Bazinga!                  |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Coxinha de bueno          |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Programa Validação Nota   |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Compras no Supermercado   |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Validador senha requisitos|<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Fila do banco             |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
