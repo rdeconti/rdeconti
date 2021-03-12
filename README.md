@@ -151,7 +151,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:yellow_circle:|Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vista-Na-Feira">Clique-me</a>|Java|
 |:yellow_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java|
 |:yellow_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Folha-De-Pagamento">Clique-me</a>|Java|
-|:yellow_circle:|Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Javas/tree/main/Desafio-Java-Quantidade-De-Numeros-Positivos">Clique-me</a>|Java|
+|:yellow_circle:|Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Quantidade-De-Numeros-Positivos">Clique-me</a>|Java|
 |:yellow_circle:|Desafio|Exibindo números pares                 |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Exibindo-Numeros-Pares">Clique-me</a>|Java|
 |:yellow_circle:|Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Análise-De-Numeros">Clique-me</a>|Jav
 |:yellow_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-De-Celulas">Clique-me</a>|Java|
