@@ -274,30 +274,20 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Avanade Angular Developer (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-
-<!-- 
-AVANADE ANGULAR DEVELOPER
-*** Projetos
-Recriando a Interface do Netflix
-Recriando a página inicial do Instagram
-Desenvolvendo SPA com Angular
-Criando projeto para consultar a previsão do tempo via API
-
-
-
-*** Desafios Javascript
-Dividindo X por Y
-Blobs
-Tipo de combustível
-Votação para bobo da corte
-Comunicação em Piralândia
-Contagem de Células
-Folha de pagamento
-Ordenando Números Pares e Ímpares
-Animal
-Compras no supermercado
-
--->
+|:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
+|:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
+|:yellow_circle:|Projeto|Single Page Angular                   |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Single-Page-Angular">Clique-me</a>|Html5, Css3, Angular|
+|:yellow_circle:|Projeto|Previsão do tempo                     |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo">Clique-me</a>|Html5, Css3, Angular|
+|:yellow_circle:|Desafio|Dividindo X por Y                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Blobs                                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Tipo de combustível                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Tipo-De-Combustível">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Votação para bobo da corte            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Votacao-Para-Bobo-Da-Corte">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Comunicação em Piralância             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Comunicacao-Em-Piralandia">Clique-me</a>|Javascript|
+|:green_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
+|:green_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Animal                                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Animal">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
