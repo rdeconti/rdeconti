@@ -59,15 +59,15 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |:green_circle:|Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Dividindo X por Y         |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Bazinga!                  |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Coxinha de bueno          |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Programa Validação Nota   |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Compras no Supermercado   |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Validador senha requisitos|<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp|
-|:green_circle:|Desafio|Fila do banco             |<a href="https://github.com/rdeconti/Desafio-DIO-.Net/blob/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Dividindo X por Y         |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Bazinga!                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Coxinha de bueno          |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Programa Validação Nota   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Compras no Supermercado   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Validador senha requisitos|<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp|
+|:green_circle:|Desafio|Fila do banco             |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -116,14 +116,14 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:green_circle: |Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |:yellow_circle:|Projeto|Stack de testes           |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Stack-De-Testes">Clique-me</a>|cSharp
 |:yellow_circle:|Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp
-|:green_circle: |Desafio|Visita na feira           |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp|
-|:green_circle: |Desafio|Tuitando                  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp|
-|:green_circle: |Desafio|Validação de nota         |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
-|:green_circle: |Desafio|Teste de seleção 1        |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|cSharp|
-|:green_circle: |Desafio|Triangulo                 |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|cSharp|
-|:green_circle: |Desafio|Notas e moedas            |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|cSharp|
-|:green_circle: |Desafio|Divisão Euclidiana        |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|cSharp|
-|:green_circle: |Desafio|Fórmula de Bhaskara       |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Visita na feira           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Tuitando                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Validação de nota         |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Teste de seleção 1        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Triangulo                 |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Notas e moedas            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Divisão Euclidiana        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Fórmula de Bhaskara       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Backend Developer Carrefour (24/04/2021)
@@ -245,17 +245,17 @@ O tabuleiro secreto
 |:green_circle:|Projeto|Cadastro de séries         |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
 |:yellow_circle:|Projeto|Stack de testes           |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Stack-De-Testes">Clique-me</a>|cSharp|
 |:yellow_circle:|Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Consumo médio do automóvel|<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|DDD                       |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-DDD">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Aumento de salário        |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Média 1                   |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Media-1">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Crescimento-Populacional">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Bazingá!                  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Tempo de um evento        |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Comunicação em Piralânida |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Coordenadas de um ponto   |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Compras no supermercado   |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Pink e Cérebro            |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-.NET/blob/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Consumo médio do automóvel|<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|DDD                       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-DDD">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Aumento de salário        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Média 1                   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Media-1">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Crescimento-Populacional">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Bazingá!                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Tempo de um evento        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Comunicação em Piralânida |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Coordenadas de um ponto   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Compras no supermercado   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
+|:yellow_circle:|Desafio|Pink e Cérebro            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Inter Java Dev (9/05/2021)
