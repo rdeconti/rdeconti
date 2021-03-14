@@ -103,7 +103,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:green_circle: |Desafio|Tipo de combustível      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Encaixa ou não?          |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Clique-me</a>|Ruby|
 |:green_circle: |Desafio|Tipo de combustível      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Clique-me</a>|Ruby|
-|:yellow_circle:|Desafio|Crescimento populacional |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|Ruby|
+|:green_circle:|Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|Ruby|
 |:green_circle: |Desafio|Fibbonaci fácil          |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Clique-me</a>|Ruby|
 |:yellow_circle:|Desafio|Sequencia lógico         |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Sequencia-Logica">Clique-me</a>|Ruby|
 |:yellow_circle:|Desafio|Substituição em vetor I  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Substituicao-Em-Vetor-I">Clique-me</a>|Ruby|
