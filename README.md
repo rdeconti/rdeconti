@@ -47,7 +47,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:green_circle: |Projeto|Potions             |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Digital Innovation One Aulas práticas (31/12/2021)
+## :label: Digital Innovation One Aulas Práticas (31/12/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:purple_circle:|Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby|
