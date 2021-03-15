@@ -238,9 +238,9 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:yellow_circle:|Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|.NET,cSharp,TDD
 |:yellow_circle:|Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp|
 |:yellow_circle:|Desafio|Consumo médio do automóvel|<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|DDD                       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-DDD">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Aumento de salário        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Média 1                   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Media-1">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|DDD                       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-DDD">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Aumento de salário        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Média 1                   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Media-1">Clique-me</a>|cSharp|
 |:yellow_circle:|Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Crescimento-Populacional">Clique-me</a>|cSharp|
 |:yellow_circle:|Desafio|Bazingá!                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
 |:yellow_circle:|Desafio|Tempo de um evento        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Clique-me</a>|cSharp|
