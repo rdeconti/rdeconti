@@ -19,7 +19,6 @@
 
 ## :blush: Seja bem vindo! Visite minha página pessoal: <a href="https://rdeconti.github.io/">Link (ainda em construção!)</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## :bar_chart: Estatísticas e linguages
 <p>
   <a href="https://github.com/rdeconti">
@@ -51,9 +50,14 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Digital Innovation One Aulas práticas (31/12/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:yellow_circle:|Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby|
-|:yellow_circle:|Projeto|Minha página        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
-|:purple_circle:|Projeto|Website e-commerce  |<a href="https://github.com/rdeconti/Projeto-DIO-Website-Ecommerce">Clique-me</a>|Html5, Css3|
+|:purple_circle:|Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby|
+|:purple_circle:|Projeto|Minha página        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Digital Innovation One Live Coding (31/12/2021)
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
+|:purple_circle:|Projeto|E-commerce          |<a href="https://github.com/rdeconti/rdeconti-Projeto-DIO-Ruby-Website-E-Commerce">Clique-me</a>|Ruby on Rails|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021)
