@@ -97,7 +97,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:yellow_circle:|Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-React-Esferas-Dragon-Ball-Z">Clique-me</a>|ReactJS,Jest,React,Testing Library, Cypress|
-|:yellow_circle:|Projeto|Cloud Tags               |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Cloud-Tags">Clique-me</a>|Ruby|
+|:yellow_circle:|Projeto|Mind App                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App">Clique-me</a>|Ruby|
 |:yellow_circle:|Projeto|Sistema de classificados |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|Ruby|
 |:green_circle: |Desafio|Par ou impar             |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Clique-me</a>|Ruby|
 |:green_circle: |Desafio|DDD                      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Clique-me</a>|Ruby|
