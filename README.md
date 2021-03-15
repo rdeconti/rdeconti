@@ -96,7 +96,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Impulso FullStack Developer (18/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:yellow_circle:|Projeto|Gerenciador de esferas   |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas">Clique-me</a>|Ruby|
+|:yellow_circle:|Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Gerenciador-De-Esferas">Clique-me</a>|ReactJS,Jest,React,Testing Library, Cypress|
 |:yellow_circle:|Projeto|Cloud Tags               |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Cloud-Tags">Clique-me</a>|Ruby|
 |:yellow_circle:|Projeto|Sistema de classificados |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|Ruby|
 |:green_circle: |Desafio|Par ou impar             |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Clique-me</a>|Ruby|
