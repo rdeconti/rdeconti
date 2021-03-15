@@ -51,7 +51,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Digital Innovation One Aulas práticas (31/12/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:yellow_circle:|Projeto|Conta bancária      |<a href="https://github.com/rdeconti/Projeto-DIO-Conta-bancária">Clique-me</a>|Ruby|
+|:yellow_circle:|Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby|
 |:yellow_circle:|Projeto|Minha página        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
 |:purple_circle:|Projeto|Website e-commerce  |<a href="https://github.com/rdeconti/Projeto-DIO-Website-Ecommerce">Clique-me</a>|Html5, Css3|
 
