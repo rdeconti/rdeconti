@@ -52,7 +52,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:red_circle:   |Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
-|:red_circle:   |Projeto|Rede social         |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social"</a>|Ruby on Rails|
+|:red_circle:   |Projeto|Rede social         |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto|Minha página        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
