@@ -287,6 +287,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:yellow_circle:|Desafio|Dividindo X por Y                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Blobs                                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Tipo de combustível                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Tipo-De-Combustível">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Quanta mandioca ?                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quanta-Mandioca">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Votação para bobo da corte            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Votacao-Para-Bobo-Da-Corte">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Comunicação em Piralância             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Comunicacao-Em-Piralandia">Clique-me</a>|Javascript|
 |:green_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
