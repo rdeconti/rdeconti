@@ -286,10 +286,10 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:yellow_circle:|Projeto|Previsão do tempo                     |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo">Clique-me</a>|Html5, Css3, Angular|
 |:green_circle: |Desafio|Dividindo X por Y                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Blobs                                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Tipo de combustível                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Tipo-De-Combustível">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Tipo de combustível                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Quanta mandioca ?                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quanta-Mandioca">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Votação para bobo da corte            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Votacao-Para-Bobo-Da-Corte">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Comunicação em Piralância             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Comunicacao-Em-Piralandia">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Comunicação em Piralândia             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Comunicacao-Em-Piralandia">Clique-me</a>|Javascript|
 |:green_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
 |:green_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Javascript|
