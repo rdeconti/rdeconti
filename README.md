@@ -107,7 +107,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:green_circle: |Desafio|Dividindo-X-Por-Y        |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Blobs                    |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Tipo de combustível      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Encaixa ou não?          |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Clique-me</a>|Ruby|
+|:green_circle: |Desafio|Encaixa ou não?          |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Clique-me</a>|Ruby|
 |:green_circle: |Desafio|Tipo de combustível      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Clique-me</a>|Ruby|
 |:green_circle:|Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|Ruby|
 |:green_circle: |Desafio|Fibbonaci fácil          |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Clique-me</a>|Ruby|
