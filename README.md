@@ -33,6 +33,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 - :white_circle: Em aberto
 - :yellow_circle: Em andamento
 - :purple_circle: Em estudo
+- :red_circle: Em busca de solução
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -50,7 +51,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Digital Innovation One Aulas Práticas (31/12/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:purple_circle:|Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby, Postgrees|
+|:red_circle:   |Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby, Postgrees|
 |:purple_circle:|Projeto|Minha página        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
