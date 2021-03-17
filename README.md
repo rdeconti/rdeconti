@@ -292,7 +292,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:green_circle: |Desafio|Comunicação em Piralândia             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Comunicacao-Em-Piralandia">Clique-me</a>|Javascript|
 |:green_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
 |:green_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Impares-Pares">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Animal                                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Animal">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript|
 
