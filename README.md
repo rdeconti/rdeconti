@@ -3,7 +3,6 @@
 :spiral_calendar: Atualizado em 11 de Março de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
@@ -12,7 +11,6 @@
 - Aberta a novas oportunidades de trabalho!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## :link: Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
@@ -99,7 +97,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ## :label: Impulso FullStack Developer (18/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:yellow_circle:|Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-React-Esferas-Dragon-Ball-Z">Clique-me</a>|ReactJS,Jest,React,Testing Library, Cypress|
+|:yellow_circle:|Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-React-Esferas-Dragon-Ball-Z">Clique-me</a>|ReactJS|
 |:yellow_circle:|Projeto|Mind App                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App">Clique-me</a>|Ruby|
 |:yellow_circle:|Projeto|Sistema de classificados |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|Ruby|
 |:green_circle: |Desafio|Par ou impar             |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Clique-me</a>|Ruby|
@@ -139,13 +137,11 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Fullstack Developer Banco Carrefour (24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -188,7 +184,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:yellow_circle:|Desafio|O tabuleiro secreto                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-O-Tabuleiro-Secreto">Clique-me</a>|Java|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## :label: JavaScript Game Developer (24/04/2021)
 |Tipo|Nome|Situação|Detalhes|Ferramentas|
 |----|----|--------|--------|-----------|
@@ -276,7 +271,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Avanade Angular Developer (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
@@ -298,7 +292,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:green_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
@@ -309,7 +302,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:green_circle: |Alura| Conferência Alura       |<a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>       |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## :label:  Projetos do curso Udacity (Android Developer Nanodegree)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
