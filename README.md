@@ -47,6 +47,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Aulas Práticas (31/12/2021)
+Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:red_circle:   |Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
