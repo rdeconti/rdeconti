@@ -245,10 +245,10 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:green_circle: |Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Crescimento-Populacional">Clique-me</a>|cSharp|
 |:green_circle: |Desafio|Bazingá!                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp|
 |:green_circle: |Desafio|Tempo de um evento        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Comunicação em Piralânida |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Coordenadas de um ponto   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Compras no supermercado   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
-|:yellow_circle:|Desafio|Pink e Cérebro            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Comunicação em Piralânida |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Coordenadas de um ponto   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Compras no supermercado   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp|
+|:green_circle: |Desafio|Pink e Cérebro            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Inter Java Dev (9/05/2021)
