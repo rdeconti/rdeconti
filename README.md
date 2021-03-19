@@ -209,12 +209,12 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Uniformes de final de ano             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Uniformes-De-Final-De-Ano">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Fila do Banco                         |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Fila-Do-Banco">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Ginacana no apartamento               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Gincana-No-Apartamento">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Contagem repetida de números          |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-Repetida-De-Números">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Vogais extraterrestres                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vogai-Extraterrestres">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Contagem repetida de números          |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-Repetida-De-Numeros">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Vogais extraterrestres                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vogais-Extraterrestres">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Melhor amigo do Pablo                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Melhor-Amigo-Do-Pablo">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Entrevista embaraçosa                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Entrevista-Embaraçosa">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Entrevista embaraçosa                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Entrevista-Embaracosa">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Conjuntos bons ou ruins?              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Produto e divisão                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Produto-E-Divisão">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Produto e divisão                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Produto-E-Divisao">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Barras de ouro                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Barras-De-Ouro">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Coração das cartas                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Coracao-Das-Cartas">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Abreviando posts do blog              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Abreviando-Posts-Do-Blog">Clique-me</a>|Javascript|
@@ -223,7 +223,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:yellow_circle:|Desafio|O tabuleiro secreto                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-O-Tabuleiro-Secreto">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Ordenação de palavras por tamanho     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenacao-De-Palavras-Por-Tamanho">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Encontre a maior substring            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Encontre-A-Maior-Substring">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Validador de senhas com requisitos    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Javascript|
+|:yellow_circle:|Desafio|Validador de senhas com requisitos    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Validador-De-Senhas-Com-Requisitos">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Pedra,Papel,Tesoura,Lagarto,Spock     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Bazinga">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Atalho para Webblogger Brasil         |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Atalho-Para-Webblogger -Brasil">Clique-me</a>|Javascript|
 
