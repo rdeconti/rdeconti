@@ -204,11 +204,11 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Análise de números                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Análise-De-Números">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Contagem de células                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Consumo médio do automóvel            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Impares-Pares">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Uniformes de final de ano             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Uniformes-De-Final-De-Ano">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Fila do Banco                         |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Fila-Do-banco">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Ginacana no apartamento               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Gincana-No-Apartamento">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Impares-Pares">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Uniformes de final de ano             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Uniformes-De-Final-De-Ano">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Fila do Banco                         |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Fila-Do-Banco">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Ginacana no apartamento               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Gincana-No-Apartamento">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Contagem repetida de números          |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-Repetida-De-Números">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Vogais extraterrestres                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vogai-Extraterrestres">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Melhor amigo do Pablo                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Melhor-Amigo-Do-Pablo">Clique-me</a>|Javascript|
