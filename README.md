@@ -221,7 +221,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:yellow_circle:|Desafio|Combinação de strings                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Combinacao-De-Strings">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Hash mágico                           |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Hasg-Magico">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|O tabuleiro secreto                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-O-Tabuleiro-Secreto">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Ordenação de palavras por tamanho     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenacao-De-Palavras-Por-Tamanho">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Ordenação de palavras por tamanho     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenacao-De-Palavras-Por-Tamanho">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Encontre a maior substring            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Encontre-A-Maior-Substring">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Validador de senhas com requisitos    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Validador-De-Senhas-Com-Requisitos">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Pedra,Papel,Tesoura,Lagarto,Spock     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Bazinga">Clique-me</a>|Javascript|
