@@ -51,7 +51,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:purple_circle:|Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
-|:purple_circle:|Projeto|Rede social         |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social">Clique-me</a>|Ruby on Rails|
+|:purple_circle:|Projeto|Rede social 1       |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
+|:purple_circle:|Projeto|Rede social 2       |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto|Banco PostgreSQL    |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
 |:purple_circle:|Projeto|Minha página        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
 
