@@ -50,8 +50,8 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:red_circle:   |Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
-|:red_circle:   |Projeto|Rede social         |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social">Clique-me</a>|Ruby on Rails|
+|:purple_circle:|Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
+|:purple_circle:|Projeto|Rede social         |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto|Banco PostgreSQL    |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
 |:purple_circle:|Projeto|Minha página        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
 
