@@ -210,10 +210,10 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Uniformes de final de ano             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Uniformes-De-Final-De-Ano">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Fila do Banco                         |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Fila-Do-Banco">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Ginacana no apartamento               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Gincana-No-Apartamento">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Contagem repetida de números          |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-Repetida-De-Numeros">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Vogais extraterrestres                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vogais-Extraterrestres">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Melhor amigo do Pablo                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Melhor-Amigo-Do-Pablo">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Entrevista embaraçosa                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Entrevista-Embaracosa">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Contagem repetida de números          |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-Repetida-De-Numeros">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Vogais extraterrestres                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vogais-Extraterrestres">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Melhor amigo do Pablo                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Melhor-Amigo-Do-Pablo">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Entrevista embaraçosa                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Entrevista-Embaracosa">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Conjuntos bons ou ruins?              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Produto e divisão                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Produto-E-Divisao">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Barras de ouro                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Barras-De-Ouro">Clique-me</a>|Javascript|
