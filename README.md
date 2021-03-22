@@ -59,6 +59,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 ## :label: Digital Innovation One Live Coding (31/12/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:red_circle:   |Projeto|Agenda de contatos  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Agenda-De-Contatos">Clique-me</a>|cSharp, Boostrap, Jquery|
 |:red_circle:   |Projeto|Electropalce        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Ruby on Rails|
 |:red_circle:   |Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
 
