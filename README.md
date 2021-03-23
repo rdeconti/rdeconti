@@ -65,8 +65,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 |:green_circle:|Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |:green_circle:|Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
 |:green_circle:|Desafio|Dividindo X por Y         |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp|
@@ -82,8 +82,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Projeto|Recriando o jogo da cobrinha           |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Cobrinha">Clique-me</a>|Html5, Css3, Javascript, Canvas|
@@ -98,8 +98,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Impulso FullStack Developer (18/04/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 |:yellow_circle:|Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-React-Esferas-Dragon-Ball-Z">Clique-me</a>|ReactJS|
 |:green_circle: |Projeto|Mind App                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App">Clique-me</a>|Ruby|
 |:green_circle: |Projeto|Sistema de classificados |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|Ruby|
@@ -120,8 +120,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: MRV .NET Developer (21/04/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 |:green_circle: |Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp
 |:green_circle: |Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |:yellow_circle:|Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|cSharp,TDD
@@ -137,20 +137,20 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Backend Developer Carrefour (24/04/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Fullstack Developer Banco Carrefour (24/04/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Java Developer (24/04/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 |:yellow_circle:|Projeto|Gerenciador de pessoas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot|
 |:yellow_circle:|Projeto|Consulta cidades do Brasil             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
 |:yellow_circle:|Projeto|Gerenciador de salas de reuniões       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular|
@@ -188,8 +188,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: JavaScript Game Developer (24/04/2021)
-|Tipo|Nome|Situação|Detalhes|Ferramentas|
-|----|----|--------|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:yellow_circle:|Projeto|Jogo de naves                         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Naves">Clique-me</a>|Html5, Css3, Javascript|
@@ -215,9 +215,9 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Vogais extraterrestres                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vogais-Extraterrestres">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Melhor amigo do Pablo                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Melhor-Amigo-Do-Pablo">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Entrevista embaraçosa                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Entrevista-Embaracosa">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Conjuntos bons ou ruins?              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Produto e divisão                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Produto-E-Divisao">Clique-me</a>|Javascript|
-|:yellow_circle:|Desafio|Barras de ouro                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Barras-De-Ouro">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Conjuntos bons ou ruins?              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Produto e divisão                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Produto-E-Divisao">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Barras de ouro                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Barras-De-Ouro">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Coração das cartas                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Coracao-Das-Cartas">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Abreviando posts do blog              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Abreviando-Posts-Do-Blog">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Combinação de strings                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Combinacao-De-Strings">Clique-me</a>|Javascript|
@@ -231,8 +231,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: LocalizaLabs .NET Developer (9/05/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 |:green_circle: |Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |:green_circle: |Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
 |:yellow_circle:|Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|.NET,cSharp,TDD
@@ -251,8 +251,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Inter Java Dev (9/05/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 |:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest|
 |:yellow_circle:|Projeto|Gerenciamento Heróis Marvel/DC         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Herois-Marvel-DC">Clique-me</a>|Java, API Reativa, Spring Boot||
 |:yellow_circle:|Projeto|E-commerce                             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-E-Commerce">Clique-me</a> |Java, micro-serviços|
@@ -271,13 +271,13 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Everis Kotlin Developer (9/05/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Avanade Angular Developer (9/05/2021)
-|Sit|Tipo|Nome|Detalhes|Ferramentas|
-|---|----|----|--------|-----------|
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
 |:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:yellow_circle:|Projeto|Single Page Angular                   |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Single-Page-Angular">Clique-me</a>|Html5, Css3, Angular|
