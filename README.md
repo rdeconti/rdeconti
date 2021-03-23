@@ -70,11 +70,11 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle:|Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp| none |
 |:green_circle:|Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp| none |
 |:green_circle:|Desafio|Dividindo X por Y         |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp| none |
-|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp| none |
-|:green_circle:|Desafio|Bazinga!                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp| none |
+|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp| 2936 |
+|:green_circle:|Desafio|Bazinga!                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp| 1828 |
 |:green_circle:|Desafio|Coxinha de bueno          |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp| none |
-|:green_circle:|Desafio|Programa Validação Nota   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp| none |
-|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp| none |
+|:green_circle:|Desafio|Programa Validação Nota   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp| 1117 |
+|:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp| 2936 |
 |:green_circle:|Desafio|Compras no Supermercado   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp| none |
 |:green_circle:|Desafio|Validador senha requisitos|<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validador-Senha-Requisitos">Clique-me</a>|cSharp| none |
 |:green_circle:|Desafio|Fila do banco             |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Fila-Do-Banco">Clique-me</a>|cSharp| none |
@@ -104,19 +104,19 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Projeto|Mind App                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App">Clique-me</a>|Ruby| none |
 |:green_circle: |Projeto|Sistema de classificados |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|Ruby| none |
 |:green_circle: |Desafio|Par ou impar             |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Clique-me</a>|Ruby| none |
-|:green_circle: |Desafio|DDD                      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Clique-me</a>|Ruby| none |
-|:green_circle: |Desafio|Idade em dias            |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Idade-Em-Dias">Clique-me</a>|Ruby| none |
-|:green_circle: |Desafio|Dividindo-X-Por-Y        |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript| none |
+|:green_circle: |Desafio|DDD                      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Clique-me</a>|Ruby| 1050 |
+|:green_circle: |Desafio|Idade em dias            |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Idade-Em-Dias">Clique-me</a>|Ruby| 1020 |
+|:green_circle: |Desafio|Dividindo-X-Por-Y        |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript| 1116 |
 |:green_circle: |Desafio|Blobs                    |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript| none |
-|:green_circle: |Desafio|Tipo de combustível      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript| none |
+|:green_circle: |Desafio|Tipo de combustível      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript| 1134 |
 |:green_circle: |Desafio|Encaixa ou não?          |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Encaixa-Ou-Nao">Clique-me</a>|Ruby| none |
-|:green_circle: |Desafio|Tipo de combustível      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Clique-me</a>|Ruby| none |
-|:green_circle:|Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|Ruby| none |
-|:green_circle:|Desafio|Fibbonaci fácil          |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Clique-me</a>|Ruby| none |
-|:green_circle:|Desafio|Sequencia lógico         |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Sequencia-Logica">Clique-me</a>|Ruby| none |
-|:green_circle:|Desafio|Substituição em vetor I   |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Substituicao-Em-Vetor-I">Clique-me</a>|Ruby| none |
-|:green_circle:|Desafio|Fibbonaci em vetor       |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Em-Vetor">Clique-me</a>|Ruby| none |
-|:green_circle:|Desafio|Acima diagonal principal |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Clique-me</a>|Ruby| none |
+|:green_circle: |Desafio|Tipo de combustível      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Tipo-De-Combustivel">Clique-me</a>|Ruby| 1134 |
+|:green_circle:|Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Crescimento-Populacional">Clique-me</a>|Ruby| 1160 |
+|:green_circle:|Desafio|Fibbonaci fácil          |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Facil">Clique-me</a>|Ruby| 1151 |
+|:green_circle:|Desafio|Sequencia lógico         |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Sequencia-Logica">Clique-me</a>|Ruby| 1144 |
+|:green_circle:|Desafio|Substituição em vetor I   |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Substituicao-Em-Vetor-I">Clique-me</a>|Ruby| 1172 |
+|:green_circle:|Desafio|Fibbonaci em vetor       |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Fibbonaci-Em-Vetor">Clique-me</a>|Ruby| 1176 |
+|:green_circle:|Desafio|Acima diagonal principal |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Acima-Da-Diagonal-Principal">Clique-me</a>|Ruby| 1183 |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: MRV .NET Developer (21/04/2021)
@@ -127,13 +127,13 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:yellow_circle:|Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|cSharp,TDD| none |
 |:yellow_circle:|Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|Visita na feira           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Tuitando                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Validação de nota         |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Teste de seleção 1        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Triangulo                 |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Notas e moedas            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|cSharp| none |
+|:green_circle: |Desafio|Tuitando                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp| 2165 |
+|:green_circle: |Desafio|Validação de nota         |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp| 1117 |
+|:green_circle: |Desafio|Teste de seleção 1        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Teste-De-Selecao-1">Clique-me</a>|cSharp| 1035 |
+|:green_circle: |Desafio|Triangulo                 |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Triangulo">Clique-me</a>|cSharp| 1043 ou 1929 |
+|:green_circle: |Desafio|Notas e moedas            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Notas-E-Moedas">Clique-me</a>|cSharp| 1021 |
 |:green_circle: |Desafio|Divisão Euclidiana        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Divisao-Euclidiana">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Fórmula de Bhaskara       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp| none |
+|:green_circle: |Desafio|Fórmula de Bhaskara       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp| 1036 |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Backend Developer Carrefour (24/04/2021)
@@ -238,14 +238,14 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:yellow_circle:|Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|.NET,cSharp,TDD| none |
 |:yellow_circle:|Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|Consumo médio do automóvel|<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|DDD                       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-DDD">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Aumento de salário        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Média 1                   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Media-1">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Crescimento-Populacional">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Bazingá!                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Tempo de um evento        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Clique-me</a>|cSharp| none |
+|:green_circle: |Desafio|DDD                       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-DDD">Clique-me</a>|cSharp| 1050 |
+|:green_circle: |Desafio|Aumento de salário        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|cSharp| 1048 |
+|:green_circle: |Desafio|Média 1                   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Media-1">Clique-me</a>|cSharp| 1005 |
+|:green_circle: |Desafio|Crescimento populacional  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Crescimento-Populacional">Clique-me</a>|cSharp| 1160 |
+|:green_circle: |Desafio|Bazingá!                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp| 1828 |
+|:green_circle: |Desafio|Tempo de um evento        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tempo-De-Um-Evento">Clique-me</a>|cSharp| 1061 |
 |:green_circle: |Desafio|Comunicação em Piralânida |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Comunicacao-Em-Piralandia">Clique-me</a>|cSharp| none |
-|:green_circle: |Desafio|Coordenadas de um ponto   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Clique-me</a>|cSharp| none |
+|:green_circle: |Desafio|Coordenadas de um ponto   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Coordenadas-De-Um-Ponto">Clique-me</a>|cSharp| 1041 |
 |:green_circle: |Desafio|Compras no supermercado   |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Compras-No-Supermercado">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|Pink e Cérebro            |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Pink-E-Cerebro">Clique-me</a>|cSharp| none |
 
@@ -259,13 +259,13 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:yellow_circle:|Projeto|Kubernets                              |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Kubernets">Clique-me</a> |Java, Kubernetes| none |
 |:yellow_circle:|Projeto|Gerenciamento de orçamento             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Orcamento">Clique-me</a> |Java,CQRS, Quarkus, Kafka, EKS| none |
 |:yellow_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Menor e posição                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Menor-E-Posicao">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Números ímpares                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Numeros-Impares">Clique-me</a>|Java| none |
+|:yellow_circle:|Desafio|Menor e posição                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Menor-E-Posicao">Clique-me</a>|Java| 1180 |
+|:yellow_circle:|Desafio|Números ímpares                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Numeros-Impares">Clique-me</a>|Java| 1067 |
 |:yellow_circle:|Desafio|Abreviando posts do blog               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Abreviando-Posts-Do-Blog">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Validador de senhas com requisitos     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Divisores                              |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Divisores">Clique-me</a>|Java| none |
+|:yellow_circle:|Desafio|Divisores                              |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Divisores">Clique-me</a>|Java| 1157 |
 |:yellow_circle:|Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Análise-De-Numeros">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Contagem repetida de números           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-Repetida-De-Números">Clique-me</a>|Java| none |
 
@@ -282,16 +282,16 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
 |:yellow_circle:|Projeto|Single Page Angular                   |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Single-Page-Angular">Clique-me</a>|Html5, Css3, Angular| none |
 |:yellow_circle:|Projeto|Previsão do tempo                     |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo">Clique-me</a>|Html5, Css3, Angular| none |
-|:green_circle: |Desafio|Dividindo X por Y                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript| none |
+|:green_circle: |Desafio|Dividindo X por Y                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript| 1116 |
 |:green_circle: |Desafio|Blobs                                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript| none |
-|:green_circle: |Desafio|Tipo de combustível                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript| none |
-|:green_circle: |Desafio|Quanta mandioca ?                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quanta-Mandioca">Clique-me</a>|Javascript| none |
-|:green_circle: |Desafio|Votação para bobo da corte            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Votacao-Para-Bobo-Da-Corte">Clique-me</a>|Javascript| none |
+|:green_circle: |Desafio|Tipo de combustível                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript| 1134 |
+|:green_circle: |Desafio|Quanta mandioca ?                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quanta-Mandioca">Clique-me</a>|Javascript| 2936 |
+|:green_circle: |Desafio|Votação para bobo da corte            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Votacao-Para-Bobo-Da-Corte">Clique-me</a>|Javascript| 2963 |
 |:green_circle: |Desafio|Comunicação em Piralândia             |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Comunicacao-Em-Piralandia">Clique-me</a>|Javascript| none |
 |:green_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript| none |
 |:green_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript| none |
 |:green_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Impares-Pares">Clique-me</a>|Javascript| none |
-|:green_circle:|Desafio|Animal                                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Animal">Clique-me</a>|Javascript| none |
+|:green_circle:|Desafio|Animal                                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Animal">Clique-me</a>|Javascript| 1049 |
 |:green_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
