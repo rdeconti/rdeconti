@@ -217,7 +217,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Entrevista embaraçosa                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Entrevista-Embaracosa">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Conjuntos bons ou ruins?              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Javascript|
 |:green_circle: |Desafio|Produto e divisão                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Produto-E-Divisao">Clique-me</a>|Javascript|
-|:green_circle: |Desafio|Barras de ouro                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Barras-De-Ouro">Clique-me</a>|Javascript|
+|:green_circle: |Desafio|Barras de ouro                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Barra-De-Ouro">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Coração das cartas                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Coracao-Das-Cartas">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Abreviando posts do blog              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Abreviando-Posts-Do-Blog">Clique-me</a>|Javascript|
 |:yellow_circle:|Desafio|Combinação de strings                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Combinacao-De-Strings">Clique-me</a>|Javascript|
