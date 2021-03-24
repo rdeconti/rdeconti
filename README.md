@@ -218,8 +218,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Conjuntos bons ou ruins?              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Produto e divisão                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Produto-E-Divisao">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Barras de ouro                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Barra-De-Ouro">Clique-me</a>|Javascript| none |
-|:yellow_circle:|Desafio|Coração das cartas                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Coracao-Das-Cartas">Clique-me</a>|Javascript| none |
-|:yellow_circle:|Desafio|Abreviando posts do blog              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Abreviando-Posts-Do-Blog">Clique-me</a>|Javascript| none |
+|:green_circle: |Desafio|Coração das cartas                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Coracao-Das-Cartas">Clique-me</a>|Javascript| none |
+|:green_circle: |Desafio|Abreviando posts do blog              |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Abreviando-Posts-Do-Blog">Clique-me</a>|Javascript| none |
 |:yellow_circle:|Desafio|Combinação de strings                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Combinacao-De-Strings">Clique-me</a>|Javascript| none |
 |:yellow_circle:|Desafio|Hash mágico                           |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Hasg-Magico">Clique-me</a>|Javascript| none |
 |:yellow_circle:|Desafio|O tabuleiro secreto                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-O-Tabuleiro-Secreto">Clique-me</a>|Javascript| none |
