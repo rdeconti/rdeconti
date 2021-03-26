@@ -50,6 +50,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:red_circle:   |Projeto|ReactJs             |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios">Clique-me</a>|ReactJs|
 |:red_circle:   |Projeto|Rede social 1       |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
 |:red_circle:   |Projeto|Rede social 2       |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto|Banco PostgreSQL    |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
