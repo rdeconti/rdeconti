@@ -103,7 +103,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 ## :label: Impulso FullStack Developer (18/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
-|:yellow_circle:|Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-React-Esferas-Dragon-Ball-Z">Clique-me</a>|ReactJS| none |
+|:green_circle: |Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-React-Esferas-Dragon-Ball-Z">Clique-me</a>|ReactJS, Cypress| none |
 |:green_circle: |Projeto|Mind App                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App">Clique-me</a>|Ruby| none |
 |:green_circle: |Projeto|Sistema de classificados |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|Ruby| none |
 |:green_circle: |Desafio|Par ou impar             |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Clique-me</a>|Ruby| none |
