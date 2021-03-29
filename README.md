@@ -159,12 +159,12 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:yellow_circle:|Projeto|Consulta cidades do Brasil             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
 |:yellow_circle:|Projeto|Gerenciador de salas de reuniões       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular| none |
 |:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest| none |
-|:yellow_circle:|Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vista-Na-Feira">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Folha-De-Pagamento">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Quantidade-De-Numeros-Positivos">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Exibindo números pares                 |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Exibindo-Numeros-Pares">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Análise-De-Numeros">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vista-Na-Feira">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Folha-De-Pagamento">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Quantidade-De-Numeros-Positivos">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Exibindo números pares                 |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Exibindo-Numeros-Pares">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Análise-De-Numeros">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-De-Celulas">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Consumo médio do automóvel             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Consumo-Medio-Do-Automovel">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Ordenando números pares e ímpares      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Java| none |
@@ -207,7 +207,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Folha de pagamento                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Quantidade de números positivos       |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Quantidade-De-Números-Positivos">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Exibindo números pares                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Exibindo-Números-Pares">Clique-me</a>|Javascript| none |
-|:green_circle: |Desafio|Análise de números                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Análise-De-Números">Clique-me</a>|Javascript| none |
+|:green_circle: |Desafio|Análise de números                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-Javascript-An%C3%A1lise-De-N%C3%BAmeros">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Contagem de células                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Contagem-De-Células">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Consumo médio do automóvel            |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Consumo-Médio-Do-Automóvel">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Impares-Pares">Clique-me</a>|Javascript| none |
