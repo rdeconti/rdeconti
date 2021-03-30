@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 23 de Março de 2021 :heart:
+:spiral_calendar: Atualizado em 30 de Março de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -168,13 +168,13 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Quantidade de números positivos        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Quantidade-De-Numeros-Positivos">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Exibindo números pares                 |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Exibindo-Numeros-Pares">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Análise de números                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Análise-De-Numeros">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-De-Celulas">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Contagem de células                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-De-Celulas">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Consumo médio do automóvel             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Consumo-Medio-Do-Automovel">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Ordenando números pares e ímpares      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Compras no supermercado                |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Compras-No-Supermercado">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Uniformes de final de ano              |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Uniformes-De-Final-De-Ano">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Fila do Banco                          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Fila-Do-banco">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Ginacana no apartamento                |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Gincana-No-Apartamento">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Ordenando números pares e ímpares      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Ordenando-Numeros-Pares-E-Impares">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Compras no supermercado                |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Compras-No-Supermercado">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Uniformes de final de ano              |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Uniformes-De-Final-De-Ano">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Fila do Banco                          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Fila-Do-banco">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Ginacana no apartamento                |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Gincana-No-Apartamento">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Ordenação de palavras por tamanho      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Ordenacao-De-Palavras-Por-Tamanho">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Validador de senhas com requisitos     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Java| none |
