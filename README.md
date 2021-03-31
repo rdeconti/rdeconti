@@ -267,9 +267,9 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:yellow_circle:|Projeto|E-commerce                             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-E-Commerce">Clique-me</a> |Java, micro-serviços| none |
 |:yellow_circle:|Projeto|Kubernets                              |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Kubernets">Clique-me</a> |Java, Kubernetes| none |
 |:yellow_circle:|Projeto|Gerenciamento de orçamento             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Orcamento">Clique-me</a> |Java,CQRS, Quarkus, Kafka, EKS| none |
-|:yellow_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Menor e posição                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Menor-E-Posicao">Clique-me</a>|Java| 1180 |
-|:yellow_circle:|Desafio|Números ímpares                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Numeros-Impares">Clique-me</a>|Java| 1067 |
+|:green_circle: |Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Menor e posição                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Menor-Posicao">Clique-me</a>|Java| 1180 |
+|:green_circle: |Desafio|Números ímpares                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Numeros-Impares">Clique-me</a>|Java| 1067 |
 |:yellow_circle:|Desafio|Abreviando posts do blog               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Abreviando-Posts-Do-Blog">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java| none |
