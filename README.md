@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 30 de Março de 2021 :heart:
+:spiral_calendar: Atualizado em 01 de Abril de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -50,13 +50,15 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:purple_circle:|Projeto   |Promisses            |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Promises">Clique-me</a>|Javascript|
+|:purple_circle:|Projeto   |Map, Filter, Reduce  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Map-Filter-Reduce">Clique-me</a>|Javascript|
 |:purple_circle:|Projeto   |Cadastro de cursos   |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-De-Cursos">Clique-me</a>|Docker|
-|:purple_circle:|Exercicios|Primeiro container   |<a href="https://github.com/rdeconti/Projeto-DIO-Docker-Meu-Primerio-Container">Clique-me</a>|Docker|
+|:purple_circle:|Projeto   |Primeiro container   |<a href="https://github.com/rdeconti/Projeto-DIO-Docker-Meu-Primerio-Container">Clique-me</a>|Docker|
 |:purple_circle:|Projeto   |Primeiro Projeto .NET|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Primeiro-Projeto">Clique-me</a>|cSharp|
-|:purple_circle:|Exercicios|Design patterns em C#|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Design-Patterns">Clique-me</a>|cSharp|
-|:purple_circle:|Exercicios|ReactJs Avançado     |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Avancado">Clique-me</a>|ReactJs|
-|:purple_circle:|Exercicios|ReactJs Intermediário|<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Intermediario">Clique-me</a>|ReactJs|
-|:purple_circle:|Exercicios|ReactJs Básico       |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Basico">Clique-me</a>|ReactJs|
+|:purple_circle:|Projeto   |Design patterns em C#|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Design-Patterns">Clique-me</a>|cSharp|
+|:purple_circle:|Projeto   |ReactJs Avançado     |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Avancado">Clique-me</a>|ReactJs|
+|:purple_circle:|Projeto   |ReactJs Intermediário|<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Intermediario">Clique-me</a>|ReactJs|
+|:purple_circle:|Projeto   |ReactJs Básico       |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Basico">Clique-me</a>|ReactJs|
 |:purple_circle:|Projeto   |Rede social 1        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto   |Rede social 2        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto   |Banco PostgreSQL     |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
