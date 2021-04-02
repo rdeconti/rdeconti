@@ -135,8 +135,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |---|----|----|--------|-----------|-----------|
 |:green_circle: |Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp| none |
 |:green_circle: |Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp| none |
-|:yellow_circle:|Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|cSharp,TDD| none |
-|:yellow_circle:|Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp| none |
+|:green_circle: |Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|cSharp,Tests| none |
+|:green_circle: |Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|Visita na feira           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|Tuitando                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp| 2165 |
 |:green_circle: |Desafio|Validação de nota         |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp| 1117 |
@@ -246,8 +246,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |---|----|----|--------|-----------|-----------|
 |:green_circle: |Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp| none |
 |:green_circle: |Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp| none |
-|:yellow_circle:|Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|.NET,cSharp,TDD| none |
-|:yellow_circle:|Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp| none |
+|:green_circle: |Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|.NET,cSharp,Tests| none |
+|:green_circle: |Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|Consumo médio do automóvel|<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|DDD                       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-DDD">Clique-me</a>|cSharp| 1050 |
 |:green_circle: |Desafio|Aumento de salário        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|cSharp| 1048 |
