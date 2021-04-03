@@ -180,8 +180,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Uniformes de final de ano              |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Uniformes-De-Final-De-Ano">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Fila do Banco                          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Fila-Do-banco">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Ginacana no apartamento                |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Gincana-No-Apartamento">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Ordenação de palavras por tamanho      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Ordenacao-De-Palavras-Por-Tamanho">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Ordenação de palavras por tamanho      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Ordenacao-De-Palavras-Por-Tamanho">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Validador de senhas com requisitos     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Pedra,Papel,Tesoura,Lagarto,Spock      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Bazinga">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Atalho para Webblogger Brasil          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Atalho-Para-Webblogger -Brasil">Clique-me</a>|Java| none |
