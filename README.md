@@ -182,9 +182,9 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Ginacana no apartamento                |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Gincana-No-Apartamento">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Ordenação de palavras por tamanho      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Ordenacao-De-Palavras-Por-Tamanho">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Validador de senhas com requisitos     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Pedra,Papel,Tesoura,Lagarto,Spock      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Bazinga">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Atalho para Webblogger Brasil          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Atalho-Para-Webblogger -Brasil">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Validador de senhas com requisitos     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Pedra,Papel,Tesoura,Lagarto,Spock      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Bazinga">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Atalho para Webblogger Brasil          |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Atalho-Para-Webblogger%2520-Brasil">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Contagem repetida de números           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-Repetida-De-Números">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Vogais extraterrestres                 |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vogai-Extraterrestres">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Melhor amigo do Pablo                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Melhor-Amigo-Do-Pablo">Clique-me</a>|Java| none |
