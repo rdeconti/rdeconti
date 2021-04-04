@@ -205,7 +205,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
 |:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
 |:yellow_circle:|Projeto|Jogo de naves                         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Naves">Clique-me</a>|Html5, Css3, Javascript| none |
-|:yellow_circle:|Projeto|Jogo da memória estilo Genius         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius">Clique-me</a>|Html5, Css3, Javascript| none |
+|:green_circle: |Projeto|Jogo da memória estilo Genius         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius">Clique-me</a>|Html5, Css3, Javascript| none |
 |:yellow_circle:|Projeto|Recriando o jogo do dinossauro        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Dinossauro">Clique-me</a>|Html5, Css3, Javascript| none |
 |:yellow_circle:|Projeto|Jogo da memória                       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria">Clique-me</a>|Html5, Css3, Javascript| none |
 |:yellow_circle:|Projeto|Jogo da velha                         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Velha">Clique-me</a>|Html5, Css3, Javascript| none |
