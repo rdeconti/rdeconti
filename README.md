@@ -188,7 +188,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Contagem repetida de números           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-Repetida-De-Números">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Vogais extraterrestres                 |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vogai-Extraterrestres">Clique-me</a>|Java| none |
 |:red_circle:     |Desafio|Melhor amigo do Pablo                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Melhor-Amigo-Do-Pablo">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Conjuntos bons ou ruins?               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Produto e divisão                      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Produto-E-Divisão">Clique-me</a>|Java| none |
 |:yellow_circle:|Desafio|Barras de ouro                         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Barras-De-Ouro">Clique-me</a>|Java| none |
