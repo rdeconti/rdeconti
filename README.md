@@ -59,6 +59,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:purple_circle:|Projeto   |Primeiro container   |<a href="https://github.com/rdeconti/Projeto-DIO-Docker-Meu-Primerio-Container">Clique-me</a>|Docker|
 |:purple_circle:|Projeto   |Primeiro Projeto .NET|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Primeiro-Projeto">Clique-me</a>|cSharp|
 |:purple_circle:|Projeto   |Design patterns em C#|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Design-Patterns">Clique-me</a>|cSharp|
+|:purple_circle:|Projeto   |Exemplos cSharp      |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Exemplos-cSharp">Clique-me</a>|cSharp|
 |:purple_circle:|Projeto   |ReactJs Avançado     |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Avancado">Clique-me</a>|ReactJs|
 |:purple_circle:|Projeto   |ReactJs Intermediário|<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Intermediario">Clique-me</a>|ReactJs|
 |:purple_circle:|Projeto   |ReactJs Básico       |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Basico">Clique-me</a>|ReactJs|
