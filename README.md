@@ -50,6 +50,8 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:purple_circle:|Projeto   |Java Modular         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Modular-Java">Clique-me</a>|Java|
+|:purple_circle:|Projeto   |Java Avançado        |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Avancado-Java">Clique-me</a>|Java|
 |:purple_circle:|Projeto   |Collections Java     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Collections-Java">Clique-me</a>|Java|
 |:purple_circle:|Projeto   |Consulta CEP         |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-CEP">Clique-me</a>|Javascript, Bootstrap, Ajax, Jquery|
 |:purple_circle:|Projeto   |Caracteristica Java  |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Caracteristica-Java">Clique-me</a>|Java|
