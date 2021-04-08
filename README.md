@@ -191,10 +191,10 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Contagem repetida de números           |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Contagem-Repetida-De-Números">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Vogais extraterrestres                 |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vogai-Extraterrestres">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Melhor amigo do Pablo                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Melhor-Amigo-Do-Pablo">Clique-me</a>|Java| none |
-|:green_circle: |Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java| none |
+|:green_circle:   |Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Conjuntos bons ou ruins?               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Produto e divisão                      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Produto-E-Divisão">Clique-me</a>|Java| none |
-|:green_circle:   |Desafio|Barras de ouro                         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Barras-De-Ouro">Clique-me</a>|Java| none |
+|:red_circle:     |Desafio|Barras de ouro                         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Barras-De-Ouro">Clique-me</a>|Java| 2266 |
 |:green_circle:   |Desafio|Coração das cartas                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Coracao-Das-Cartas">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Abreviando posts do blog               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Abreviando-Posts-Do-Blog">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Combinação de strings                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Combinacao-De-Strings">Clique-me</a>|Java| none |
