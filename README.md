@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 06 de Abril de 2021 :heart:
+:spiral_calendar: Atualizado em 08 de Abril de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -194,7 +194,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle:   |Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Conjuntos bons ou ruins?               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Conjuntos-Bons-Ou-Ruins">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Produto e divisão                      |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Produto-E-Divisão">Clique-me</a>|Java| none |
-|:red_circle:     |Desafio|Barras de ouro                         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Barras-De-Ouro">Clique-me</a>|Java| 2666 |
+|:green_circle:   |Desafio|Barras de ouro                         |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Barras-De-Ouro">Clique-me</a>|Java| 2666 |
 |:green_circle:   |Desafio|Coração das cartas                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Coracao-Das-Cartas">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Abreviando posts do blog               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Abreviando-Posts-Do-Blog">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Combinação de strings                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Combinacao-De-Strings">Clique-me</a>|Java| none |
