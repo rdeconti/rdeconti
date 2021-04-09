@@ -200,8 +200,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle:   |Desafio|Coração das cartas                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Coracao-Das-Cartas">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Abreviando posts do blog               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Abreviando-Posts-Do-Blog">Clique-me</a>|Java| none |
 |:green_circle:   |Desafio|Combinação de strings                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Combinacao-De-Strings">Clique-me</a>|Java| none |
-|:yellow_circle:  |Desafio|Hash mágico                            |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Hash-Magico">Clique-me</a>|Java| none |
-|:yellow_circle:  |Desafio|O tabuleiro secreto                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-O-Tabuleiro-Secreto">Clique-me</a>|Java| none |
+|:green_circle:   |Desafio|Hash mágico                            |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Hash-Magico">Clique-me</a>|Java| none |
+|:green_circle:   |Desafio|O tabuleiro secreto                    |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-O-Tabuleiro-Secreto">Clique-me</a>|Java| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: JavaScript Game Developer (24/04/2021)
