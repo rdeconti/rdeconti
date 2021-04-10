@@ -215,7 +215,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:yellow_circle:|Projeto|Recriando o jogo do dinossauro        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Dinossauro">Clique-me</a>|Html5, Css3, Javascript| none |
 |:yellow_circle:|Projeto|Jogo da memória                       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria">Clique-me</a>|Html5, Css3, Javascript| none |
 |:yellow_circle:|Projeto|Jogo da velha                         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Velha">Clique-me</a>|Html5, Css3, Javascript| none |
-|:yellow_circle:|Projeto|Jogo Space Shooter                    |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter">Clique-me</a>|Html5, Css3, Javascript| none |
+|:green_circle: |Projeto|Jogo Space Shooter                    |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter">Clique-me</a>|Html5, Css3, Javascript| none |
 |:green_circle: |Desafio|Visita na feira                       |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Multiplicação simples                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Folha de pagamento                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript| none |
