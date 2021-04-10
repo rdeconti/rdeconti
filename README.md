@@ -280,7 +280,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Menor e posição                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Menor-Posicao">Clique-me</a>|Java| 1180 |
 |:green_circle: |Desafio|Números ímpares                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Numeros-Impares">Clique-me</a>|Java| 1067 |
 |:green_circle: |Desafio|Abreviando posts do blog               |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Abreviando-Posts-Do-Blog">Clique-me</a>|Java| none |
-|:yellow_circle:|Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java| none |
+|:green_circle: |Desafio|Encontre a maior substring             |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Encontre-A-Maior-Substring">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Entrevista embaraçosa                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Entrevista-Embaraçosa">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Validador de senhas com requisitos     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Validador-Se-Senhas-Com-Requisitos">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Divisores                              |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Divisores">Clique-me</a>|Java| 1157 |
