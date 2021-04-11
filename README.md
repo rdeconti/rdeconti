@@ -291,6 +291,17 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 ## :label: Everis Kotlin Developer (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:yellow_circle:|Desafio|Soma simples              |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Soma-Simples">Clique-me</a>|Kotlin none |
+|:yellow_circle:|Desafio|Números impares           |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Numeros-Impares">Clique-me</a>|Kotlin none |
+|:yellow_circle:|Desafio|Quadrado e ao cubo        |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Quadrado-Ao-Cubo">Clique-me</a>|Kotlin none |
+|:yellow_circle:|Desafio|Taxa de imposto de renda  |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Taxa-Imposto-Renda"</a>|Kotlin none |
+|:yellow_circle:|Desafio|Área do circulo           |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Area-Circulo">Clique-me</a>|Kotlin none |
+|:yellow_circle:|Desafio|Primo rápido              |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Primo-Rapido">Clique-me</a>|Kotlin none |
+|:yellow_circle:|Desafio|A corrida das tartarugas  |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Corrida-Tartarugas">Clique-me</a>|Kotlin none |
+|:yellow_circle:|Desafio|Figurinhas                |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Figurinhas">Clique-me</a>|Kotlin none |
+|:yellow_circle:|Desafio|O jogo matemático de Paula|<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Jogo-Matematico-Paula">Clique-me</a>|Kotlin none |
+|:yellow_circle:|Desafio|Conversão simples de base |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Conversao-Simples-Base">Clique-me</a>|Kotlin none |
+|:yellow_circle:|Desafio|Bob conduíte              |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Bob-Conduite">Clique-me</a>|Kotlin none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Avanade Angular Developer (9/05/2021)
