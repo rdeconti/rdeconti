@@ -292,9 +292,9 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 ## :label: Everis Kotlin Developer (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
-|:yellow_circle:|Desafio|Soma simples            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Soma-Simples">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|Números impares         |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Numeros-Impares">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|Quadrado e ao cubo      |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Quadrado-Ao-Cubo">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Soma simples            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Soma-Simples">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Números impares         |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Numeros-Impares">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Quadrado e ao cubo      |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Quadrado-Ao-Cubo">Clique-me</a>|Kotlin none |
 |:yellow_circle:|Desafio|Taxa imposto renda      |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Taxa-De-Imposto-De-Renda">Clique-me</a>|Kotlin none |
 |:yellow_circle:|Desafio|Área do circulo         |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Area-Do-Circulo">Clique-me</a>|Kotlin none |
 |:yellow_circle:|Desafio|Primo rápido            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Primo-Rapido">Clique-me</a>|Kotlin none |
