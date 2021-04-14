@@ -51,7 +51,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Mock-Mvc">Clique-me</a>|Java,MockMvc|
-|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Rest">Clique-me</a>|Java,Spring,Rest|
+|:purple_circle:|Projeto   |Telegram Bot         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Rest">Clique-me</a>|Java,Spring,Rest|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jackson-Binder">Clique-me</a>|Java,Jackson,Binder|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Filters">Clique-me</a>|Java,Filters|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Hatetoas">Clique-me</a>|Java,Hatetoas|
