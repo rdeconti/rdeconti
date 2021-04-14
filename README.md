@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 12 de Abril de 2021 :heart:
+:spiral_calendar: Atualizado em 14 de Abril de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -47,7 +47,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Aulas Práticas (31/12/2021)
-Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
+### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:purple_circle:|Projeto   |Java MVC Spring Boot |<a href="https://github.com/rdeconti/Projeto-DIO-Java-MVC-Spring-Boot">Clique-me</a>|Java,MVC,Spring Boot|
