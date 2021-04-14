@@ -50,6 +50,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:purple_circle:|Projeto   |Cadastro de soldados |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jax-Rs">Clique-me</a>|Java,Jax-Rs|
 |:purple_circle:|Projeto   |Cadastro de Jedi     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-MVC-Spring-Boot">Clique-me</a>|Java,MVC,Spring Boot|
 |:purple_circle:|Projeto   |Testes com Java/Junit|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Testes-Junit">Clique-me</a>|Java, Junit|
 |:purple_circle:|Projeto   |Async-await          |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Async-Await">Clique-me</a>|Javascript|
