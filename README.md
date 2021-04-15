@@ -1,18 +1,102 @@
-:spiral_calendar: Atualizado em 15 de março de 2021 :heart:
+# Página em constante atualização
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
+:spiral_calendar: Atualizado em 15 de Abril de 2021 :heart:
 
-# Projeto Digital Innovation One Desafios
-Durante os bootcamps vários desafios de programação foram propostos. Neste repositório são encontrados para cada desafio sua descrição e código.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-# Solução dos desafios
-- Muitas soluções tiveram somente a complementação do código proposto. Outros desafios mais complexos foram resolvidas com base em fóruns de discussão e no Discord. Outras soluções foram encontradas nos fóruns de discussão do www.urionlinejudge.com.br/judge/en/login. 
-- Todos os códigos foram testados no Visual Studio Code e Visual Studio 2019 (C#).
+# Olá!, Meu nome é Rosemeire Deconti! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+- Autodidata e apaixonada por desenvolvimento
+- Vivendo atualmente no Brasil e trabalhando remotamente. 
+- Aberta a novas oportunidades de trabalho!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :link: Conecte-se comigo <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rdeconti)](https://github.com/rdeconti)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
+
+## :blush: Seja bem vindo! Visite minha página pessoal: <a href="https://rdeconti.github.io/">Link (ainda em construção!)</a>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :bar_chart: Estatísticas e linguages
+<p>
+  <a href="https://github.com/rdeconti">
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=rdeconti&show_icons=true&theme=omni" alt="rdeconti :: Profile Stats" />
+    <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeconti&langs_count=6&theme=omni&layout=compact" alt="rdeconti :: TopLangs" />
+ </a>
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Relação de projetos e desafios:
+Aqui está a lista de projetos e desafios nos quais participei ou estou participando. A situação de cada um deles segue esta legenda: 
+- :white_circle: Em aberto
+- :yellow_circle: Em andamento
+- :purple_circle: Em estudo
+- :red_circle: Em busca de solução
+- :green_circle: Concluído
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Projetos próprios (31/12/2021)
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
+|:yellow_circle:|Projeto|Meu portfólio       |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a> |Html5, Css3, Javascript, Bootstrap|
+|:purple_circle:|Projeto|ByteBank            |<a href="https://github.com/rdeconti/Projeto-ByteBank">Clique-me</a> |Html5, Css3, Javascript, Java, MySql|
+|:green_circle: |Projeto|MusicDot            |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
+|:green_circle: |Projeto|Minute News         |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
+|:green_circle: |Projeto|Babies              |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
+|:green_circle: |Projeto|Potions             |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Digital Innovation One Aulas Práticas (31/12/2021)
+### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
+|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Mock-Mvc">Clique-me</a>|Java,MockMvc|
+|:purple_circle:|Projeto   |Telegram Bot         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Rest">Clique-me</a>|Java,Spring,Rest|
+|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jackson-Binder">Clique-me</a>|Java,Jackson,Binder|
+|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Filters">Clique-me</a>|Java,Filters|
+|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Hatetoas">Clique-me</a>|Java,Hatetoas|
+|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jax-Rs">Clique-me</a>|Java,Jax-Rs|
+|:purple_circle:|Projeto   |Cadastro de Jedi     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-MVC-Spring-Boot">Clique-me</a>|Java,MVC,Spring Boot|
+|:purple_circle:|Projeto   |Testes com Java/Junit|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Testes-Junit">Clique-me</a>|Java, Junit|
+|:purple_circle:|Projeto   |Async-await          |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Async-Await">Clique-me</a>|Javascript|
+|:purple_circle:|Projeto   |Java e Spring Boot   |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Boot">Clique-me</a>|Java, Spring Boot|
+|:purple_circle:|Projeto   |Java Modular         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Modular-Java">Clique-me</a>|Java|
+|:purple_circle:|Projeto   |Java Avançado        |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Avancado-Java">Clique-me</a>|Java|
+|:purple_circle:|Projeto   |Collections Java     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Collections-Java">Clique-me</a>|Java|
+|:purple_circle:|Projeto   |Consulta CEP         |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-CEP">Clique-me</a>|Javascript, Bootstrap, Ajax, Jquery|
+|:purple_circle:|Projeto   |Caracteristica Java  |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Caracteristica-Java">Clique-me</a>|Java|
+|:purple_circle:|Projeto   |Promisses            |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Promises">Clique-me</a>|Javascript|
+|:purple_circle:|Projeto   |Map, Filter, Reduce  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Map-Filter-Reduce">Clique-me</a>|Javascript|
+|:purple_circle:|Projeto   |Cadastro de cursos   |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-De-Cursos">Clique-me</a>|Docker|
+|:purple_circle:|Projeto   |Primeiro container   |<a href="https://github.com/rdeconti/Projeto-DIO-Docker-Meu-Primerio-Container">Clique-me</a>|Docker|
+|:purple_circle:|Projeto   |Primeiro Projeto .NET|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Primeiro-Projeto">Clique-me</a>|cSharp|
+|:purple_circle:|Projeto   |Design patterns em C#|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Design-Patterns">Clique-me</a>|cSharp|
+|:purple_circle:|Projeto   |Exemplos cSharp      |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Exemplos-cSharp">Clique-me</a>|cSharp|
+|:purple_circle:|Projeto   |ReactJs Avançado     |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Avancado">Clique-me</a>|ReactJs|
+|:purple_circle:|Projeto   |ReactJs Intermediário|<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Intermediario">Clique-me</a>|ReactJs|
+|:purple_circle:|Projeto   |ReactJs Básico       |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Basico">Clique-me</a>|ReactJs|
+|:purple_circle:|Projeto   |Rede social 1        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
+|:purple_circle:|Projeto   |Rede social 2        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
+|:purple_circle:|Projeto   |Banco PostgreSQL     |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
+|:purple_circle:|Projeto   |Minha página         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Digital Innovation One Live Coding (31/12/2021)
+Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
+|:purple_circle:|Projeto|Gerador de frases   |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Gerador-De-Frases">Clique-me</a>|ReactJs|
+|:purple_circle:|Projeto|Agenda de contatos  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Agenda-De-Contatos">Clique-me</a>|cSharp, Boostrap, Jquery|
+|:purple_circle:|Projeto|Electropalce        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Ruby on Rails|
+|:purple_circle:|Projeto|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Bootcamp .NET Fundamentals (14/03/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:green_circle:|Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp| none |
+|:green_circle:|Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp| none |
+|:green_circle:|Desafio|Dividindo X por Y         |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Dividindo-X-Por-Y">Clique-me</a>|cSharp| none |
 |:green_circle:|Desafio|Quanta mandioca           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Quanta-Mandioca">Clique-me</a>|cSharp| 2936 |
 |:green_circle:|Desafio|Bazinga!                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Bazinga">Clique-me</a>|cSharp| 1828 |
 |:green_circle:|Desafio|Coxinha de bueno          |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Coxinha-De-Bueno">Clique-me</a>|cSharp| none |
@@ -27,6 +111,9 @@ Durante os bootcamps vários desafios de programação foram propostos. Neste re
 ## :label: Digital Innovation One Bootcamp HTML Web Developer (15/03/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
+|:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
+|:green_circle:|Projeto|Recriando o jogo da cobrinha           |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Cobrinha">Clique-me</a>|Html5, Css3, Javascript, Canvas| none |
 |:green_circle:|Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|Javascript| none |
 |:green_circle:|Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|Javascript| none |
 |:green_circle:|Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript| none |
@@ -40,6 +127,9 @@ Durante os bootcamps vários desafios de programação foram propostos. Neste re
 ## :label: Impulso FullStack Developer (18/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:green_circle: |Projeto|Esferas Dragon Ball Z    |<a href="https://github.com/rdeconti/Projeto-DIO-React-Esferas-Dragon-Ball-Z">Clique-me</a>|ReactJS, Cypress| none |
+|:green_circle: |Projeto|Mind App                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Mind-App">Clique-me</a>|Ruby| none |
+|:green_circle: |Projeto|Sistema de classificados |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|Ruby| none |
 |:green_circle: |Desafio|Par ou impar             |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Par-Ou-Impar">Clique-me</a>|Ruby| none |
 |:green_circle: |Desafio|DDD                      |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-DDD">Clique-me</a>|Ruby| 1050 |
 |:green_circle: |Desafio|Idade em dias            |<a href="https://github.com/rdeconti/Challenges-Digital-Innovation-One-Ruby/blob/main/Desafio-Ruby-Idade-Em-Dias">Clique-me</a>|Ruby| 1020 |
@@ -59,6 +149,10 @@ Durante os bootcamps vários desafios de programação foram propostos. Neste re
 ## :label: MRV .NET Developer (21/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:green_circle: |Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp| none |
+|:green_circle: |Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp| none |
+|:green_circle: |Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|cSharp,Tests| none |
+|:green_circle: |Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|Visita na feira           |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Visita-Na-Feira">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|Tuitando                  |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Tuitando">Clique-me</a>|cSharp| 2165 |
 |:green_circle: |Desafio|Validação de nota         |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Validacao-De-Nota">Clique-me</a>|cSharp| 1117 |
@@ -69,10 +163,25 @@ Durante os bootcamps vários desafios de programação foram propostos. Neste re
 |:green_circle: |Desafio|Fórmula de Bhaskara       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Formula-De-Bhaskara">Clique-me</a>|cSharp| 1036 |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Backend Developer Carrefour (24/04/2021)
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## :label: Fullstack Developer Banco Carrefour (24/04/2021)
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :label: Java Developer (24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:yellow_circle:|Projeto|Gerenciador de pessoas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot| none |
+|:yellow_circle:|Projeto|Consulta cidades do Brasil             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
+|:yellow_circle:|Projeto|Gerenciador de salas de reuniões       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular| none |
+|:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest| none |
 |:green_circle: |Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vista-Na-Feira">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Folha-De-Pagamento">Clique-me</a>|Java| none |
@@ -108,6 +217,14 @@ Durante os bootcamps vários desafios de programação foram propostos. Neste re
 ## :label: JavaScript Game Developer (24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
+|:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
+|:green_circle: |Projeto|Jogo de naves                         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Naves">Clique-me</a>|Html5, Css3, Javascript| none |
+|:green_circle: |Projeto|Jogo da memória estilo Genius         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius">Clique-me</a>|Html5, Css3, Javascript| none |
+|:green_circle: |Projeto|Recriando o jogo do dinossauro        |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Dinossauro">Clique-me</a>|Html5, Css3, Javascript| none |
+|:green_circle: |Projeto|Jogo da memória                       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria">Clique-me</a>|Html5, Css3, Javascript| none |
+|:green_circle: |Projeto|Jogo da velha                         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Velha">Clique-me</a>|Html5, Css3, Javascript| none |
+|:green_circle: |Projeto|Jogo Space Shooter                    |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter">Clique-me</a>|Html5, Css3, Javascript| none |
 |:green_circle: |Desafio|Visita na feira                       |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Vista-Na-Feira">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Multiplicação simples                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Multiplica%C3%A7%C3%A3o-Simples">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Folha de pagamento                    |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Folha-De-Pagamento">Clique-me</a>|Javascript| none |
@@ -143,6 +260,10 @@ Durante os bootcamps vários desafios de programação foram propostos. Neste re
 ## :label: LocalizaLabs .NET Developer (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:green_circle: |Projeto|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp| none |
+|:green_circle: |Projeto|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp| none |
+|:green_circle: |Projeto|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|.NET,cSharp,Tests| none |
+|:green_circle: |Projeto|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|Consumo médio do automóvel|<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Consumo-Medio-Do-Automovel">Clique-me</a>|cSharp| none |
 |:green_circle: |Desafio|DDD                       |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-DDD">Clique-me</a>|cSharp| 1050 |
 |:green_circle: |Desafio|Aumento de salário        |<a href="https://github.com/rdeconti/Desafios-DIO-.NET/tree/main/Desafio-Dot-Net-Aumento-De-Salario">Clique-me</a>|cSharp| 1048 |
@@ -159,6 +280,11 @@ Durante os bootcamps vários desafios de programação foram propostos. Neste re
 ## :label: Inter Java Dev (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest| none |
+|:yellow_circle:|Projeto|Gerenciamento Heróis Marvel/DC         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Herois-Marvel-DC">Clique-me</a>|Java, API Reativa, Spring Boot|| none |
+|:yellow_circle:|Projeto|E-commerce                             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-E-Commerce">Clique-me</a> |Java, micro-serviços| none |
+|:yellow_circle:|Projeto|Kubernets                              |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Kubernets">Clique-me</a> |Java, Kubernetes| none |
+|:yellow_circle:|Projeto|Gerenciamento de orçamento             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Orcamento">Clique-me</a> |Java,CQRS, Quarkus, Kafka, EKS| none |
 |:green_circle: |Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Menor e posição                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Menor-Posicao">Clique-me</a>|Java| 1180 |
 |:green_circle: |Desafio|Números ímpares                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Numeros-Impares">Clique-me</a>|Java| 1067 |
@@ -190,6 +316,10 @@ Durante os bootcamps vários desafios de programação foram propostos. Neste re
 ## :label: Avanade Angular Developer (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
+|:green_circle:|Projeto|Recriando a Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
+|:green_circle:|Projeto|Recriando a página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox| none |
+|:yellow_circle:|Projeto|Single Page Angular                   |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Single-Page-Angular">Clique-me</a>|Html5, Css3, Angular| none |
+|:yellow_circle:|Projeto|Previsão do tempo                     |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo">Clique-me</a>|Html5, Css3, Angular| none |
 |:green_circle: |Desafio|Dividindo X por Y                     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Dividindo-X-Por-Y">Clique-me</a>|Javascript| 1116 |
 |:green_circle: |Desafio|Blobs                                 |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Blobs">Clique-me</a>|Javascript| none |
 |:green_circle: |Desafio|Tipo de combustível                   |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Tipo-De-Combustivel">Clique-me</a>|Javascript| 1134 |
@@ -201,3 +331,25 @@ Durante os bootcamps vários desafios de programação foram propostos. Neste re
 |:green_circle:|Desafio|Ordenando números pares e ímpares     |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Ordenando-Numeros-Impares-Pares">Clique-me</a>|Javascript| none |
 |:green_circle:|Desafio|Animal                                |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Animal">Clique-me</a>|Javascript| 1049 |
 |:green_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript| none |
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
+|:green_circle: |Alura| Barbearia Alura         |<a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Clique-me</a>        |Html5, Css3, Javascript, Html5, Css3|
+|:green_circle: |Alura| Aparecida Nutricionista |<a href="https://github.com/rdeconti/Projeto-Aparecida-Nutricionista">Clique-me</a>|Html5, Css3, Javascript|
+|:green_circle: |Alura| Alura News              |<a href="https://github.com/rdeconti/Projeto-Alura-News">Clique-me</a>             |Html5, Css3, Javascript|
+|:green_circle: |Alura| Alura Typer             |<a href="https://github.com/rdeconti/Projeto-Alura-Typer">Clique-me</a>            |Html5, Css3, Javascript|
+|:green_circle: |Alura| Conferência Alura       |<a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>       |Html5, Css3, Javascript|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label:  Projetos do curso Udacity (Android Developer Nanodegree)
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
+|:green_circle:|Udacity|Bake House    |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a>|Android|
+|:green_circle:|Udacity|Elegant Reader|<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Clique-me</a> |Android|
+|:green_circle:|Udacity|Find Movies   |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Clique-me</a> |Android|
+|:green_circle:|Udacity|Quick Jokes   |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Clique-me</a>|Android|
+|:green_circle:|Udacity|Best Meal     |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Clique-me</a>|Android|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
