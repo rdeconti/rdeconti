@@ -50,7 +50,9 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:purple_circle:|Projeto   |JavaScript/NodeExpress |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express">Clique-me</a>|Javascript,Node Express|
+|:purple_circle:|Projeto   |Consulta CLimatempo  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-Climatempo">Clique-me</a>|Javascript, Commander.Js|
+|:purple_circle:|Projeto   |Buscador de pastas   |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-CLI">Clique-me</a>|Javascript,Node Express, CLI|
+|:purple_circle:|Projeto   |Cadastro de usuários |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express">Clique-me</a>|Javascript,Node Express|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Mock-Mvc">Clique-me</a>|Java,MockMvc|
 |:purple_circle:|Projeto   |Telegram Bot         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Rest">Clique-me</a>|Java,Spring,Rest|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jackson-Binder">Clique-me</a>|Java,Jackson,Binder|
