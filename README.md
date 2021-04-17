@@ -50,13 +50,26 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:purple_circle:|Projeto   |Sistema recomendações|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Sistema-Recomendacoes">Clique-me</a>|Java, IA|
+|:purple_circle:|Projeto   |Testando aplicações  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Testando-Aplicacao">Clique-me</a>|cSharp|
+|:purple_circle:|Projeto   |Cadastro de cursos   |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-De-Cursos">Clique-me</a>|Docker|
+|:purple_circle:|Projeto   |Primeiro Projeto .NET|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Primeiro-Projeto">Clique-me</a>|cSharp|
+|:purple_circle:|Projeto   |Design patterns em C#|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Design-Patterns">Clique-me</a>|cSharp|
+|:purple_circle:|Projeto   |Exemplos cSharp      |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Exemplos-cSharp">Clique-me</a>|cSharp|
+| | | | | |
+|:purple_circle:|Projeto   |Minha página         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
+| | | | | |
 |:purple_circle:|Projeto   |Gerenciador Crushes  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Gerenciar-Crushes">Clique-me</a>|Javascript, API, NodeJs|
 |:purple_circle:|Projeto   |HTML Node Express Pug|<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express-Pug">Clique-me</a>|Javascript, Node Express, Pug|
 |:purple_circle:|Projeto   |HTML Template Pug    |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Pug">Clique-me</a>|Javascript, Node, Pug|
 |:purple_circle:|Projeto   |Consulta CLimatempo  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-Climatempo">Clique-me</a>|Javascript, Commander.Js|
 |:purple_circle:|Projeto   |Buscador de pastas   |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-CLI">Clique-me</a>|Javascript,Node Express, CLI|
 |:purple_circle:|Projeto   |Cadastro de usuários |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express">Clique-me</a>|Javascript,Node Express|
+|:purple_circle:|Projeto   |Async-await          |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Async-Await">Clique-me</a>|Javascript|
+|:purple_circle:|Projeto   |Consulta CEP         |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-CEP">Clique-me</a>|Javascript, Bootstrap, Ajax, Jquery|
+|:purple_circle:|Projeto   |Map, Filter, Reduce  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Map-Filter-Reduce">Clique-me</a>|Javascript|
+|:purple_circle:|Projeto   |Promisses            |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Promises">Clique-me</a>|Javascript|
+| | | | | |
+|:purple_circle:|Projeto   |Sistema recomendações|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Sistema-Recomendacoes">Clique-me</a>|Java, IA|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Mock-Mvc">Clique-me</a>|Java,MockMvc|
 |:purple_circle:|Projeto   |Telegram Bot         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Rest">Clique-me</a>|Java,Spring,Rest|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jackson-Binder">Clique-me</a>|Java,Jackson,Binder|
@@ -65,27 +78,22 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jax-Rs">Clique-me</a>|Java,Jax-Rs|
 |:purple_circle:|Projeto   |Cadastro de Jedi     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-MVC-Spring-Boot">Clique-me</a>|Java,MVC,Spring Boot|
 |:purple_circle:|Projeto   |Testes com Java/Junit|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Testes-Junit">Clique-me</a>|Java, Junit|
-|:purple_circle:|Projeto   |Async-await          |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Async-Await">Clique-me</a>|Javascript|
 |:purple_circle:|Projeto   |Java e Spring Boot   |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Boot">Clique-me</a>|Java, Spring Boot|
 |:purple_circle:|Projeto   |Java Modular         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Modular-Java">Clique-me</a>|Java|
 |:purple_circle:|Projeto   |Java Avançado        |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Avancado-Java">Clique-me</a>|Java|
 |:purple_circle:|Projeto   |Collections Java     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Collections-Java">Clique-me</a>|Java|
-|:purple_circle:|Projeto   |Consulta CEP         |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-CEP">Clique-me</a>|Javascript, Bootstrap, Ajax, Jquery|
 |:purple_circle:|Projeto   |Caracteristica Java  |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Caracteristica-Java">Clique-me</a>|Java|
-|:purple_circle:|Projeto   |Promisses            |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Promises">Clique-me</a>|Javascript|
-|:purple_circle:|Projeto   |Map, Filter, Reduce  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Map-Filter-Reduce">Clique-me</a>|Javascript|
-|:purple_circle:|Projeto   |Cadastro de cursos   |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-De-Cursos">Clique-me</a>|Docker|
+| | | | | |
 |:purple_circle:|Projeto   |Primeiro container   |<a href="https://github.com/rdeconti/Projeto-DIO-Docker-Meu-Primerio-Container">Clique-me</a>|Docker|
-|:purple_circle:|Projeto   |Primeiro Projeto .NET|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Primeiro-Projeto">Clique-me</a>|cSharp|
-|:purple_circle:|Projeto   |Design patterns em C#|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Design-Patterns">Clique-me</a>|cSharp|
-|:purple_circle:|Projeto   |Exemplos cSharp      |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Exemplos-cSharp">Clique-me</a>|cSharp|
+| | | | | |
 |:purple_circle:|Projeto   |ReactJs Avançado     |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Avancado">Clique-me</a>|ReactJs|
 |:purple_circle:|Projeto   |ReactJs Intermediário|<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Intermediario">Clique-me</a>|ReactJs|
 |:purple_circle:|Projeto   |ReactJs Básico       |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Basico">Clique-me</a>|ReactJs|
+| | | | | |
 |:purple_circle:|Projeto   |Rede social 1        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto   |Rede social 2        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
+| | | | | |
 |:purple_circle:|Projeto   |Banco PostgreSQL     |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
-|:purple_circle:|Projeto   |Minha página         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Live Coding (31/12/2021)
@@ -310,7 +318,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Soma simples            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Soma-Simples">Clique-me</a>|Kotlin none |
 |:green_circle: |Desafio|Números impares         |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Numeros-Impares">Clique-me</a>|Kotlin none |
 |:green_circle: |Desafio|Quadrado e ao cubo      |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Quadrado-Ao-Cubo">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|Taxa imposto renda      |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Taxa-De-Imposto-De-Renda">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Taxa imposto renda      |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Taxa-De-Imposto-De-Renda">Clique-me</a>|Kotlin none |
 |:yellow_circle:|Desafio|Área do circulo         |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Area-Do-Circulo">Clique-me</a>|Kotlin none |
 |:yellow_circle:|Desafio|Primo rápido            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Primo-Rapido">Clique-me</a>|Kotlin none |
 |:yellow_circle:|Desafio|A corrida das tartarugas|<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-A-Corrida-De-Tartarugas">Clique-me</a>|Kotlin none |
