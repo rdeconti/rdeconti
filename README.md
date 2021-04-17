@@ -61,6 +61,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |-             -|-        -|-                   -|-                                                                                      -|-                          -|
 |:purple_circle:|Projeto   |Minha página         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
 |-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|:purple_circle:|Projeto   |TDD com JavaScript   |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-TDD">Clique-me</a>|Javascript|
 |:purple_circle:|Projeto   |Web Javascript       |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Performance-Web">Clique-me</a>|Javascript|
 |:purple_circle:|Projeto   |Gerenciador Crushes  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Gerenciar-Crushes">Clique-me</a>|Javascript, API, NodeJs|
 |:purple_circle:|Projeto   |HTML Node Express Pug|<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express-Pug">Clique-me</a>|Javascript, Node Express, Pug|
