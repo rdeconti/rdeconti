@@ -50,8 +50,6 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-
-Extraindo dados da web com Python
 |:purple_circle:|Projeto   |Extração com Python  |<a href="https://github.com/rdeconti/Projeto-DIO-Python-Extracao-Web">Clique-me</a>|Python|
 |-             -|-        -|-                   -|-                                                                                      -|-                          -|
 |:purple_circle:|Projeto   |Injeção dependência  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Injecao-Dependencia">Clique-me</a>|cSharp|
