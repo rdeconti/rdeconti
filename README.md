@@ -50,6 +50,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:purple_circle:|Projeto   |Injeção dependência  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Injecao-Dependencia">Clique-me</a>|cSharp|
 |:purple_circle:|Projeto   |Testando aplicações  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Testando-Aplicacao">Clique-me</a>|cSharp|
 |:purple_circle:|Projeto   |Cadastro de cursos   |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-De-Cursos">Clique-me</a>|Docker|
 |:purple_circle:|Projeto   |Primeiro Projeto .NET|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Primeiro-Projeto">Clique-me</a>|cSharp|
