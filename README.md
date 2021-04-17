@@ -50,6 +50,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:purple_circle:|Projeto   |Sistema recomendações|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Sistema-Recomendacoes">Clique-me</a>|Java, IA|
 |:purple_circle:|Projeto   |Gerenciador Crushes  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Gerenciar-Crushes">Clique-me</a>|Javascript, API, NodeJs|
 |:purple_circle:|Projeto   |HTML Node Express Pug|<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express-Pug">Clique-me</a>|Javascript, Node Express, Pug|
 |:purple_circle:|Projeto   |HTML Template Pug    |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Pug">Clique-me</a>|Javascript, Node, Pug|
