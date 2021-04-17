@@ -354,6 +354,23 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle:|Desafio|Compras no supermercado               |<a href="https://github.com/rdeconti/Desafios-DIO-Javascript/tree/main/Desafio-JavaScript-Compras-No-Supermercado">Clique-me</a>|Javascript| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: SPTech Desenvolvimento Front-end (22/08/2021)
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
+|:yellow_circle:|Projeto|API de Criptomoedas                  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Criptomoedas">Clique-me</a> |Javascript| none |
+|:yellow_circle:|Projeto|Covid-19 Pelo Munod                  |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Covid19">Clique-me</a> |ReactJs| none |
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: SPTech Desenvolvimento Back-end (22/08/2021)
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: SPTech Desenvolvimento FullStack (22/08/2021)
+|Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
+|---|----|----|--------|-----------|-----------|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label:  Projetos do curso Oracle One - Alura - Labora (Front-End Developer)
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
