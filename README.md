@@ -50,18 +50,17 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|🐾|🐾|🐾|🐾|🐾|
 |:purple_circle:|Projeto   |Extração com Python  |<a href="https://github.com/rdeconti/Projeto-DIO-Python-Extracao-Web">Clique-me</a>|Python|
-|-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|---------------|----------|---------------------|----------------------------------------------------------------------------------------|----------------------------|
 |:purple_circle:|Projeto   |Injeção dependência  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Injecao-Dependencia">Clique-me</a>|cSharp|
 |:purple_circle:|Projeto   |Testando aplicações  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Testando-Aplicacao">Clique-me</a>|cSharp|
 |:purple_circle:|Projeto   |Cadastro de cursos   |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-De-Cursos">Clique-me</a>|Docker|
 |:purple_circle:|Projeto   |Primeiro Projeto .NET|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Primeiro-Projeto">Clique-me</a>|cSharp|
 |:purple_circle:|Projeto   |Design patterns em C#|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Design-Patterns">Clique-me</a>|cSharp|
 |:purple_circle:|Projeto   |Exemplos cSharp      |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Exemplos-cSharp">Clique-me</a>|cSharp|
-|-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|---------------|----------|---------------------|----------------------------------------------------------------------------------------|----------------------------|
 |:purple_circle:|Projeto   |Minha página         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
-|-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|---------------|----------|---------------------|----------------------------------------------------------------------------------------|----------------------------|
 |:purple_circle:|Projeto   |TDD com JavaScript   |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-TDD">Clique-me</a>|Javascript|
 |:purple_circle:|Projeto   |Web Javascript       |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Performance-Web">Clique-me</a>|Javascript|
 |:purple_circle:|Projeto   |Gerenciador Crushes  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Gerenciar-Crushes">Clique-me</a>|Javascript, API, NodeJs|
@@ -74,7 +73,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:purple_circle:|Projeto   |Consulta CEP         |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-CEP">Clique-me</a>|Javascript, Bootstrap, Ajax, Jquery|
 |:purple_circle:|Projeto   |Map, Filter, Reduce  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Map-Filter-Reduce">Clique-me</a>|Javascript|
 |:purple_circle:|Projeto   |Promisses            |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Promises">Clique-me</a>|Javascript|
-|-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|---------------|----------|---------------------|----------------------------------------------------------------------------------------|----------------------------|
 |:purple_circle:|Projeto   |Sistema recomendações|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Sistema-Recomendacoes">Clique-me</a>|Java, IA|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Mock-Mvc">Clique-me</a>|Java,MockMvc|
 |:purple_circle:|Projeto   |Telegram Bot         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Rest">Clique-me</a>|Java,Spring,Rest|
@@ -89,19 +88,21 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:purple_circle:|Projeto   |Java Avançado        |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Avancado-Java">Clique-me</a>|Java|
 |:purple_circle:|Projeto   |Collections Java     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Collections-Java">Clique-me</a>|Java|
 |:purple_circle:|Projeto   |Caracteristica Java  |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Caracteristica-Java">Clique-me</a>|Java|
-|-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|---------------|----------|---------------------|----------------------------------------------------------------------------------------|----------------------------|
 |:purple_circle:|Projeto   |Primeiro container   |<a href="https://github.com/rdeconti/Projeto-DIO-Docker-Meu-Primerio-Container">Clique-me</a>|Docker|
-|-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|---------------|----------|---------------------|----------------------------------------------------------------------------------------|----------------------------|
 |:purple_circle:|Projeto   |ReactJs Avançado     |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Avancado">Clique-me</a>|ReactJs|
 |:purple_circle:|Projeto   |ReactJs Intermediário|<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Intermediario">Clique-me</a>|ReactJs|
 |:purple_circle:|Projeto   |ReactJs Básico       |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Basico">Clique-me</a>|ReactJs|
-|-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|---------------|----------|---------------------|----------------------------------------------------------------------------------------|----------------------------|
 |:purple_circle:|Projeto   |Rede social 1        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto   |Rede social 2        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
-|-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|---------------|----------|---------------------|----------------------------------------------------------------------------------------|----------------------------|
+|:purple_circle:|Projeto   |MongoDb e Hapi       |<a href="https://github.com/rdeconti/Projeto-DIO-MongoDb-Hapi">Clique-me</a>|MongoDb, Hapi|
+|:purple_circle:|Projeto   |MongoDb e NodeJs     |<a href="https://github.com/rdeconti/Projeto-DIO-MongoDb-NodeJs">Clique-me</a>|MongoDb, NodeJs|
 |:purple_circle:|Projeto   |PostgreSQL e NodeJs  |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-NodeJs">Clique-me</a>|PostgreSQL, NodeJs|
 |:purple_circle:|Projeto   |Banco PostgreSQL     |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
-|-             -|-        -|-                   -|-                                                                                      -|-                          -|
+|---------------|----------|---------------------|----------------------------------------------------------------------------------------|----------------------------|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Digital Innovation One Live Coding (31/12/2021)
