@@ -98,10 +98,10 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:purple_circle:|Projeto   |Rede social 1        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto   |Rede social 2        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
 |- -|- -|- -|- -|- -|
-|:purple_circle:|Projeto   |MongoDb e JWT        |<a href="https://github.com/rdeconti/Projeto-DIO-MongoDb-JWT">Clique-me</a>|MongoDb, JWT|
-|:purple_circle:|Projeto   |MongoDb e Hapi       |<a href="https://github.com/rdeconti/Projeto-DIO-MongoDb-Hapi">Clique-me</a>|MongoDb, Hapi|
-|:purple_circle:|Projeto   |MongoDb e NodeJs     |<a href="https://github.com/rdeconti/Projeto-DIO-MongoDb-NodeJs">Clique-me</a>|MongoDb, NodeJs|
-|:purple_circle:|Projeto   |PostgreSQL e NodeJs  |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-NodeJs">Clique-me</a>|PostgreSQL, NodeJs|
+|:purple_circle:|Projeto   |NodeJs e JWT         |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-JWT">Clique-me</a>|NodeJs, JWT|
+|:purple_circle:|Projeto   |NojeJs e Hapi        |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-Hapi">Clique-me</a>|NodeJs, Hapi|
+|:purple_circle:|Projeto   |NodeJs e MongoDb     |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-MongoDb">Clique-me</a>|NodeJs, MongoDb|
+|:purple_circle:|Projeto   |NodeJs e PostgreSQL  |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-PostgreSQL">Clique-me</a>|NodeJs, PostgreSQL|
 |:purple_circle:|Projeto   |Banco PostgreSQL     |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
 |- -|- -|- -|- -|- -|
 
