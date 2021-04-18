@@ -98,6 +98,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:purple_circle:|Projeto   |Rede social 1        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
 |:purple_circle:|Projeto   |Rede social 2        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
 |- -|- -|- -|- -|- -|
+|:purple_circle:|Projeto   |NodeJs e Websockets  |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-Websockets">Clique-me</a>|NodeJs, Websockets|
 |:purple_circle:|Projeto   |NodeJs e TDD         |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-TDD">Clique-me</a>|NodeJs, TDD|
 |:purple_circle:|Projeto   |NodeJs e JWT         |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-JWT">Clique-me</a>|NodeJs, JWT|
 |:purple_circle:|Projeto   |NojeJs e Hapi        |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-Hapi">Clique-me</a>|NodeJs, Hapi|
