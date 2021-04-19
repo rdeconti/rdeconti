@@ -74,6 +74,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 |:purple_circle:|Projeto   |Map, Filter, Reduce  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Map-Filter-Reduce">Clique-me</a>|Javascript|
 |:purple_circle:|Projeto   |Promisses            |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Promises">Clique-me</a>|Javascript|
 |- -|- -|- -|- -|- -|
+|:purple_circle:|Projeto   |Cadastro Java com JSF|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Cadastro-JSF">Clique-me</a>|Java, Jsf|
 |:purple_circle:|Projeto   |MySql com JDBC e JPA |<a href="https://github.com/rdeconti/Projeto-DIO-Java-MySql-Jdbc-Jpa">Clique-me</a>|MySql, JDBC, JPA|
 |:purple_circle:|Projeto   |Sistema recomendações|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Sistema-Recomendacoes">Clique-me</a>|Java, IA|
 |:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Mock-Mvc">Clique-me</a>|Java,MockMvc|
