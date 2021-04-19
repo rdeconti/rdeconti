@@ -333,8 +333,8 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Números impares         |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Numeros-Impares">Clique-me</a>|Kotlin none |
 |:green_circle: |Desafio|Quadrado e ao cubo      |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Quadrado-Ao-Cubo">Clique-me</a>|Kotlin none |
 |:green_circle: |Desafio|Taxa imposto renda      |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Taxa-De-Imposto-De-Renda">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|Área do circulo         |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Area-Do-Circulo">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|Primo rápido            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Primo-Rapido">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Área do circulo         |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Area-Do-Circulo">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Primo rápido            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Primo-Rapido">Clique-me</a>|Kotlin none |
 |:yellow_circle:|Desafio|A corrida das tartarugas|<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-A-Corrida-De-Tartarugas">Clique-me</a>|Kotlin none |
 |:yellow_circle:|Desafio|Figurinhas              |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Figurinhas">Clique-me</a>|Kotlin none |
 |:yellow_circle:|Desafio|Jogo matemático Paula   |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-O-Jogo-Matematico-De-Paula">Clique-me</a>|Kotlin none |
