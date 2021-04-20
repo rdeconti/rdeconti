@@ -50,63 +50,64 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:purple_circle:|Projeto   |Extração com Python  |<a href="https://github.com/rdeconti/Projeto-DIO-Python-Extracao-Web">Clique-me</a>|Python|
+|:purple_circle:|Aula prática|Fundamentos Python   |<a href="https://github.com/rdeconti/Projeto-DIO-Python-Fundamentos">Clique-me</a>|Python|
+|:purple_circle:|Aula prática|Extração com Python  |<a href="https://github.com/rdeconti/Projeto-DIO-Python-Extracao-Web">Clique-me</a>|Python|
 |- -|- -|- -|- -|- -|
-|:purple_circle:|Projeto   |Injeção dependência  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Injecao-Dependencia">Clique-me</a>|cSharp|
-|:purple_circle:|Projeto   |Testando aplicações  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Testando-Aplicacao">Clique-me</a>|cSharp|
-|:purple_circle:|Projeto   |Cadastro de cursos   |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-De-Cursos">Clique-me</a>|Docker|
-|:purple_circle:|Projeto   |Primeiro Projeto .NET|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Primeiro-Projeto">Clique-me</a>|cSharp|
-|:purple_circle:|Projeto   |Design patterns em C#|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Design-Patterns">Clique-me</a>|cSharp|
-|:purple_circle:|Projeto   |Exemplos cSharp      |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Exemplos-cSharp">Clique-me</a>|cSharp|
+|:purple_circle:|Aula prática|Injeção dependência  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Injecao-Dependencia">Clique-me</a>|cSharp|
+|:purple_circle:|Aula prática|Testando aplicações  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Testando-Aplicacao">Clique-me</a>|cSharp|
+|:purple_circle:|Aula prática|Cadastro de cursos   |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-De-Cursos">Clique-me</a>|Docker|
+|:purple_circle:|Aula prática|Primeiro Projeto .NET|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Primeiro-Projeto">Clique-me</a>|cSharp|
+|:purple_circle:|Aula prática|Design patterns em C#|<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Design-Patterns">Clique-me</a>|cSharp|
+|:purple_circle:|Aula prática|Exemplos cSharp      |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Exemplos-cSharp">Clique-me</a>|cSharp|
 |- -|- -|- -|- -|- -|
-|:purple_circle:|Projeto   |Minha página         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
+|:purple_circle:|Aula prática|Minha página         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Minha-Pagina">Clique-me</a>|Html5, Css3|
 |- -|- -|- -|- -|- -|
-|:purple_circle:|Projeto   |TDD com JavaScript   |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-TDD">Clique-me</a>|Javascript|
-|:purple_circle:|Projeto   |Web Javascript       |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Performance-Web">Clique-me</a>|Javascript|
-|:purple_circle:|Projeto   |Gerenciador Crushes  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Gerenciar-Crushes">Clique-me</a>|Javascript, API, NodeJs|
-|:purple_circle:|Projeto   |HTML Node Express Pug|<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express-Pug">Clique-me</a>|Javascript, Node Express, Pug|
-|:purple_circle:|Projeto   |HTML Template Pug    |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Pug">Clique-me</a>|Javascript, Node, Pug|
-|:purple_circle:|Projeto   |Consulta CLimatempo  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-Climatempo">Clique-me</a>|Javascript, Commander.Js|
-|:purple_circle:|Projeto   |Buscador de pastas   |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-CLI">Clique-me</a>|Javascript,Node Express, CLI|
-|:purple_circle:|Projeto   |Cadastro de usuários |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express">Clique-me</a>|Javascript,Node Express|
-|:purple_circle:|Projeto   |Async-await          |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Async-Await">Clique-me</a>|Javascript|
-|:purple_circle:|Projeto   |Consulta CEP         |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-CEP">Clique-me</a>|Javascript, Bootstrap, Ajax, Jquery|
-|:purple_circle:|Projeto   |Map, Filter, Reduce  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Map-Filter-Reduce">Clique-me</a>|Javascript|
-|:purple_circle:|Projeto   |Promisses            |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Promises">Clique-me</a>|Javascript|
+|:purple_circle:|Aula prática|TDD com JavaScript   |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-TDD">Clique-me</a>|Javascript|
+|:purple_circle:|Aula prática|Web Javascript       |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Performance-Web">Clique-me</a>|Javascript|
+|:purple_circle:|Aula prática|Gerenciador Crushes  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Gerenciar-Crushes">Clique-me</a>|Javascript, API, NodeJs|
+|:purple_circle:|Aula prática|HTML Node Express Pug|<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express-Pug">Clique-me</a>|Javascript, Node Express, Pug|
+|:purple_circle:|Aula prática|HTML Template Pug    |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Pug">Clique-me</a>|Javascript, Node, Pug|
+|:purple_circle:|Aula prática|Consulta CLimatempo  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-Climatempo">Clique-me</a>|Javascript, Commander.Js|
+|:purple_circle:|Aula prática|Buscador de pastas   |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-CLI">Clique-me</a>|Javascript,Node Express, CLI|
+|:purple_circle:|Aula prática|Cadastro de usuários |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Node-Express">Clique-me</a>|Javascript,Node Express|
+|:purple_circle:|Aula prática|Async-await          |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Async-Await">Clique-me</a>|Javascript|
+|:purple_circle:|Aula prática|Consulta CEP         |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Consulta-CEP">Clique-me</a>|Javascript, Bootstrap, Ajax, Jquery|
+|:purple_circle:|Aula prática|Map, Filter, Reduce  |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Map-Filter-Reduce">Clique-me</a>|Javascript|
+|:purple_circle:|Aula prática|Promisses            |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Promises">Clique-me</a>|Javascript|
 |- -|- -|- -|- -|- -|
-|:purple_circle:|Projeto   |Cadastro Java com JSF|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Cadastro-JSF">Clique-me</a>|Java, Jsf|
-|:purple_circle:|Projeto   |MySql com JDBC e JPA |<a href="https://github.com/rdeconti/Projeto-DIO-Java-MySql-Jdbc-Jpa">Clique-me</a>|MySql, JDBC, JPA|
-|:purple_circle:|Projeto   |Sistema recomendações|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Sistema-Recomendacoes">Clique-me</a>|Java, IA|
-|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Mock-Mvc">Clique-me</a>|Java,MockMvc|
-|:purple_circle:|Projeto   |Telegram Bot         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Rest">Clique-me</a>|Java,Spring,Rest|
-|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jackson-Binder">Clique-me</a>|Java,Jackson,Binder|
-|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Filters">Clique-me</a>|Java,Filters|
-|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Hatetoas">Clique-me</a>|Java,Hatetoas|
-|:purple_circle:|Projeto   |Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jax-Rs">Clique-me</a>|Java,Jax-Rs|
-|:purple_circle:|Projeto   |Cadastro de Jedi     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-MVC-Spring-Boot">Clique-me</a>|Java,MVC,Spring Boot|
-|:purple_circle:|Projeto   |Testes com Java/Junit|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Testes-Junit">Clique-me</a>|Java, Junit|
-|:purple_circle:|Projeto   |Java e Spring Boot   |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Boot">Clique-me</a>|Java, Spring Boot|
-|:purple_circle:|Projeto   |Java Modular         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Modular-Java">Clique-me</a>|Java|
-|:purple_circle:|Projeto   |Java Avançado        |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Avancado-Java">Clique-me</a>|Java|
-|:purple_circle:|Projeto   |Collections Java     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Collections-Java">Clique-me</a>|Java|
-|:purple_circle:|Projeto   |Caracteristica Java  |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Caracteristica-Java">Clique-me</a>|Java|
+|:purple_circle:|Aula prática|Cadastro Java com JSF|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Cadastro-JSF">Clique-me</a>|Java, Jsf|
+|:purple_circle:|Aula prática|MySql com JDBC e JPA |<a href="https://github.com/rdeconti/Projeto-DIO-Java-MySql-Jdbc-Jpa">Clique-me</a>|MySql, JDBC, JPA|
+|:purple_circle:|Aula prática|Sistema recomendações|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Sistema-Recomendacoes">Clique-me</a>|Java, IA|
+|:purple_circle:|Aula prática|Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Mock-Mvc">Clique-me</a>|Java,MockMvc|
+|:purple_circle:|Aula prática|Telegram Bot         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Rest">Clique-me</a>|Java,Spring,Rest|
+|:purple_circle:|Aula prática|Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jackson-Binder">Clique-me</a>|Java,Jackson,Binder|
+|:purple_circle:|Aula prática|Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Filters">Clique-me</a>|Java,Filters|
+|:purple_circle:|Aula prática|Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Hatetoas">Clique-me</a>|Java,Hatetoas|
+|:purple_circle:|Aula prática|Senhor dos Anéis     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Jax-Rs">Clique-me</a>|Java,Jax-Rs|
+|:purple_circle:|Aula prática|Cadastro de Jedi     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-MVC-Spring-Boot">Clique-me</a>|Java,MVC,Spring Boot|
+|:purple_circle:|Aula prática|Testes com Java/Junit|<a href="https://github.com/rdeconti/Projeto-DIO-Java-Testes-Junit">Clique-me</a>|Java, Junit|
+|:purple_circle:|Aula prática|Java e Spring Boot   |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Spring-Boot">Clique-me</a>|Java, Spring Boot|
+|:purple_circle:|Aula prática|Java Modular         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Modular-Java">Clique-me</a>|Java|
+|:purple_circle:|Aula prática|Java Avançado        |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Avancado-Java">Clique-me</a>|Java|
+|:purple_circle:|Aula prática|Collections Java     |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Collections-Java">Clique-me</a>|Java|
+|:purple_circle:|Aula prática|Caracteristica Java  |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Caracteristica-Java">Clique-me</a>|Java|
 |- -|- -|- -|- -|- -|
-|:purple_circle:|Projeto   |Primeiro container   |<a href="https://github.com/rdeconti/Projeto-DIO-Docker-Meu-Primerio-Container">Clique-me</a>|Docker|
+|:purple_circle:|Aula prática|Primeiro container   |<a href="https://github.com/rdeconti/Projeto-DIO-Docker-Meu-Primerio-Container">Clique-me</a>|Docker|
 |- -|- -|- -|- -|- -|
-|:purple_circle:|Projeto   |ReactJs Avançado     |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Avancado">Clique-me</a>|ReactJs|
-|:purple_circle:|Projeto   |ReactJs Intermediário|<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Intermediario">Clique-me</a>|ReactJs|
-|:purple_circle:|Projeto   |ReactJs Básico       |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Basico">Clique-me</a>|ReactJs|
+|:purple_circle:|Aula prática|ReactJs Avançado     |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Avancado">Clique-me</a>|ReactJs|
+|:purple_circle:|Aula prática|ReactJs Intermediário|<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Intermediario">Clique-me</a>|ReactJs|
+|:purple_circle:|Aula prática|ReactJs Básico       |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Exercicios-Basico">Clique-me</a>|ReactJs|
 |- -|- -|- -|- -|- -|
-|:purple_circle:|Projeto   |Rede social 1        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
-|:purple_circle:|Projeto   |Rede social 2        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
+|:purple_circle:|Aula prática|Rede social 1        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-1">Clique-me</a>|Ruby on Rails|
+|:purple_circle:|Aula prática|Rede social 2        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Rede-Social-2">Clique-me</a>|Ruby on Rails|
 |- -|- -|- -|- -|- -|
-|:purple_circle:|Projeto   |NodeJs e Websockets  |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-Websockets">Clique-me</a>|NodeJs, Websockets|
-|:purple_circle:|Projeto   |NodeJs e TDD         |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-TDD">Clique-me</a>|NodeJs, TDD|
-|:purple_circle:|Projeto   |NodeJs e JWT         |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-JWT">Clique-me</a>|NodeJs, JWT|
-|:purple_circle:|Projeto   |NojeJs e Hapi        |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-Hapi">Clique-me</a>|NodeJs, Hapi|
-|:purple_circle:|Projeto   |NodeJs e MongoDb     |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-MongoDb">Clique-me</a>|NodeJs, MongoDb|
-|:purple_circle:|Projeto   |NodeJs e PostgreSQL  |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-PostgreSQL">Clique-me</a>|NodeJs, PostgreSQL|
-|:purple_circle:|Projeto   |Banco PostgreSQL     |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
+|:purple_circle:|Aula prática|NodeJs e Websockets  |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-Websockets">Clique-me</a>|NodeJs, Websockets|
+|:purple_circle:|Aula prática|NodeJs e TDD         |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-TDD">Clique-me</a>|NodeJs, TDD|
+|:purple_circle:|Aula prática|NodeJs e JWT         |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-JWT">Clique-me</a>|NodeJs, JWT|
+|:purple_circle:|Aula prática|NojeJs e Hapi        |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-Hapi">Clique-me</a>|NodeJs, Hapi|
+|:purple_circle:|Aula prática|NodeJs e MongoDb     |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-MongoDb">Clique-me</a>|NodeJs, MongoDb|
+|:purple_circle:|Aula prática|NodeJs e PostgreSQL  |<a href="https://github.com/rdeconti/Projeto-DIO-NodeJs-PostgreSQL">Clique-me</a>|NodeJs, PostgreSQL|
+|:purple_circle:|Aula prática|Banco PostgreSQL     |<a href="https://github.com/rdeconti/Projeto-DIO-PostgreSQL-Banco">Clique-me</a>|PostgreSQL|
 |- -|- -|- -|- -|- -|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
