@@ -50,6 +50,9 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:purple_circle:|Aula prática|Angular Avançado     |<a href="https://github.com/rdeconti/Projeto-DIO-Angular-Avancado">Clique-me</a>|Angular|
+|:purple_circle:|Aula prática|Angular Básico       |<a href="https://github.com/rdeconti/Projeto-DIO-Angular-Basico">Clique-me</a>|Angular|
+|- -|- -|- -|- -|- -|
 |:purple_circle:|Aula prática|Fundamentos Python   |<a href="https://github.com/rdeconti/Projeto-DIO-Python-Fundamentos">Clique-me</a>|Python|
 |:purple_circle:|Aula prática|Extração com Python  |<a href="https://github.com/rdeconti/Projeto-DIO-Python-Extracao-Web">Clique-me</a>|Python|
 |- -|- -|- -|- -|- -|
