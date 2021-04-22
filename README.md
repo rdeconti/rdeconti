@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 15 de Abril de 2021 :heart:
+:spiral_calendar: Atualizado em 22 de Abril de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -211,10 +211,10 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 ## :label: Java Developer (24/04/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
-|:yellow_circle:|Projeto|Gerenciador de pessoas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot| none |
-|:yellow_circle:|Projeto|Consulta cidades do Brasil             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
-|:yellow_circle:|Projeto|Gerenciador de salas de reuniões       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular| none |
-|:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest| none |
+|:green_circle: |Projeto|Gerenciador de pessoas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Pessoas">Clique-me</a>|Java, API Rest,Spring Boot| none |
+|:green_circle: |Projeto|Consulta cidades do Brasil             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Consulta-Cidades-Do-Brasil">Clique-me</a>|Java, API Rest|
+|:green_circle: |Projeto|Gerenciador de salas de reuniões       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Gerenciador-De-Salas-De-Reunioes">Clique-me</a>|Java, Angular| none |
+|:green_circle: |Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest| none |
 |:green_circle: |Desafio|Visita na feira                        |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Vista-Na-Feira">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Multiplicação simples                  |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Multiplicacao-Simples">Clique-me</a>|Java| none |
 |:green_circle: |Desafio|Folha de pagamento                     |<a href="https://github.com/rdeconti/Desafios-DIO-Java/tree/main/Desafio-Java-Folha-De-Pagamento">Clique-me</a>|Java| none |
@@ -313,7 +313,7 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 ## :label: Inter Java Dev (9/05/2021)
 |Sit|Tipo|Nome|Detalhes|Ferramentas| URI Judge |
 |---|----|----|--------|-----------|-----------|
-|:yellow_circle:|Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest| none |
+|:green_circle: |Projeto|Gerenciamento Estoque Cerveja          |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Estoque-Cerveja">Clique-me</a> |Java, API Rest| none |
 |:yellow_circle:|Projeto|Gerenciamento Heróis Marvel/DC         |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Herois-Marvel-DC">Clique-me</a>|Java, API Reativa, Spring Boot|| none |
 |:yellow_circle:|Projeto|E-commerce                             |<a href="https://github.com/rdeconti/Projeto-DIO-Java-E-Commerce">Clique-me</a> |Java, micro-serviços| none |
 |:yellow_circle:|Projeto|Kubernets                              |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Kubernets">Clique-me</a> |Java, Kubernetes| none |
