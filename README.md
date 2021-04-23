@@ -339,11 +339,11 @@ Obs: estes projetos serão revisados somente após o encerramento dos projetos q
 |:green_circle: |Desafio|Taxa imposto renda      |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Taxa-De-Imposto-De-Renda">Clique-me</a>|Kotlin none |
 |:green_circle: |Desafio|Área do circulo         |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Area-Do-Circulo">Clique-me</a>|Kotlin none |
 |:green_circle: |Desafio|Primo rápido            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Primo-Rapido">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|A corrida das tartarugas|<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-A-Corrida-De-Tartarugas">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|Figurinhas              |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Figurinhas">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|Jogo matemático Paula   |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-O-Jogo-Matematico-De-Paula">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|Conversão simples base  |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Conversao-Simples-De-Base">Clique-me</a>|Kotlin none |
-|:yellow_circle:|Desafio|Bob conduíte            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Bob-Conduite">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|A corrida das tartarugas|<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-A-Corrida-De-Tartarugas">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Figurinhas              |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Figurinhas">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Jogo matemático Paula   |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-O-Jogo-Matematico-De-Paula">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Conversão simples base  |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Conversao-Simples-De-Base">Clique-me</a>|Kotlin none |
+|:green_circle: |Desafio|Bob conduíte            |<a href="https://github.com/rdeconti/Desafios-DIO-Kotlin/tree/main/Desafio-Kotlin-Bob-Conduite">Clique-me</a>|Kotlin none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :label: Avanade Angular Developer (9/05/2021)
