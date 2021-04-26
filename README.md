@@ -50,6 +50,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 ### Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:purple_circle:|Aula prática|Angular Teste Cypress|<a href="https://github.com/rdeconti/Aula-DIO-Angular-Teste-Cypress">Clique-me</a>|Angular, Cypress|
 |:purple_circle:|Aula prática|Angular Arquitetura  |<a href="https://github.com/rdeconti/Aula-DIO-Angular-Arquitetura-Componentes">Clique-me</a>|Angular, Ngrx|
 |:purple_circle:|Aula prática|Angular Ngrx         |<a href="https://github.com/rdeconti/Aula-DIO-Angular-Gerenciamento-Ngrx">Clique-me</a>|Angular, Ngrx|
 |:purple_circle:|Aula prática|Angular Gerenciamento Estado|<a href="https://github.com/rdeconti/Aula-DIO-Angular-Gerenciamento-Estado">Clique-me</a>|Angular|
