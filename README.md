@@ -122,6 +122,7 @@ Aqui está a lista de projetos e desafios nos quais participei ou estou particip
 Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
+|:purple_circle:|Projeto|ChatBot com IA      |<a href="https://github.com/rdeconti/Projeto-DIO-ChatBot-Ia">Clique-me</a>|Inteligence Artificial|
 |:purple_circle:|Projeto|Gerador de frases   |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Gerador-De-Frases">Clique-me</a>|ReactJs|
 |:purple_circle:|Projeto|Agenda de contatos  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Agenda-De-Contatos">Clique-me</a>|cSharp, Boostrap, Jquery|
 |:purple_circle:|Projeto|Electropalce        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Ruby on Rails|
