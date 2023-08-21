@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 24 de Maio de 2021 :heart:
+:spiral_calendar: Atualizado em 19 de Agosto de 2023 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/rdeconti/"> <img align="right" alt="GIF" width="200px" height="230px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> </a>
