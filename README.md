@@ -1,14 +1,13 @@
-# Página em constante atualização
+# Página atualizada com desafios e projetos
 
-:spiral_calendar: Atualizado em 19 de Agosto de 2023 :heart:
+:spiral_calendar: Atualizado em 31 de Julho de 2024 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/rdeconti/"> <img align="right" alt="GIF" width="200px" height="230px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> </a>
 
 # 😊 Olá!, Meu nome é Rosemeire Deconti!
 - Autodidata e apaixonada por desenvolvimento
-- Vivendo atualmente no Brasil e trabalhando remotamente. 
-- Aberta a novas oportunidades de trabalho!
+- Sempre me atualizando e inovando!!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :link: Conheça mais sobre minha trajetória!
