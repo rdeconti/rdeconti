@@ -8,6 +8,7 @@
 # 😊 Olá!, Meu nome é Rosemeire Deconti!
 - Autodidata e apaixonada por desenvolvimento
 - Sempre me atualizando e inovando!!
+- Aposentar não é o mesmo que não ter interesse algum! Ainda estou aqui!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :link: Conheça mais sobre minha trajetória!
