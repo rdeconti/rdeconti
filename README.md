@@ -1,4 +1,4 @@
-# Página atualizada com desafios e projetos
+# Página atualizada com desafios e projetos - SENDO ATUALIZADA EM INTERAÇÃO COM INTELIGÊNCIA ARTIFICIAL
 
 :spiral_calendar: Atualizado em 31 de Julho de 2024 :heart:
 
