@@ -7,9 +7,13 @@
 <a href="https://github.com/rdeconti/"> <img align="right" alt="GIF" width="200px" height="230px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> </a>
 
 # 😊 Olá!, Meu nome é Rosemeire Deconti!
-- Autodidata e apaixonada por desenvolvimento
-- Sempre me atualizando e inovando!!
-- Aposentar não é o mesmo que não ter interesse algum! Ainda estou aqui!
+- 🌟 Desenvolvedora Web apaixonada por tecnologia e inovação
+- 📘 Foco em projetos com impacto real e design moderno
+- 💙 Interesse por acessibilidade, usabilidade e performance
+- 🎓 Formação sólida e participação ativa em bootcamps
+- 🌐 Sempre atualizada com as últimas tendências
+- 📍 São Paulo, Brasil
+# Aposentar não é o mesmo que não ter interesse algum! Ainda estou aqui!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :link: Conheça mais sobre minha trajetória!
