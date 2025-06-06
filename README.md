@@ -1,6 +1,7 @@
-# Página atualizada com desafios e projetos - SENDO ATUALIZADA EM INTERAÇÃO COM INTELIGÊNCIA ARTIFICIAL
+# Página atualizada com desafios e projetos
+# Sendo atualizada com ChatGpt
 
-:spiral_calendar: Atualizado em 31 de Julho de 2024 :heart:
+:spiral_calendar: Atualizado em 06 de Junho de 2025 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/rdeconti/"> <img align="right" alt="GIF" width="200px" height="230px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> </a>
